@@ -1,0 +1,6684 @@
+[
+  {
+    "subject": "共同科目",
+    "source_question_number": 1,
+    "question": "對於核計勞⼯所得有無低於基本⼯資，下列敘述何者有誤？",
+    "options": {
+      "A": "僅計入在正常⼯時內之報酬",
+      "B": "應計入加班費",
+      "C": "不計入休假⽇出勤加給之⼯資",
+      "D": "不計入競賽獎⾦"
+    },
+    "answer": "B",
+    "source_pages": [
+      1
+    ],
+    "question_id": "共同科目-00001",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 2,
+    "question": "下列何者之⼯資⽇數得列入計算平均⼯資？",
+    "options": {
+      "A": "請事假期間",
+      "B": "職災醫療期間",
+      "C": "發⽣計算事由之當⽇前 6 個⽉",
+      "D": "放無薪假期間"
+    },
+    "answer": "C",
+    "source_pages": [
+      1
+    ],
+    "question_id": "共同科目-00002",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 3,
+    "question": "有關「例假」之敘述，下列何者有誤？",
+    "options": {
+      "A": "每 7 ⽇應有例假 1 ⽇",
+      "B": "⼯資照給",
+      "C": "天災出勤時，⼯資加倍及補休",
+      "D": "須給假，不必給⼯資"
+    },
+    "answer": "D",
+    "source_pages": [
+      1
+    ],
+    "question_id": "共同科目-00003",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 4,
+    "question": "勞動基準法第 84 條之 1 規定之⼯作者，因⼯作性質特殊，就其⼯作時間，下列何者 正確？",
+    "options": {
+      "A": "完全不受限制",
+      "B": "無例假與休假",
+      "C": "不另給予延時⼯資",
+      "D": "得由勞雇雙⽅另⾏約定"
+    },
+    "answer": "D",
+    "source_pages": [
+      1
+    ],
+    "question_id": "共同科目-00004",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 1,
+    "question": "5依勞動基準法規定，雇主應置備勞⼯⼯資清冊並應保存幾年？",
+    "options": {
+      "A": "1年",
+      "B": "2年",
+      "C": "5年",
+      "D": "10年"
+    },
+    "answer": "C",
+    "source_pages": [
+      1,
+      2
+    ],
+    "question_id": "共同科目-00005",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 6,
+    "question": "事業單位僱⽤勞⼯多少⼈以上者，應依勞動基準法規定訂立⼯作規則？",
+    "options": {
+      "A": "30 ⼈",
+      "B": "50 ⼈",
+      "C": "100 ⼈",
+      "D": "200 ⼈"
+    },
+    "answer": "A",
+    "source_pages": [
+      2
+    ],
+    "question_id": "共同科目-00006",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 7,
+    "question": "依勞動基準法規定，雇主延長勞⼯之⼯作時間連同正常⼯作時間，每⽇不得超過多少 ⼩時？",
+    "options": {
+      "A": "10 ⼩時",
+      "B": "11 ⼩時",
+      "C": "12 ⼩時",
+      "D": "15 ⼩時"
+    },
+    "answer": "C",
+    "source_pages": [
+      2
+    ],
+    "question_id": "共同科目-00007",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 8,
+    "question": "依勞動基準法規定，下列何者屬不定期契約？",
+    "options": {
+      "A": "臨時性或短期性的⼯作",
+      "B": "季節性的⼯作",
+      "C": "特定性的⼯作",
+      "D": "有繼續性的⼯作"
+    },
+    "answer": "D",
+    "source_pages": [
+      2
+    ],
+    "question_id": "共同科目-00008",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 9,
+    "question": "依職業安全衛⽣法規定，事業單位勞動場所發⽣死亡職業災害時，雇主應於多少⼩時 內通報勞動檢查機構？",
+    "options": {
+      "A": "8 ⼩時",
+      "B": "12 ⼩時",
+      "C": "24 ⼩時",
+      "D": "48 ⼩時"
+    },
+    "answer": "A",
+    "source_pages": [
+      2
+    ],
+    "question_id": "共同科目-00009",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 10,
+    "question": "事業單位之勞⼯代表如何產⽣？",
+    "options": {
+      "A": "由企業⼯會推派之",
+      "B": "由產業⼯會推派之",
+      "C": "由勞資雙⽅協議推派之",
+      "D": "由勞⼯輪流擔任之"
+    },
+    "answer": "A",
+    "source_pages": [
+      2
+    ],
+    "question_id": "共同科目-00010",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 11,
+    "question": "職業安全衛⽣法所稱有⺟性健康危害之虞之⼯作，不包括下列何種⼯作型態？",
+    "options": {
+      "A": "長時間站立姿勢作業",
+      "B": "⼈⼒提舉、搬運及推拉重物",
+      "C": "輪班及⼯作負荷",
+      "D": "駕駛運輸⾞輛"
+    },
+    "answer": "D",
+    "source_pages": [
+      2
+    ],
+    "question_id": "共同科目-00011",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 12,
+    "question": "依職業安全衛⽣法施⾏細則規定，下列何者非屬特別危害健康之作業？",
+    "options": {
+      "A": "噪⾳作業",
+      "B": "游離輻射作業",
+      "C": "會計作業",
+      "D": "粉塵作業"
+    },
+    "answer": "C",
+    "source_pages": [
+      2
+    ],
+    "question_id": "共同科目-00012",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 13,
+    "question": "從事於易踏穿材料構築之屋頂修繕作業時，應有何種作業主管在場執⾏主管業務？",
+    "options": {
+      "A": "施⼯架組配",
+      "B": "擋⼟⽀撐組配",
+      "C": "屋頂",
+      "D": "模板⽀撐"
+    },
+    "answer": "C",
+    "source_pages": [
+      2
+    ],
+    "question_id": "共同科目-00013",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 14,
+    "question": "有關「⼯讀⽣」之敘述，下列何者正確？",
+    "options": {
+      "A": "⼯資不得低於基本⼯資之 80％",
+      "B": "屬短期⼯作者，加班只能補休",
+      "C": "每⽇正常⼯作時間得超過 8 ⼩時",
+      "D": "國定假⽇出勤，⼯資加倍發給"
+    },
+    "answer": "D",
+    "source_pages": [
+      2
+    ],
+    "question_id": "共同科目-00014",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 15,
+    "question": "勞⼯⼯作時⼿部嚴重受傷，住院醫療期間公司應按下列何者給予職業災害補償？",
+    "options": {
+      "A": "前 6 個⽉平均⼯資",
+      "B": "前 1年平均⼯資",
+      "C": "原領⼯資",
+      "D": "基本⼯資"
+    },
+    "answer": "B",
+    "source_pages": [
+      2
+    ],
+    "question_id": "共同科目-00015",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 16,
+    "question": "勞⼯在何種情況下，雇主得不經預告終⽌勞動契約？",
+    "options": {
+      "A": "確定被法院判刑 6 個⽉以內並諭知緩刑超過 1 年以上者",
+      "B": "不服指揮對雇主暴⼒相向者",
+      "C": "經常遲到早退者",
+      "D": "非連續曠⼯但 1 個⽉內累計 3 ⽇者"
+    },
+    "answer": "B",
+    "source_pages": [
+      3
+    ],
+    "question_id": "共同科目-00016",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 17,
+    "question": "對於吹哨者保護規定，下列敘述何者有誤？",
+    "options": {
+      "A": "事業單位不得對勞⼯申訴⼈終⽌勞動契約",
+      "B": "勞動檢查機構受理勞⼯申訴必須保密",
+      "C": "為實施勞動檢查，必要時得告知事業單位有關勞⼯申訴⼈⾝分",
+      "D": "事業單位不得有不利勞⼯申訴⼈之處分"
+    },
+    "answer": "C",
+    "source_pages": [
+      3
+    ],
+    "question_id": "共同科目-00017",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 18,
+    "question": "職業安全衛⽣法所稱有⺟性健康危害之虞之⼯作，係指對於具⽣育能⼒之女性勞⼯從 事⼯作，可能會導致的⼀些影響。下列何者除外？",
+    "options": {
+      "A": "胚胎發育",
+      "B": "妊娠期間之⺟體健康",
+      "C": "哺乳期間之幼兒健康",
+      "D": "經期紊亂"
+    },
+    "answer": "D",
+    "source_pages": [
+      3
+    ],
+    "question_id": "共同科目-00018",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 19,
+    "question": "下列何者非屬職業安全衛⽣法規定之勞⼯法定義務？",
+    "options": {
+      "A": "定期接受健康檢查",
+      "B": "參加安全衛⽣教育訓練",
+      "C": "實施⾃動檢查",
+      "D": "遵守安全衛⽣⼯作守則"
+    },
+    "answer": "C",
+    "source_pages": [
+      3
+    ],
+    "question_id": "共同科目-00019",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 20,
+    "question": "下列何者非屬應對在職勞⼯施⾏之健康檢查？",
+    "options": {
+      "A": "⼀般健康檢查",
+      "B": "體格檢查",
+      "C": "特殊健康檢查",
+      "D": "特定對象及特定項⽬之檢查"
+    },
+    "answer": "B",
+    "source_pages": [
+      3
+    ],
+    "question_id": "共同科目-00020",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 21,
+    "question": "下列何者非為防範有害物食入之⽅法？",
+    "options": {
+      "A": "有害物與食物隔離",
+      "B": "不在⼯作場所進食或飲⽔",
+      "C": "常洗⼿、漱⼝",
+      "D": "穿⼯作服"
+    },
+    "answer": "D",
+    "source_pages": [
+      3
+    ],
+    "question_id": "共同科目-00021",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 22,
+    "question": "原事業單位如有違反職業安全衛⽣法或有關安全衛⽣規定，致承攬⼈所僱勞⼯發⽣職 業災害時，有關承攬管理責任，下列敘述何者正確？",
+    "options": {
+      "A": "原事業單位應與承攬⼈負連帶賠償責任",
+      "B": "原事業單位不需負連帶補償責任",
+      "C": "承攬廠商應⾃負職業災害之賠償責任",
+      "D": "勞⼯投保單位即為職業災害之賠償單位"
+    },
+    "answer": "A",
+    "source_pages": [
+      3
+    ],
+    "question_id": "共同科目-00022",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 23,
+    "question": "依勞動基準法規定，主管機關或檢查機構於接獲勞⼯申訴事業單位違反本法及其他勞 ⼯法令規定後，應為必要之調查，並於幾⽇內將處理情形，以書⾯通知勞⼯？",
+    "options": {
+      "A": "14 ⽇",
+      "B": "20 ⽇",
+      "C": "30 ⽇",
+      "D": "60 ⽇"
+    },
+    "answer": "D",
+    "source_pages": [
+      3
+    ],
+    "question_id": "共同科目-00023",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 24,
+    "question": "我國中央勞動業務主管機關為下列何者？",
+    "options": {
+      "A": "內政部",
+      "B": "勞⼯保險局",
+      "C": "勞動部",
+      "D": "經濟部"
+    },
+    "answer": "C",
+    "source_pages": [
+      4
+    ],
+    "question_id": "共同科目-00024",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 25,
+    "question": "對於勞動部公告列入應實施型式驗證之機械、設備或器具，下列何種情形不得免驗 證？",
+    "options": {
+      "A": "依其他法律規定實施驗證者",
+      "B": "供國防軍事⽤途使⽤者",
+      "C": "輸入僅供科技研發之專⽤機型",
+      "D": "輸入僅供收藏使⽤之限量品"
+    },
+    "answer": "D",
+    "source_pages": [
+      4
+    ],
+    "question_id": "共同科目-00025",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 26,
+    "question": "對於墜落危險之預防設施，下列敘述何者較為妥適？",
+    "options": {
+      "A": "在外牆施⼯架等⾼處作業應盡量使⽤繫腰式安全帶",
+      "B": "安全帶應確實配掛在低於⾜下之堅固點",
+      "C": "⾼度 2 m 以上之邊緣開⼝部分處應圍起警⽰帶",
+      "D": "⾼度 2 m 以上之開⼝處應設護欄或安全網"
+    },
+    "answer": "D",
+    "source_pages": [
+      4
+    ],
+    "question_id": "共同科目-00026",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 27,
+    "question": "對於感電電流流過⼈體可能呈現的症狀，下列敘述何者有誤？",
+    "options": {
+      "A": "痛覺",
+      "B": "強烈痙攣",
+      "C": "⾎壓降低、呼吸急促、精神亢奮",
+      "D": "造成組織灼傷"
+    },
+    "answer": "C",
+    "source_pages": [
+      4
+    ],
+    "question_id": "共同科目-00027",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 28,
+    "question": "下列何者非屬於容易發⽣墜落災害的作業場所？",
+    "options": {
+      "A": "施⼯架",
+      "B": "廚房",
+      "C": "屋頂",
+      "D": "梯⼦、合梯"
+    },
+    "answer": "B",
+    "source_pages": [
+      4
+    ],
+    "question_id": "共同科目-00028",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 29,
+    "question": "下列何者非屬危險物儲存場所應採取之火災爆炸預防措施？",
+    "options": {
+      "A": "使⽤⼯業⽤電風扇",
+      "B": "裝設可燃性氣體偵測裝置",
+      "C": "使⽤防爆電氣設備",
+      "D": "標⽰「嚴禁煙火」"
+    },
+    "answer": "A",
+    "source_pages": [
+      4
+    ],
+    "question_id": "共同科目-00029",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 30,
+    "question": "雇主於臨時⽤電設備加裝漏電斷路器，可減少下列何種災害發⽣？",
+    "options": {
+      "A": "墜落",
+      "B": "物體倒塌、崩塌",
+      "C": "感電",
+      "D": "被撞"
+    },
+    "answer": "C",
+    "source_pages": [
+      4
+    ],
+    "question_id": "共同科目-00030",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 31,
+    "question": "雇主要求確實管制⼈員不得進入吊舉物下⽅，可避免下列何種災害發⽣？",
+    "options": {
+      "A": "感電",
+      "B": "墜落",
+      "C": "物體⾶落",
+      "D": "缺氧"
+    },
+    "answer": "C",
+    "source_pages": [
+      4
+    ],
+    "question_id": "共同科目-00031",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 32,
+    "question": "職業上危害因⼦所引起的勞⼯疾病，稱為何種疾病？",
+    "options": {
+      "A": "職業疾病",
+      "B": "法定傳染病",
+      "C": "流⾏性疾病",
+      "D": "遺傳性疾病"
+    },
+    "answer": "A",
+    "source_pages": [
+      4
+    ],
+    "question_id": "共同科目-00032",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 33,
+    "question": "事業招⼈承攬時，其承攬⼈就承攬部分負雇主之責任，原事業單位就職業災害補償部 分之責任為何？",
+    "options": {
+      "A": "視職業災害原因判定是否補償",
+      "B": "依⼯程性質決定責任",
+      "C": "依承攬契約決定責任",
+      "D": "仍應與承攬⼈負連帶責任"
+    },
+    "answer": "D",
+    "source_pages": [
+      4
+    ],
+    "question_id": "共同科目-00033",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 34,
+    "question": "預防職業病最根本的措施為何？",
+    "options": {
+      "A": "實施特殊健康檢查",
+      "B": "實施作業環境改善",
+      "C": "實施定期健康檢查",
+      "D": "實施僱⽤前體格檢查"
+    },
+    "answer": "B",
+    "source_pages": [
+      5
+    ],
+    "question_id": "共同科目-00034",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 35,
+    "question": "在地下室作業，當通風換氣充分時，則不易發⽣⼀氧化碳中毒、缺氧危害或火災爆炸 危險。請問「通風換氣充分」係指下列何種描述？",
+    "options": {
+      "A": "風險控制⽅法",
+      "B": "發⽣機率",
+      "C": "危害源",
+      "D": "風險"
+    },
+    "answer": "A",
+    "source_pages": [
+      5
+    ],
+    "question_id": "共同科目-00035",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 36,
+    "question": "勞⼯為節省時間，在未斷電情況下清理機臺，易發⽣危害為何？",
+    "options": {
+      "A": "捲夾感電",
+      "B": "缺氧",
+      "C": "墜落",
+      "D": "崩塌"
+    },
+    "answer": "A",
+    "source_pages": [
+      5
+    ],
+    "question_id": "共同科目-00036",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 37,
+    "question": "⼯作場所化學性有害物進入⼈體最常⾒路徑為下列何者？",
+    "options": {
+      "A": "⼝腔",
+      "B": "呼吸道",
+      "C": "⽪膚",
+      "D": "眼睛"
+    },
+    "answer": "B",
+    "source_pages": [
+      5
+    ],
+    "question_id": "共同科目-00037",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 38,
+    "question": "活線作業勞⼯應佩戴何種防護⼿套？",
+    "options": {
+      "A": "棉紗⼿套",
+      "B": "耐熱⼿套",
+      "C": "絕緣⼿套",
+      "D": "防振⼿套"
+    },
+    "answer": "C",
+    "source_pages": [
+      5
+    ],
+    "question_id": "共同科目-00038",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 39,
+    "question": "下列何者非屬電氣災害類型？",
+    "options": {
+      "A": "電弧灼傷",
+      "B": "電氣火災",
+      "C": "靜電危害",
+      "D": "雷電閃爍"
+    },
+    "answer": "D",
+    "source_pages": [
+      5
+    ],
+    "question_id": "共同科目-00039",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 40,
+    "question": "下列何者非屬於⼯作場所作業會發⽣墜落災害的潛在危害因⼦？",
+    "options": {
+      "A": "開⼝未設置護欄",
+      "B": "未設置安全之上下設備",
+      "C": "未確實配戴耳罩",
+      "D": "屋頂開⼝下⽅未張掛安全網"
+    },
+    "answer": "C",
+    "source_pages": [
+      5
+    ],
+    "question_id": "共同科目-00040",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 41,
+    "question": "在噪⾳防治之對策中，從下列何者著⼿最為有效？",
+    "options": {
+      "A": "偵測儀器",
+      "B": "噪⾳源",
+      "C": "傳播途徑",
+      "D": "個⼈防護具"
+    },
+    "answer": "B",
+    "source_pages": [
+      5
+    ],
+    "question_id": "共同科目-00041",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 42,
+    "question": "勞⼯於室外⾼氣溫作業環境⼯作，可能對⾝體產⽣之熱危害，下列何者非屬熱危害之 症狀？",
+    "options": {
+      "A": "熱衰竭",
+      "B": "中暑",
+      "C": "熱痙攣",
+      "D": "痛風"
+    },
+    "answer": "D",
+    "source_pages": [
+      5
+    ],
+    "question_id": "共同科目-00042",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 43,
+    "question": "下列何者是消除職業病發⽣率之源頭管理對策？",
+    "options": {
+      "A": "使⽤個⼈防護具",
+      "B": "健康檢查",
+      "C": "改善作業環境",
+      "D": "多運動"
+    },
+    "answer": "C",
+    "source_pages": [
+      5
+    ],
+    "question_id": "共同科目-00043",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 44,
+    "question": "下列何者非為職業病預防之危害因⼦？",
+    "options": {
+      "A": "遺傳性疾病",
+      "B": "物理性危害",
+      "C": "⼈因⼯程危害",
+      "D": "化學性危害"
+    },
+    "answer": "A",
+    "source_pages": [
+      5
+    ],
+    "question_id": "共同科目-00044",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 45,
+    "question": "依職業安全衛⽣設施規則規定，下列何者非屬使⽤合梯，應符合之規定？",
+    "options": {
+      "A": "合梯應具有堅固之構造",
+      "B": "合梯材質不得有顯著之損傷、腐蝕等",
+      "C": "梯腳與地⾯之⾓度應在 80 度以上",
+      "D": "有安全之防滑梯⾯ 5"
+    },
+    "answer": "C",
+    "source_pages": [
+      5
+    ],
+    "question_id": "共同科目-00045",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 46,
+    "question": "下列何者非屬勞⼯從事電氣⼯作安全之規定？",
+    "options": {
+      "A": "使其使⽤電⼯安全帽",
+      "B": "穿戴絕緣防護具",
+      "C": "停電作業應斷開、檢電、接地及掛牌",
+      "D": "穿戴棉質⼿套絕緣"
+    },
+    "answer": "D",
+    "source_pages": [
+      6
+    ],
+    "question_id": "共同科目-00046",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 47,
+    "question": "為防⽌勞⼯感電，下列何者為非？",
+    "options": {
+      "A": "使⽤防⽔插頭",
+      "B": "避免不當延長接線",
+      "C": "設備有⾦屬外殼保護即可免接地",
+      "D": "電線架⾼或加以防護"
+    },
+    "answer": "C",
+    "source_pages": [
+      6
+    ],
+    "question_id": "共同科目-00047",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 48,
+    "question": "不當抬舉導致肌⾁骨骼傷害或肌⾁疲勞之現象，可歸類為下列何者？",
+    "options": {
+      "A": "感電事件",
+      "B": "不當動作",
+      "C": "不安全環境",
+      "D": "被撞事件"
+    },
+    "answer": "B",
+    "source_pages": [
+      6
+    ],
+    "question_id": "共同科目-00048",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 49,
+    "question": "使⽤鑽孔機時，不應使⽤下列何護具？",
+    "options": {
+      "A": "耳塞",
+      "B": "防塵⼝罩",
+      "C": "棉紗⼿套",
+      "D": "護⽬鏡"
+    },
+    "answer": "C",
+    "source_pages": [
+      6
+    ],
+    "question_id": "共同科目-00049",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 50,
+    "question": "腕道症候群常發⽣於下列何種作業？",
+    "options": {
+      "A": "電腦鍵盤作業",
+      "B": "潛⽔作業",
+      "C": "堆⾼機作業",
+      "D": "第⼀種壓⼒容器作業"
+    },
+    "answer": "A",
+    "source_pages": [
+      6
+    ],
+    "question_id": "共同科目-00050",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 51,
+    "question": "對於化學燒傷傷患的⼀般處理原則，下列何者正確？",
+    "options": {
+      "A": "立即⽤⼤量清⽔沖洗",
+      "B": "傷患必須臥下，⽽且頭、胸部須⾼於⾝體其他部位",
+      "C": "於燒傷處塗抹油膏、油脂或發酵粉",
+      "D": "使⽤酸鹼中和"
+    },
+    "answer": "A",
+    "source_pages": [
+      6
+    ],
+    "question_id": "共同科目-00051",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 52,
+    "question": "下列何者非屬防⽌搬運事故之⼀般原則？",
+    "options": {
+      "A": "以機械代替⼈⼒",
+      "B": "以機動⾞輛搬運",
+      "C": "採取適當之搬運⽅法",
+      "D": "儘量增加搬運距離"
+    },
+    "answer": "D",
+    "source_pages": [
+      6
+    ],
+    "question_id": "共同科目-00052",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 53,
+    "question": "對於脊柱或頸部受傷患者，下列何者不是適當的處理原則？",
+    "options": {
+      "A": "不輕易移動傷患",
+      "B": "速請醫師",
+      "C": "如無合⽤的器材，需 2 ⼈作徒⼿搬運",
+      "D": "向急救中⼼聯絡"
+    },
+    "answer": "C",
+    "source_pages": [
+      6
+    ],
+    "question_id": "共同科目-00053",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 54,
+    "question": "防⽌噪⾳危害之治本對策為下列何者？",
+    "options": {
+      "A": "使⽤耳塞、耳罩",
+      "B": "實施職業安全衛⽣教育訓練",
+      "C": "消除發⽣源",
+      "D": "實施特殊健康檢查 6"
+    },
+    "answer": "C",
+    "source_pages": [
+      6
+    ],
+    "question_id": "共同科目-00054",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 55,
+    "question": "安全帽承受巨⼤外⼒衝擊後，雖外觀良好，應採下列何種處理⽅式？",
+    "options": {
+      "A": "廢棄",
+      "B": "繼續使⽤",
+      "C": "送修",
+      "D": "油漆保護"
+    },
+    "answer": "A",
+    "source_pages": [
+      7
+    ],
+    "question_id": "共同科目-00055",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 56,
+    "question": "因舉重⽽扭腰係由於⾝體動作不⾃然姿勢，動作之反彈，引起扭筋、扭腰及形成類似 狀態造成職業災害，其災害類型為下列何者？",
+    "options": {
+      "A": "不當狀態",
+      "B": "不當動作",
+      "C": "不當⽅針",
+      "D": "不當設備"
+    },
+    "answer": "B",
+    "source_pages": [
+      7
+    ],
+    "question_id": "共同科目-00056",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 57,
+    "question": "下列有關⼯作場所安全衛⽣之敘述何者有誤？",
+    "options": {
+      "A": "對於勞⼯從事其⾝體或衣著有被污染之虞之特殊作業時，應備置該勞⼯洗眼、洗 澡、漱⼝、更衣、洗濯等設備",
+      "B": "事業單位應備置⾜夠急救藥品及器材",
+      "C": "事業單位應備置⾜夠的零食⾃動販賣機",
+      "D": "勞⼯應定期接受健康檢查"
+    },
+    "answer": "C",
+    "source_pages": [
+      7
+    ],
+    "question_id": "共同科目-00057",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 58,
+    "question": "毒性物質進入⼈體的途徑，經由那個途徑影響⼈體健康最快且中毒效應最⾼？",
+    "options": {
+      "A": "吸入",
+      "B": "食入",
+      "C": "⽪膚接觸",
+      "D": "⼿指觸摸"
+    },
+    "answer": "A",
+    "source_pages": [
+      7
+    ],
+    "question_id": "共同科目-00058",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 59,
+    "question": "安全⾨或緊急出⼝平時應維持何狀態？",
+    "options": {
+      "A": "⾨可上鎖但不可封死",
+      "B": "保持開⾨狀態以保持逃⽣路徑暢通",
+      "C": "⾨應關上但不可上鎖",
+      "D": "與⼀般進出⾨相同，視各樓層規定可開可關"
+    },
+    "answer": "C",
+    "source_pages": [
+      7
+    ],
+    "question_id": "共同科目-00059",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 60,
+    "question": "下列何種防護具較能消減噪⾳對聽⼒的危害？",
+    "options": {
+      "A": "棉花球",
+      "B": "耳塞",
+      "C": "耳罩",
+      "D": "碎布球"
+    },
+    "answer": "C",
+    "source_pages": [
+      7
+    ],
+    "question_id": "共同科目-00060",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 61,
+    "question": "勞⼯若⾯臨長期⼯作負荷壓⼒及⼯作疲勞累積，沒有獲得適當休息及充⾜睡眠，便可 能影響體能及精神狀態，甚⽽較易促發下列何種疾病？",
+    "options": {
+      "A": "⽪膚癌",
+      "B": "腦⼼⾎管疾病",
+      "C": "多發性神經病變",
+      "D": "肺⽔腫"
+    },
+    "answer": "B",
+    "source_pages": [
+      7
+    ],
+    "question_id": "共同科目-00061",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 62,
+    "question": "「勞⼯腦⼼⾎管疾病發病的風險與年齡、吸菸、總膽固醇數值、家族病史、⽣活型 態、⼼臟⽅⾯疾病」之相關性為何？",
+    "options": {
+      "A": "無",
+      "B": "正",
+      "C": "負",
+      "D": "可正可負"
+    },
+    "answer": "B",
+    "source_pages": [
+      7
+    ],
+    "question_id": "共同科目-00062",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 63,
+    "question": "下列何者不屬於職場暴⼒？",
+    "options": {
+      "A": "肢體暴⼒",
+      "B": "語⾔暴⼒",
+      "C": "家庭暴⼒",
+      "D": "性騷擾"
+    },
+    "answer": "C",
+    "source_pages": [
+      7
+    ],
+    "question_id": "共同科目-00063",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 64,
+    "question": "職場內部常⾒之⾝體或精神不法侵害不包含下列何者？",
+    "options": {
+      "A": "脅迫、名譽損毀、侮辱、嚴重辱罵勞⼯",
+      "B": "強求勞⼯執⾏業務上明顯不必要或不可能之⼯作",
+      "C": "過度介入勞⼯私⼈事宜",
+      "D": "使勞⼯執⾏與能⼒、經驗相符的⼯作"
+    },
+    "answer": "D",
+    "source_pages": [
+      7
+    ],
+    "question_id": "共同科目-00064",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 65,
+    "question": "下列何種措施較可避免⼯作單調重複或負荷過重？",
+    "options": {
+      "A": "連續夜班",
+      "B": "⼯時過長",
+      "C": "排班保有規律性",
+      "D": "經常性加班"
+    },
+    "answer": "C",
+    "source_pages": [
+      7
+    ],
+    "question_id": "共同科目-00065",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 66,
+    "question": "減輕⽪膚燒傷程度之最重要步驟為何？",
+    "options": {
+      "A": "儘速⽤清⽔沖洗",
+      "B": "立即刺破⽔泡",
+      "C": "立即在燒傷處塗抹油脂",
+      "D": "在燒傷處塗抹麵粉"
+    },
+    "answer": "A",
+    "source_pages": [
+      8
+    ],
+    "question_id": "共同科目-00066",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 67,
+    "question": "眼內噴入化學物或其他異物，應立即使⽤下列何者沖洗眼睛？",
+    "options": {
+      "A": "⽜奶",
+      "B": "蘇打⽔",
+      "C": "清⽔",
+      "D": "稀釋的醋"
+    },
+    "answer": "C",
+    "source_pages": [
+      8
+    ],
+    "question_id": "共同科目-00067",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 68,
+    "question": "⽯綿最可能引起下列何種疾病？",
+    "options": {
+      "A": "⽩指症",
+      "B": "⼼臟病",
+      "C": "間⽪細胞瘤",
+      "D": "巴⾦森⽒症"
+    },
+    "answer": "C",
+    "source_pages": [
+      8
+    ],
+    "question_id": "共同科目-00068",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 69,
+    "question": "作業場所⾼頻率噪⾳較易導致下列何種症狀？",
+    "options": {
+      "A": "失眠",
+      "B": "聽⼒損失",
+      "C": "肺部疾病",
+      "D": "腕道症候群"
+    },
+    "answer": "B",
+    "source_pages": [
+      8
+    ],
+    "question_id": "共同科目-00069",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 70,
+    "question": "廚房設置之排油煙機為下列何者？",
+    "options": {
+      "A": "整體換氣裝置",
+      "B": "局部排氣裝置",
+      "C": "吹吸型換氣裝置",
+      "D": "排氣煙囪"
+    },
+    "answer": "B",
+    "source_pages": [
+      8
+    ],
+    "question_id": "共同科目-00070",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 71,
+    "question": "下列何者為選⽤防塵⼝罩時，最不重要之考量因素？",
+    "options": {
+      "A": "捕集效率愈⾼愈好",
+      "B": "吸氣阻抗愈低愈好",
+      "C": "重量愈輕愈好",
+      "D": "視野愈⼩愈好"
+    },
+    "answer": "D",
+    "source_pages": [
+      8
+    ],
+    "question_id": "共同科目-00071",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 72,
+    "question": "若勞⼯⼯作性質需與陌⽣⼈接觸、⼯作中需處理不可預期的突發事件或⼯作場所治安 狀況較差，較容易遭遇下列何種危害？",
+    "options": {
+      "A": "組織內部不法侵害",
+      "B": "組織外部不法侵害",
+      "C": "多發性神經病變",
+      "D": "潛涵症"
+    },
+    "answer": "B",
+    "source_pages": [
+      8
+    ],
+    "question_id": "共同科目-00072",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 73,
+    "question": "下列何者不是發⽣電氣火災的主要原因？",
+    "options": {
+      "A": "電器接點短路",
+      "B": "電氣火花",
+      "C": "電纜線置於地上",
+      "D": "漏電"
+    },
+    "answer": "C",
+    "source_pages": [
+      8
+    ],
+    "question_id": "共同科目-00073",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 74,
+    "question": "依勞⼯職業災害保險及保護法規定，職業災害保險之保險效⼒，⾃何時開始起算，⾄ 離職當⽇停⽌？",
+    "options": {
+      "A": "通知當⽇",
+      "B": "到職當⽇",
+      "C": "雇主訂定當⽇",
+      "D": "勞雇雙⽅合意之⽇"
+    },
+    "answer": "B",
+    "source_pages": [
+      8
+    ],
+    "question_id": "共同科目-00074",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 75,
+    "question": "依勞⼯職業災害保險及保護法規定，勞⼯職業災害保險以下列何者為保險⼈，辦理保 險業務？",
+    "options": {
+      "A": "財團法⼈職業災害預防及重建中⼼",
+      "B": "勞動部職業安全衛⽣署",
+      "C": "勞動部勞動基⾦運⽤局",
+      "D": "勞動部勞⼯保險局"
+    },
+    "answer": "D",
+    "source_pages": [
+      8
+    ],
+    "question_id": "共同科目-00075",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 76,
+    "question": "有關「童⼯」之敘述，下列何者正確？",
+    "options": {
+      "A": "每⽇⼯作時間不得超過 8 ⼩時",
+      "B": "不得於午後 8 時⾄翌晨 8 時之時間內⼯作",
+      "C": "例假⽇得在監視下⼯作",
+      "D": "⼯資不得低於基本⼯資之 70％ 8"
+    },
+    "answer": "A",
+    "source_pages": [
+      8
+    ],
+    "question_id": "共同科目-00076",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 77,
+    "question": "依勞動檢查法施⾏細則規定，事業單位如不服勞動檢查結果，可於檢查結果通知書送 達之次⽇起 10 ⽇內，以書⾯敘明理由向勞動檢查機構提出？",
+    "options": {
+      "A": "訴願",
+      "B": "陳情",
+      "C": "抗議",
+      "D": "異議"
+    },
+    "answer": "D",
+    "source_pages": [
+      9
+    ],
+    "question_id": "共同科目-00077",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 78,
+    "question": "⼯作者若因雇主違反職業安全衛⽣法規定⽽發⽣職業災害、疑似罹患職業病或⾝體、 精神遭受不法侵害所提起之訴訟，得向勞動部委託之⺠間團體提出下列何者？",
+    "options": {
+      "A": "災害理賠",
+      "B": "申請扶助",
+      "C": "精神補償",
+      "D": "國家賠償"
+    },
+    "answer": "B",
+    "source_pages": [
+      9
+    ],
+    "question_id": "共同科目-00078",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 79,
+    "question": "計算平⽇加班費須按平⽇每⼩時⼯資額加給計算，下列敘述何者有誤？",
+    "options": {
+      "A": "前 2 ⼩時⾄少加給 1/3 倍",
+      "B": "超過 2 ⼩時部分⾄少加給 2/3 倍",
+      "C": "經勞資協商同意後，⼀律加給 0.5 倍",
+      "D": "未經雇主同意給加班費者，⼀律補休"
+    },
+    "answer": "D",
+    "source_pages": [
+      9
+    ],
+    "question_id": "共同科目-00079",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 80,
+    "question": "下列⼯作場所何者非屬勞動檢查法所定之危險性⼯作場所？",
+    "options": {
+      "A": "農藥製造",
+      "B": "⾦屬表⾯處理",
+      "C": "火藥類製造",
+      "D": "從事⽯油裂解之⽯化⼯業之⼯作場所"
+    },
+    "answer": "B",
+    "source_pages": [
+      9
+    ],
+    "question_id": "共同科目-00080",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 81,
+    "question": "有關電氣安全，下列敘述何者錯誤？",
+    "options": {
+      "A": "110 伏特之電壓不致造成⼈員死亡",
+      "B": "電氣室應禁⽌非⼯作⼈員進入",
+      "C": "不可以濕⼿操作電氣開關，且切斷開關應迅速",
+      "D": "220 伏特為低壓電"
+    },
+    "answer": "A",
+    "source_pages": [
+      9
+    ],
+    "question_id": "共同科目-00081",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 82,
+    "question": "依職業安全衛⽣設施規則規定，下列何者非屬於⾞輛系營建機械？",
+    "options": {
+      "A": "平⼟機",
+      "B": "堆⾼機",
+      "C": "推⼟機",
+      "D": "鏟⼟機"
+    },
+    "answer": "B",
+    "source_pages": [
+      9
+    ],
+    "question_id": "共同科目-00082",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 83,
+    "question": "下列何者非為事業單位勞動場所發⽣職業災害者，雇主應於 8 ⼩時內通報勞動檢查機 構？",
+    "options": {
+      "A": "發⽣死亡災害",
+      "B": "勞⼯受傷無須住院治療",
+      "C": "發⽣災害之罹災⼈數在 3 ⼈以上",
+      "D": "發⽣災害之罹災⼈數在 1 ⼈以上，且需住院治療"
+    },
+    "answer": "B",
+    "source_pages": [
+      9
+    ],
+    "question_id": "共同科目-00083",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 84,
+    "question": "依職業安全衛⽣管理辦法規定，下列何者非屬「⾃動檢查」之內容？",
+    "options": {
+      "A": "機械之定期檢查",
+      "B": "機械、設備之重點檢查",
+      "C": "機械、設備之作業檢點",
+      "D": "勞⼯健康檢查"
+    },
+    "answer": "D",
+    "source_pages": [
+      9
+    ],
+    "question_id": "共同科目-00084",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 85,
+    "question": "下列何者係針對於機械操作點的捲夾危害特性可以採⽤之防護裝置？",
+    "options": {
+      "A": "設置護圍、護罩",
+      "B": "穿戴棉紗⼿套",
+      "C": "穿戴防護衣",
+      "D": "強化教育訓練"
+    },
+    "answer": "A",
+    "source_pages": [
+      9
+    ],
+    "question_id": "共同科目-00085",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 86,
+    "question": "下列何者非屬從事起重吊掛作業導致物體⾶落災害之可能原因？",
+    "options": {
+      "A": "吊鉤未設防滑舌片致吊掛鋼索鬆脫",
+      "B": "鋼索斷裂",
+      "C": "超過額定荷重作業",
+      "D": "過捲揚警報裝置過度靈敏"
+    },
+    "answer": "D",
+    "source_pages": [
+      10
+    ],
+    "question_id": "共同科目-00086",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 87,
+    "question": "勞⼯不遵守安全衛⽣⼯作守則規定，屬於下列何者？",
+    "options": {
+      "A": "不安全設備",
+      "B": "不安全⾏為",
+      "C": "不安全環境",
+      "D": "管理缺陷"
+    },
+    "answer": "B",
+    "source_pages": [
+      10
+    ],
+    "question_id": "共同科目-00087",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 88,
+    "question": "下列何者不屬於局限空間內作業場所應採取之缺氧、中毒等危害預防措施？",
+    "options": {
+      "A": "實施通風換氣",
+      "B": "進入作業許可程序",
+      "C": "使⽤柴油內燃機發電提供照明",
+      "D": "測定氧氣、危險物、有害物濃度"
+    },
+    "answer": "C",
+    "source_pages": [
+      10
+    ],
+    "question_id": "共同科目-00088",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 89,
+    "question": "下列何者非通風換氣之⽬的？",
+    "options": {
+      "A": "防⽌游離輻射",
+      "B": "防⽌火災爆炸",
+      "C": "稀釋空氣中有害物",
+      "D": "補充新鮮空氣"
+    },
+    "answer": "A",
+    "source_pages": [
+      10
+    ],
+    "question_id": "共同科目-00089",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 90,
+    "question": "已在職之勞⼯，⾸次從事特別危害健康作業，應實施下列何種檢查？",
+    "options": {
+      "A": "⼀般體格檢查",
+      "B": "特殊體格檢查",
+      "C": "⼀般體格檢查及特殊健康檢查",
+      "D": "特殊健康檢查"
+    },
+    "answer": "B",
+    "source_pages": [
+      10
+    ],
+    "question_id": "共同科目-00090",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 91,
+    "question": "依職業安全衛⽣設施規則規定，噪⾳超過多少分⾙之⼯作場所，應標⽰並公告噪⾳危 害之預防事項，使勞⼯周知？",
+    "options": {
+      "A": "75 分⾙",
+      "B": "80 分⾙",
+      "C": "85 分⾙",
+      "D": "90 分⾙"
+    },
+    "answer": "D",
+    "source_pages": [
+      10
+    ],
+    "question_id": "共同科目-00091",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 92,
+    "question": "下列何者非屬⼯作安全分析的⽬的？",
+    "options": {
+      "A": "發現並杜絕⼯作危害",
+      "B": "確立⼯作安全所需⼯具與設備",
+      "C": "懲罰犯錯的員⼯",
+      "D": "作為員⼯在職訓練的參考"
+    },
+    "answer": "C",
+    "source_pages": [
+      10
+    ],
+    "question_id": "共同科目-00092",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 93,
+    "question": "可能對勞⼯之⼼理或精神狀況造成負⾯影響的狀態，如異常⼯作壓⼒、超時⼯作、語 ⾔脅迫或恐嚇等，可歸屬於下列何者管理不當？",
+    "options": {
+      "A": "職業安全",
+      "B": "職業衛⽣",
+      "C": "職業健康",
+      "D": "環保"
+    },
+    "answer": "C",
+    "source_pages": [
+      10
+    ],
+    "question_id": "共同科目-00093",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 94,
+    "question": "有流產病史之孕婦，宜避免相關作業，下列何者為非？",
+    "options": {
+      "A": "避免砷或鉛的暴露",
+      "B": "避免每班站立 7 ⼩時以上之作業",
+      "C": "避免提舉 3 公⽄重物的職務",
+      "D": "避免重體⼒勞動的職務"
+    },
+    "answer": "C",
+    "source_pages": [
+      10
+    ],
+    "question_id": "共同科目-00094",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 95,
+    "question": "熱中暑時，易發⽣下列何現象？",
+    "options": {
+      "A": "體溫下降",
+      "B": "體溫正常",
+      "C": "體溫上升",
+      "D": "體溫忽⾼忽低"
+    },
+    "answer": "C",
+    "source_pages": [
+      10
+    ],
+    "question_id": "共同科目-00095",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 96,
+    "question": "下列何者不會使電路發⽣過電流？",
+    "options": {
+      "A": "電氣設備過載",
+      "B": "電路短路",
+      "C": "電路漏電",
+      "D": "電路斷路"
+    },
+    "answer": "D",
+    "source_pages": [
+      11
+    ],
+    "question_id": "共同科目-00096",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 97,
+    "question": "下列何者較屬安全、尊嚴的職場組織⽂化？",
+    "options": {
+      "A": "不斷責備勞⼯",
+      "B": "公開在眾⼈⾯前長時間責罵勞⼯",
+      "C": "強求勞⼯執⾏業務上明顯不必要或不可能之⼯作",
+      "D": "不過度介入勞⼯私⼈事宜"
+    },
+    "answer": "D",
+    "source_pages": [
+      11
+    ],
+    "question_id": "共同科目-00097",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 98,
+    "question": "下列何者與職場⺟性健康保護較不相關？",
+    "options": {
+      "A": "職業安全衛⽣法",
+      "B": "妊娠與分娩後女性及未滿⼗八歲勞⼯禁⽌從事危險性或有害性⼯作認定標準",
+      "C": "性別平等⼯作法",
+      "D": "動⼒堆⾼機型式驗證"
+    },
+    "answer": "D",
+    "source_pages": [
+      11
+    ],
+    "question_id": "共同科目-00098",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 99,
+    "question": "油漆塗裝⼯程應注意防火防爆事項，下列何者為非？",
+    "options": {
+      "A": "確實通風",
+      "B": "注意電氣火花",
+      "C": "緊密⾨窗以減少溶劑擴散揮發",
+      "D": "嚴禁煙火"
+    },
+    "answer": "C",
+    "source_pages": [
+      11
+    ],
+    "question_id": "共同科目-00099",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 100,
+    "question": "依職業安全衛⽣設施規則規定，雇主對於物料儲存，為防⽌氣候變化或⾃然發火發⽣ 危險者，下列何者為最佳之採取措施？",
+    "options": {
+      "A": "保持⾃然通風",
+      "B": "密閉",
+      "C": "與外界隔離及溫濕控制",
+      "D": "靜置於倉儲區，避免陽光直射 11"
+    },
+    "answer": "C",
+    "source_pages": [
+      11
+    ],
+    "question_id": "共同科目-00100",
+    "category": "職業安全衛生"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 1,
+    "question": "下列何者「違反」個⼈資料保護法？",
+    "options": {
+      "A": "公司基於⼈事管理之特定⽬的，張貼榮譽榜揭⽰績優員⼯姓名",
+      "B": "縣市政府提供村⾥長轄區內符合資格之老⼈名冊供發放敬老⾦",
+      "C": "網路購物公司為辦理退貨，將客⼾之住家地址提供予宅配公司",
+      "D": "學校將應屆畢業⽣之住家地址提供補習班招⽣使⽤"
+    },
+    "answer": "D",
+    "source_pages": [
+      12
+    ],
+    "question_id": "共同科目-00101",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 2,
+    "question": "非公務機關利⽤個⼈資料進⾏⾏銷時，下列敘述何者「錯誤」？",
+    "options": {
+      "A": "若已取得當事⼈書⾯同意，當事⼈即不得拒絕利⽤其個⼈資料⾏銷",
+      "B": "於⾸次⾏銷時，應提供當事⼈表⽰拒絕⾏銷之⽅式",
+      "C": "當事⼈表⽰拒絕接受⾏銷時，應停⽌利⽤其個⼈資料",
+      "D": "倘非公務機關違反「應即停⽌利⽤其個⼈資料⾏銷」之義務，未於限期內改正者， 按次處新臺幣 2 萬元以上 20 萬元以下罰鍰"
+    },
+    "answer": "A",
+    "source_pages": [
+      12
+    ],
+    "question_id": "共同科目-00102",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 3,
+    "question": "個⼈資料保護法規定為保護當事⼈權益，多少位以上的當事⼈提出告訴，就可以進⾏ 團體訴訟？",
+    "options": {
+      "A": "5 ⼈",
+      "B": "10 ⼈",
+      "C": "15 ⼈",
+      "D": "20 ⼈"
+    },
+    "answer": "D",
+    "source_pages": [
+      12
+    ],
+    "question_id": "共同科目-00103",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 4,
+    "question": "關於個⼈資料保護法之敘述，下列何者「錯誤」？",
+    "options": {
+      "A": "公務機關執⾏法定職務必要範圍內，可以蒐集、處理或利⽤⼀般性個⼈資料",
+      "B": "間接蒐集之個⼈資料，於處理或利⽤前，不必告知當事⼈個⼈資料來源",
+      "C": "非公務機關亦應維護個⼈資料之正確，並主動或依當事⼈之請求更正或補充",
+      "D": "外國學⽣在臺灣短期進修或留學，也受到我國個⼈資料保護法的保障"
+    },
+    "answer": "B",
+    "source_pages": [
+      12
+    ],
+    "question_id": "共同科目-00104",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 5,
+    "question": "下列關於個⼈資料保護法的敘述，下列敘述何者錯誤？",
+    "options": {
+      "A": "不管是否使⽤電腦處理的個⼈資料，都受個⼈資料保護法保護",
+      "B": "公務機關依法執⾏公權⼒，不受個⼈資料保護法規範",
+      "C": "⾝分證字號、婚姻、指紋都是個⼈資料",
+      "D": "我的病歷資料雖然是由醫⽣所撰寫，但也屬於是我的個⼈資料範圍"
+    },
+    "answer": "B",
+    "source_pages": [
+      12
+    ],
+    "question_id": "共同科目-00105",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 6,
+    "question": "對於依照個⼈資料保護法應告知之事項，下列何者不在法定應告知的事項內？",
+    "options": {
+      "A": "個⼈資料利⽤之期間、地區、對象及⽅式",
+      "B": "蒐集之⽬的",
+      "C": "蒐集機關的負責⼈姓名",
+      "D": "如拒絕提供或提供不正確個⼈資料將造成之影響"
+    },
+    "answer": "C",
+    "source_pages": [
+      12
+    ],
+    "question_id": "共同科目-00106",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 7,
+    "question": "請問下列何者非為個⼈資料保護法第 3 條所規範之當事⼈權利？",
+    "options": {
+      "A": "查詢或請求閱覽",
+      "B": "請求刪除他⼈之資料",
+      "C": "請求補充或更正",
+      "D": "請求停⽌蒐集、處理或利⽤ 12"
+    },
+    "answer": "B",
+    "source_pages": [
+      12
+    ],
+    "question_id": "共同科目-00107",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 8,
+    "question": "下列何者非安全使⽤電腦內的個⼈資料檔案的做法？",
+    "options": {
+      "A": "利⽤帳號與密碼登入機制來管理可以存取個資者的⼈",
+      "B": "規範不同⼈員可讀取的個⼈資料檔案範圍",
+      "C": "個⼈資料檔案使⽤完畢後立即退出應⽤程式，不得留置於電腦中",
+      "D": "為確保重要的個⼈資料可即時取得，將登入密碼標⽰在螢幕下⽅"
+    },
+    "answer": "D",
+    "source_pages": [
+      13
+    ],
+    "question_id": "共同科目-00108",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 9,
+    "question": "下列何者⾏為非屬個⼈資料保護法所稱之國際傳輸？",
+    "options": {
+      "A": "將個⼈資料傳送給經濟部",
+      "B": "將個⼈資料傳送給美國的分公司",
+      "C": "將個⼈資料傳送給法國的⼈事部⾨",
+      "D": "將個⼈資料傳送給⽇本的委託公司"
+    },
+    "answer": "A",
+    "source_pages": [
+      13
+    ],
+    "question_id": "共同科目-00109",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 10,
+    "question": "下列有關智慧財產權⾏為之敘述，何者有誤？",
+    "options": {
+      "A": "製造、販售仿冒註冊商標的商品不屬於公訴罪之範疇，但已侵害商標權之⾏為",
+      "B": "以 101 ⼤樓、美麗華百貨公司做為拍攝電影的背景，屬於合理使⽤的範圍",
+      "C": "原作者⾃⾏創作某⾳樂作品後，即可宣稱擁有該作品之著作權",
+      "D": "著作權是為促進⽂化發展為⽬的，所保護的財產權之⼀"
+    },
+    "answer": "A",
+    "source_pages": [
+      13
+    ],
+    "question_id": "共同科目-00110",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 11,
+    "question": "專利權⼜可區分為發明、新型與設計三種專利權，其中發明專利權是否有保護期限？ 期限為何？",
+    "options": {
+      "A": "有，5 年",
+      "B": "有，20 年",
+      "C": "有，50 年",
+      "D": "無期限，只要申請後就永久歸申請⼈所有"
+    },
+    "answer": "B",
+    "source_pages": [
+      13
+    ],
+    "question_id": "共同科目-00111",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 12,
+    "question": "受僱⼈於職務上所完成之著作，如果沒有特別以契約約定，其著作⼈為下列何者？",
+    "options": {
+      "A": "雇⽤⼈",
+      "B": "受僱⼈",
+      "C": "雇⽤公司或機關法⼈代表",
+      "D": "由雇⽤⼈指定之⾃然⼈或法⼈"
+    },
+    "answer": "B",
+    "source_pages": [
+      13
+    ],
+    "question_id": "共同科目-00112",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 13,
+    "question": "任職於某公司的程式設計⼯程師，因職務所編寫之電腦程式，如果沒有特別以契約約 定，則該電腦程式重製之權利歸屬下列何者？",
+    "options": {
+      "A": "公司",
+      "B": "編寫程式之⼯程師",
+      "C": "公司全體股東共有",
+      "D": "公司與編寫程式之⼯程師共有"
+    },
+    "answer": "A",
+    "source_pages": [
+      13
+    ],
+    "question_id": "共同科目-00113",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 14,
+    "question": "某公司員⼯因執⾏業務，擅⾃以重製之⽅法侵害他⼈之著作財產權，若被害⼈提起告 訴，下列對於處罰對象的敘述，何者正確？",
+    "options": {
+      "A": "僅處罰侵犯他⼈著作財產權之員⼯",
+      "B": "僅處罰雇⽤該名員⼯的公司",
+      "C": "該名員⼯及其雇主皆須受罰",
+      "D": "員⼯只要在從事侵犯他⼈著作財產權之⾏為前請⽰雇主並獲同意，便可以不受處罰 13"
+    },
+    "answer": "C",
+    "source_pages": [
+      13
+    ],
+    "question_id": "共同科目-00114",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 15,
+    "question": "受僱⼈於職務上所完成之發明、新型或設計，其專利申請權及專利權如未特別約定屬 於下列何者？",
+    "options": {
+      "A": "雇⽤⼈",
+      "B": "受僱⼈",
+      "C": "雇⽤⼈所指定之⾃然⼈或法⼈",
+      "D": "雇⽤⼈與受僱⼈共有"
+    },
+    "answer": "A",
+    "source_pages": [
+      14
+    ],
+    "question_id": "共同科目-00115",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 16,
+    "question": "任職⼤發公司的郝聰明，專⾨從事技術研發，有關研發技術的專利申請權及專利權歸 屬，下列敘述何者錯誤？",
+    "options": {
+      "A": "職務上所完成的發明，除契約另有約定外，專利申請權及專利權屬於⼤發公司",
+      "B": "職務上所完成的發明，雖然專利申請權及專利權屬於⼤發公司，但是郝聰明享有姓 名表⽰權",
+      "C": "郝聰明完成非職務上的發明，應即以書⾯通知⼤發公司",
+      "D": "⼤發公司與郝聰明之雇傭契約約定，郝聰明非職務上的發明，全部屬於公司，約定 有效"
+    },
+    "answer": "D",
+    "source_pages": [
+      14
+    ],
+    "question_id": "共同科目-00116",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 17,
+    "question": "有關著作權的下列敘述何者不正確？",
+    "options": {
+      "A": "我們到表演場所觀看表演時，不可隨便錄⾳或錄影",
+      "B": "到攝影展上，拿相機拍攝展⽰的作品，分贈給朋友，是侵害著作權的⾏為",
+      "C": "網路上供⼈下載的免費軟體，都不受著作權法保護，所以我可以燒成⼤補帖光碟， 再去賣給別⼈",
+      "D": "⾼普考試題，不受著作權法保護"
+    },
+    "answer": "C",
+    "source_pages": [
+      14
+    ],
+    "question_id": "共同科目-00117",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 18,
+    "question": "有關著作權的下列敘述何者錯誤？",
+    "options": {
+      "A": "撰寫碩博⼠論⽂時，在合理範圍內引⽤他⼈的著作，只要註明出處，不會構成侵害 著作權",
+      "B": "在網路散布盜版光碟，不管有沒有營利，會構成侵害著作權",
+      "C": "在網路的部落格看到⼀篇⽂章很棒，只要註明出處，就可以把⽂章複製在⾃⼰的部 落格",
+      "D": "將補習班老師的上課內容錄⾳檔，放到網路上拍賣，會構成侵害著作權"
+    },
+    "answer": "C",
+    "source_pages": [
+      14
+    ],
+    "question_id": "共同科目-00118",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 19,
+    "question": "有關商標權的下列敘述何者錯誤？",
+    "options": {
+      "A": "要取得商標權⼀定要申請商標註冊",
+      "B": "商標註冊後可取得 10 年商標權",
+      "C": "商標註冊後，3 年不使⽤，會被廢⽌商標權",
+      "D": "在夜市買的仿冒品，品質不好，上網拍賣，不會構成侵權"
+    },
+    "answer": "D",
+    "source_pages": [
+      14
+    ],
+    "question_id": "共同科目-00119",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 20,
+    "question": "下列關於營業秘密的敘述，何者不正確？",
+    "options": {
+      "A": "受雇⼈於非職務上研究或開發之營業秘密，仍歸雇⽤⼈所有",
+      "B": "營業秘密不得為質權及強制執⾏之標的",
+      "C": "營業秘密所有⼈得授權他⼈使⽤其營業秘密",
+      "D": "營業秘密得全部或部分讓與他⼈或與他⼈共有 14"
+    },
+    "answer": "A",
+    "source_pages": [
+      14
+    ],
+    "question_id": "共同科目-00120",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 21,
+    "question": "甲公司將其新開發受營業秘密法保護之技術，授權⼄公司使⽤，下列何者不得為之？",
+    "options": {
+      "A": "⼄公司已獲授權，所以可以未經甲公司同意，再授權丙公司使⽤",
+      "B": "約定授權使⽤限於⼀定之地域、時間",
+      "C": "約定授權使⽤限於特定之內容、⼀定之使⽤⽅法",
+      "D": "要求被授權⼈⼄公司在⼀定期間負有保密義務"
+    },
+    "answer": "A",
+    "source_pages": [
+      15
+    ],
+    "question_id": "共同科目-00121",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 22,
+    "question": "甲公司嚴格保密之最新配⽅產品⼤賣，下列何者侵害甲公司之營業秘密？",
+    "options": {
+      "A": "鑑定⼈ A 因司法審理⽽知悉配⽅",
+      "B": "甲公司授權⼄公司使⽤其配⽅",
+      "C": "甲公司之 B 員⼯擅⾃將配⽅盜賣給⼄公司",
+      "D": "甲公司與⼄公司協議共有配⽅"
+    },
+    "answer": "C",
+    "source_pages": [
+      15
+    ],
+    "question_id": "共同科目-00122",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 23,
+    "question": "故意侵害他⼈之營業秘密，法院因被害⼈之請求，最⾼得酌定損害額幾倍之賠償？",
+    "options": {
+      "A": "1 倍",
+      "B": "2 倍",
+      "C": "3 倍",
+      "D": "4 倍"
+    },
+    "answer": "C",
+    "source_pages": [
+      15
+    ],
+    "question_id": "共同科目-00123",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 24,
+    "question": "受雇者因承辦業務⽽知悉營業秘密，在離職後對於該營業秘密的處理⽅式，下列敘述 何者正確？",
+    "options": {
+      "A": "聘雇關係解除後便不再負有保障營業秘密之責",
+      "B": "僅能⾃⽤⽽不得販售獲取利益",
+      "C": "⾃離職⽇起 3 年後便不再負有保障營業秘密之責",
+      "D": "離職後仍不得洩漏該營業秘密"
+    },
+    "answer": "D",
+    "source_pages": [
+      15
+    ],
+    "question_id": "共同科目-00124",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 25,
+    "question": "按照現⾏法律規定，侵害他⼈營業秘密，其法律責任為",
+    "options": {
+      "A": "僅需負刑事責任",
+      "B": "僅需負⺠事損害賠償責任",
+      "C": "刑事責任與⺠事損害賠償責任皆須負擔",
+      "D": "刑事責任與⺠事損害賠償責任皆不須負擔"
+    },
+    "answer": "C",
+    "source_pages": [
+      15
+    ],
+    "question_id": "共同科目-00125",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 26,
+    "question": "企業內部之營業秘密，可以概分為「商業性營業秘密」及「技術性營業秘密」⼆⼤類 型，請問下列何者屬於「技術性營業秘密」？",
+    "options": {
+      "A": "⼈事管理",
+      "B": "經銷據點",
+      "C": "產品配⽅",
+      "D": "客⼾名單"
+    },
+    "answer": "C",
+    "source_pages": [
+      15
+    ],
+    "question_id": "共同科目-00126",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 27,
+    "question": "某離職同事請求在職員⼯將離職前所製作之某份⽂件傳送給他，請問下列回應⽅式何 者正確？",
+    "options": {
+      "A": "由於該項⽂件係由該離職員⼯製作，因此可以傳送⽂件",
+      "B": "若其⽬的僅為保留檔案備份，便可以傳送⽂件",
+      "C": "可能構成對於營業秘密之侵害，應予拒絕並請他直接向公司提出請求",
+      "D": "視彼此交情決定是否傳送⽂件"
+    },
+    "answer": "C",
+    "source_pages": [
+      15
+    ],
+    "question_id": "共同科目-00127",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 28,
+    "question": "⾏為⼈以竊取等不正當⽅法取得營業秘密，下列敘述何者正確？",
+    "options": {
+      "A": "已構成犯罪",
+      "B": "只要後續沒有洩漏便不構成犯罪",
+      "C": "只要後續沒有出現使⽤之⾏為便不構成犯罪",
+      "D": "只要後續沒有造成所有⼈之損害便不構成犯罪 15"
+    },
+    "answer": "A",
+    "source_pages": [
+      15
+    ],
+    "question_id": "共同科目-00128",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 29,
+    "question": "針對在我國境內竊取營業秘密後，意圖在外國、中國⼤陸或港澳地區使⽤者，營業秘 密法是否可以適⽤？",
+    "options": {
+      "A": "無法適⽤",
+      "B": "可以適⽤，但若屬未遂犯則不罰",
+      "C": "可以適⽤並加重其刑",
+      "D": "能否適⽤需視該國家或地區與我國是否簽訂相互保護營業秘密之條約或協定"
+    },
+    "answer": "C",
+    "source_pages": [
+      16
+    ],
+    "question_id": "共同科目-00129",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 30,
+    "question": "所謂營業秘密，係指⽅法、技術、製程、配⽅、程式、設計或其他可⽤於⽣產、銷售 或經營之資訊，但其保障所需符合的要件不包括下列何者？",
+    "options": {
+      "A": "因其秘密性⽽具有實際之經濟價值者",
+      "B": "所有⼈已採取合理之保密措施者",
+      "C": "因其秘密性⽽具有潛在之經濟價值者",
+      "D": "⼀般涉及該類資訊之⼈所知者"
+    },
+    "answer": "D",
+    "source_pages": [
+      16
+    ],
+    "question_id": "共同科目-00130",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 31,
+    "question": "因故意或過失⽽不法侵害他⼈之營業秘密者，負損害賠償責任該損害賠償之請求權， ⾃請求權⼈知有⾏為及賠償義務⼈時起，幾年間不⾏使就會消滅？",
+    "options": {
+      "A": "2 年",
+      "B": "5 年",
+      "C": "7 年",
+      "D": "10 年"
+    },
+    "answer": "A",
+    "source_pages": [
+      16
+    ],
+    "question_id": "共同科目-00131",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 32,
+    "question": "公司負責⼈為了要節省開銷，將員⼯薪資以⾼報低來投保全⺠健保及勞保，是觸犯了 刑法上之何種罪刑？",
+    "options": {
+      "A": "詐欺罪",
+      "B": "侵占罪",
+      "C": "背信罪",
+      "D": "⼯商秘密罪"
+    },
+    "answer": "A",
+    "source_pages": [
+      16
+    ],
+    "question_id": "共同科目-00132",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 33,
+    "question": "A 受僱於公司擔任會計，因⾃⼰的財務陷入危機，多次將公司帳款轉入妻兒⼾頭，是 觸犯了刑法上之何種罪刑？",
+    "options": {
+      "A": "洩漏⼯商秘密罪",
+      "B": "侵占罪",
+      "C": "詐欺罪",
+      "D": "偽造⽂書罪"
+    },
+    "answer": "B",
+    "source_pages": [
+      16
+    ],
+    "question_id": "共同科目-00133",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 34,
+    "question": "某甲於公司擔任業務經理時，未依規定經董事會同意，私⾃與⾃⼰親友之公司訂定⽣ 意合約，會觸犯下列何種罪刑？",
+    "options": {
+      "A": "侵占罪",
+      "B": "貪污罪",
+      "C": "背信罪",
+      "D": "詐欺罪"
+    },
+    "answer": "C",
+    "source_pages": [
+      16
+    ],
+    "question_id": "共同科目-00134",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 35,
+    "question": "如果你擔任公司採購的職務，親朋好友們會向你推銷⾃家的產品，希望你要採購時， 你應該",
+    "options": {
+      "A": "適時地婉拒，說明利益需要迴避的考量，請他們⾒諒",
+      "B": "既然是親朋好友，就應該互相幫忙",
+      "C": "建議親朋好友將產品折扣，折扣部分歸於⾃⼰，就會採購",
+      "D": "可以暗中地幫忙親朋好友，進⾏採購，不要被發現有親友關係便可 16"
+    },
+    "answer": "A",
+    "source_pages": [
+      16
+    ],
+    "question_id": "共同科目-00135",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 36,
+    "question": "⼩美是公司的業務經理，有⼀天巧遇國中同班的死黨⼩林，發現他是公司的下游廠商 老闆。最近⼩美處理⼀件公司的招標案件，⼩林的公司也在其中，私下約⼩美⾒⾯， 請求她提供這次招標案的底標，並⾺上要給予幾⼗萬元的前謝⾦，請問⼩美該怎麼 辦？",
+    "options": {
+      "A": "退回錢，並告訴⼩林都是老朋友，⼀定會全⼒幫忙",
+      "B": "收下錢，將錢拿出來給單位同事們分紅",
+      "C": "應該堅決拒絕，並避免每次⾒⾯都與⼩林談論相關業務問題",
+      "D": "朋友⼀場，給他⼀個比較接近底標的⾦額，反正⼜不是正確的，所以沒關係"
+    },
+    "answer": "C",
+    "source_pages": [
+      17
+    ],
+    "question_id": "共同科目-00136",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 37,
+    "question": "公司發給每⼈⼀台平板電腦提供業務上使⽤，但是發現根本很少在使⽤，為了讓它有 效的利⽤，所以將它拿回家給親⼈使⽤，這樣的⾏為是",
+    "options": {
+      "A": "可以的，這樣就不⽤花錢買",
+      "B": "可以的，反正放在那裡不⽤它，也是浪費資源",
+      "C": "不可以的，因為這是公司的財產，不能私⽤",
+      "D": "不可以的，因為使⽤年限未到，如果年限到報廢了，便可以拿回家"
+    },
+    "answer": "C",
+    "source_pages": [
+      17
+    ],
+    "question_id": "共同科目-00137",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 38,
+    "question": "公司的⾞⼦，假⽇⼜沒⼈使⽤，你是鑰匙保管者，請問假⽇可以開出去嗎？",
+    "options": {
+      "A": "可以，只要付費加油即可",
+      "B": "可以，反正假⽇不影響公務",
+      "C": "不可以，因為是公司的，並非私⼈擁有",
+      "D": "不可以，應該是讓公司想要使⽤的員⼯，輪流使⽤才可"
+    },
+    "answer": "C",
+    "source_pages": [
+      17
+    ],
+    "question_id": "共同科目-00138",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 39,
+    "question": "阿哲是財經線的新聞記者，某次採訪中得知 A 公司在⼀個⽉內將有⼀個⼤的併購案， 這個併購案顯⽰公司的財⼒，且能讓 A 公司股價往上飆升。請問阿哲得知此消息後， 可以立刻購買該公司的股票嗎？",
+    "options": {
+      "A": "可以，有錢⼤家賺",
+      "B": "可以，這是我努⼒獲得的消息",
+      "C": "可以，不賺⽩不賺",
+      "D": "不可以，屬於內線消息，必須保持記者之操守，不得洩漏"
+    },
+    "answer": "D",
+    "source_pages": [
+      17
+    ],
+    "question_id": "共同科目-00139",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 40,
+    "question": "與公務機關接洽業務時，下列敘述何者「正確」？",
+    "options": {
+      "A": "沒有要求公務員違背職務，花錢疏通⽽已，並不違法",
+      "B": "唆使公務機關承辦採購⼈員配合浮報價額，僅屬偽造⽂書⾏為",
+      "C": "⼝頭允諾⾏賄⾦額但還沒送錢，尚不構成犯罪",
+      "D": "與公務員同謀之共犯，即便不具公務員⾝分，仍可依據貪污治罪條例處刑"
+    },
+    "answer": "D",
+    "source_pages": [
+      17
+    ],
+    "question_id": "共同科目-00140",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 41,
+    "question": "與公務機關有業務往來構成職務利害關係者，下列敘述何者「正確」？",
+    "options": {
+      "A": "將餽贈之財物請公務員⽗⺟代轉，該公務員亦已違反規定",
+      "B": "與公務機關承辦⼈飲宴應酬為增進基本關係的必要⽅法",
+      "C": "⾼級茶葉低價售予有利害關係之承辦公務員，有價購⾏為就不算違反法規",
+      "D": "機關公務員藉⼦女婚宴廣邀業務往來廠商之⾏為，並無不妥 17"
+    },
+    "answer": "A",
+    "source_pages": [
+      17
+    ],
+    "question_id": "共同科目-00141",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 42,
+    "question": "廠商某甲承攬公共⼯程，⼯程進⾏期間，甲與其⼯程⼈員經常招待該公共⼯程委辦機 關之監⼯及驗收之公務員喝花酒或招待出國旅遊，下列敘述何者正確？",
+    "options": {
+      "A": "公務員若沒有收現⾦，就沒有罪",
+      "B": "只要⼯程沒有問題，某甲與監⼯及驗收等相關公務員就沒有犯罪",
+      "C": "因為不是送錢，所以都沒有犯罪",
+      "D": "某甲與相關公務員均已涉嫌觸犯貪污治罪條例"
+    },
+    "answer": "D",
+    "source_pages": [
+      18
+    ],
+    "question_id": "共同科目-00142",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 43,
+    "question": "⾏（受）賄罪成立要素之⼀為具有對價關係，⽽作為公務員職務之對價有「賄賂」或 「不正利益」，下列何者「不」屬於「賄賂」或「不正利益」？",
+    "options": {
+      "A": "開⼯邀請公務員觀禮",
+      "B": "送百貨公司⼤額禮券",
+      "C": "免除債務",
+      "D": "招待吃米其林等級之⾼檔⼤餐"
+    },
+    "answer": "A",
+    "source_pages": [
+      18
+    ],
+    "question_id": "共同科目-00143",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 44,
+    "question": "下列有關貪腐的敘述何者錯誤？",
+    "options": {
+      "A": "貪腐會危害永續發展和法治",
+      "B": "貪腐會破壞⺠主體制及價值觀",
+      "C": "貪腐會破壞倫理道德與正義",
+      "D": "貪腐有助降低企業的經營成本"
+    },
+    "answer": "D",
+    "source_pages": [
+      18
+    ],
+    "question_id": "共同科目-00144",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 45,
+    "question": "下列何者不是設置反貪腐專責機構須具備的必要條件？",
+    "options": {
+      "A": "賦予該機構必要的獨立性",
+      "B": "使該機構的⼯作⼈員⾏使職權不會受到不當⼲預",
+      "C": "提供該機構必要的資源、專職⼯作⼈員及必要培訓",
+      "D": "賦予該機構的⼯作⼈員有權⼒可隨時逮捕貪污嫌疑⼈"
+    },
+    "answer": "D",
+    "source_pages": [
+      18
+    ],
+    "question_id": "共同科目-00145",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 46,
+    "question": "檢舉⼈向有偵查權機關或政風機構檢舉貪污瀆職，必須於何時為之始可能給與獎⾦？",
+    "options": {
+      "A": "犯罪未起訴前",
+      "B": "犯罪未發覺前",
+      "C": "犯罪未遂前",
+      "D": "預備犯罪前"
+    },
+    "answer": "B",
+    "source_pages": [
+      18
+    ],
+    "question_id": "共同科目-00146",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 47,
+    "question": "檢舉⼈應以何種⽅式檢舉貪污瀆職始能核給獎⾦？",
+    "options": {
+      "A": "匿名",
+      "B": "委託他⼈檢舉",
+      "C": "以真實姓名檢舉",
+      "D": "以他⼈名義檢舉"
+    },
+    "answer": "C",
+    "source_pages": [
+      18
+    ],
+    "question_id": "共同科目-00147",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 48,
+    "question": "我國制定何種法律以保護刑事案件之證⼈，使其勇於出⾯作證，俾利犯罪之偵查、審 判？",
+    "options": {
+      "A": "貪污治罪條例",
+      "B": "刑事訴訟法",
+      "C": "⾏政程序法",
+      "D": "證⼈保護法"
+    },
+    "answer": "D",
+    "source_pages": [
+      18
+    ],
+    "question_id": "共同科目-00148",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 49,
+    "question": "下列何者「非」屬公司對於企業社會責任實踐之原則？",
+    "options": {
+      "A": "加強個⼈資料揭露",
+      "B": "維護社會公益",
+      "C": "發展永續環境",
+      "D": "落實公司治理"
+    },
+    "answer": "A",
+    "source_pages": [
+      18
+    ],
+    "question_id": "共同科目-00149",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 50,
+    "question": "下列何者「不」屬於職業素養的範疇？",
+    "options": {
+      "A": "獲利能⼒",
+      "B": "正確的職業價值觀",
+      "C": "職業知識技能",
+      "D": "良好的職業⾏為習慣"
+    },
+    "answer": "A",
+    "source_pages": [
+      18
+    ],
+    "question_id": "共同科目-00150",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 51,
+    "question": "下列何者符合專業⼈員的職業道德？",
+    "options": {
+      "A": "未經雇主同意，於上班時間從事私⼈事務",
+      "B": "利⽤雇主的機具設備私⾃接單⽣產",
+      "C": "未經顧客同意，任意散佈或利⽤顧客資料",
+      "D": "盡⼒維護雇主及客⼾的權益"
+    },
+    "answer": "D",
+    "source_pages": [
+      19
+    ],
+    "question_id": "共同科目-00151",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 52,
+    "question": "⾝為公司員⼯必須維護公司利益，下列何者是正確的⼯作態度或⾏為？",
+    "options": {
+      "A": "將公司逾期的產品更改標籤",
+      "B": "施⼯時以省時、省料為獲利⾸要考量，不顧品質",
+      "C": "服務時⾸先考慮公司的利益，然後再考量顧客權益",
+      "D": "⼯作時謹守本分，以積極態度解決問題"
+    },
+    "answer": "D",
+    "source_pages": [
+      19
+    ],
+    "question_id": "共同科目-00152",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 53,
+    "question": "⾝為專業技術⼯作⼈⼠，應以何種認知及態度服務客⼾？",
+    "options": {
+      "A": "若客⼾不瞭解，就儘量減少成本⽀出，抬⾼報價",
+      "B": "遇到維修問題，儘量拖過保固期",
+      "C": "主動告知可能碰到問題及預防⽅法",
+      "D": "隨著個⼈⼼情來提供服務的內容及品質"
+    },
+    "answer": "C",
+    "source_pages": [
+      19
+    ],
+    "question_id": "共同科目-00153",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 54,
+    "question": "因為⼯作本⾝需要⾼度專業技術及知識，所以在對客⼾服務時應如何？",
+    "options": {
+      "A": "不⽤理會顧客的意⾒",
+      "B": "保持親切、真誠、客⼾⾄上的態度",
+      "C": "若價錢較低，就敷衍了事",
+      "D": "以專業機密為由，不⽤對客⼾說明及解釋"
+    },
+    "answer": "B",
+    "source_pages": [
+      19
+    ],
+    "question_id": "共同科目-00154",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 55,
+    "question": "從事專業性⼯作，在與客⼾約定時間應",
+    "options": {
+      "A": "保持彈性，任意調整",
+      "B": "儘可能準時，依約定時間完成⼯作",
+      "C": "能拖就拖，能改就改",
+      "D": "⾃⼰⽅便就好，不必理會客⼾的要求"
+    },
+    "answer": "B",
+    "source_pages": [
+      19
+    ],
+    "question_id": "共同科目-00155",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 56,
+    "question": "從事專業性⼯作，在服務顧客時應有的態度為何？",
+    "options": {
+      "A": "選擇最安全、經濟及有效的⽅法完成⼯作",
+      "B": "選擇⼯時較長、獲利較多的⽅法服務客⼾",
+      "C": "為了降低成本，可以降低安全標準",
+      "D": "不必顧及雇主和顧客的立場"
+    },
+    "answer": "A",
+    "source_pages": [
+      19
+    ],
+    "question_id": "共同科目-00156",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 57,
+    "question": "以下那⼀項員⼯的作為符合敬業精神？",
+    "options": {
+      "A": "利⽤正常⼯作時間從事私⼈事務",
+      "B": "運⽤雇主的資源，從事個⼈⼯作",
+      "C": "未經雇主同意擅離⼯作崗位",
+      "D": "謹守職場紀律及禮節，尊重客⼾隱私 19"
+    },
+    "answer": "D",
+    "source_pages": [
+      19
+    ],
+    "question_id": "共同科目-00157",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 58,
+    "question": "⼩張獲選為⼩孩學校的家長會長，這個⽉要召開會議，沒時間準備資料，所以，利⽤ 上班期間有空檔非休息時間來完成，請問是否可以？",
+    "options": {
+      "A": "可以，因為不耽誤他的⼯作",
+      "B": "可以，因為他能⼒好，能夠同時完成很多事",
+      "C": "不可以，因為這是私事，不可以利⽤上班時間完成",
+      "D": "可以，只要不要被發現"
+    },
+    "answer": "C",
+    "source_pages": [
+      20
+    ],
+    "question_id": "共同科目-00158",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 59,
+    "question": "⼩吳是公司的專⽤司機，為了能夠隨時⽤⾞，經過公司同意，每晚都將公司的⾞開回 家，然⽽，他發現反正每天上班路線，都要經過女兒學校，就順便載女兒上學，請問 可以嗎？",
+    "options": {
+      "A": "可以，反正順路",
+      "B": "不可以，這是公司的⾞不能私⽤",
+      "C": "可以，只要不被公司發現即可",
+      "D": "可以，要資源須有效使⽤"
+    },
+    "answer": "B",
+    "source_pages": [
+      20
+    ],
+    "question_id": "共同科目-00159",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 60,
+    "question": "彥江是職場上的新鮮⼈，剛進公司不久，他應該具備怎樣的態度",
+    "options": {
+      "A": "上班、下班，管好⾃⼰便可",
+      "B": "仔細觀察公司⽣態，加入某些⼩團體，以做為後盾",
+      "C": "只要做好⼈脈關係，這樣以後就好辦事",
+      "D": "努⼒做好⾃⼰職掌的業務，樂於⼯作，與同事之間有良好的互動，相互協助"
+    },
+    "answer": "D",
+    "source_pages": [
+      20
+    ],
+    "question_id": "共同科目-00160",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 61,
+    "question": "在公司內部⾏使商務禮儀的過程，主要以參與者在公司中的何種條件來訂定順序？",
+    "options": {
+      "A": "年齡",
+      "B": "性別",
+      "C": "社會地位",
+      "D": "職位"
+    },
+    "answer": "D",
+    "source_pages": [
+      20
+    ],
+    "question_id": "共同科目-00161",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 62,
+    "question": "⼀位職場新鮮⼈剛進公司時，良好的⼯作態度是",
+    "options": {
+      "A": "多觀察、多學習，了解企業⽂化和價值觀",
+      "B": "多打聽哪⼀個部⾨比較輕鬆，升遷機會較多",
+      "C": "多探聽哪⼀個公司在找⼈，隨時準備跳槽走⼈",
+      "D": "多遊走各部⾨認識同事，建立⾃⼰的⼩圈圈"
+    },
+    "answer": "A",
+    "source_pages": [
+      20
+    ],
+    "question_id": "共同科目-00162",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 63,
+    "question": "根據消除對婦女⼀切形式歧視公約（CEDAW），下列何者正確？",
+    "options": {
+      "A": "對婦女的歧視指基於性別⽽作的任何區別、排斥或限制",
+      "B": "只關⼼女性在政治⽅⾯的⼈權和基本⾃由",
+      "C": "未要求政府需消除個⼈或企業對女性的歧視",
+      "D": "傳統習俗應予保護及傳承，即使含有歧視女性的部分，也不可以改變"
+    },
+    "answer": "A",
+    "source_pages": [
+      20
+    ],
+    "question_id": "共同科目-00163",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 64,
+    "question": "某規範明定地政機關進⽤女性測量助理名額，不得超過該機關測量助理名額總數⼆分 之⼀，根據消除對婦女⼀切形式歧視公約（CEDAW），下列何者正確？",
+    "options": {
+      "A": "限制女性測量助理⼈數比例，屬於直接歧視",
+      "B": "⼟地測量經常在⼾外⼯作，基於保護女性所作的限制，不屬性別歧視",
+      "C": "此項⼆分之⼀規定是為促進男女比例平衡",
+      "D": "此限制是為確保機關業務順暢推動，並未歧視女性 20"
+    },
+    "answer": "A",
+    "source_pages": [
+      20
+    ],
+    "question_id": "共同科目-00164",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 65,
+    "question": "根據消除對婦女⼀切形式歧視公約（CEDAW）之間接歧視意涵，下列何者錯誤？",
+    "options": {
+      "A": "⼀項法律、政策、⽅案或措施表⾯上對男性和女性無任何歧視，但實際上卻產⽣歧 視女性的效果",
+      "B": "察覺間接歧視的⼀個⽅法，是善加利⽤性別統計與性別分析",
+      "C": "如果未正視歧視之結構和歷史模式，及忽略男女權⼒關係之不平等，可能使現有不 平等狀況更為惡化",
+      "D": "不論在任何情況下，只要以相同⽅式對待男性和女性，就能避免間接歧視之產⽣"
+    },
+    "answer": "D",
+    "source_pages": [
+      21
+    ],
+    "question_id": "共同科目-00165",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 66,
+    "question": "下列何者「不是」菸害防制法之立法⽬的？",
+    "options": {
+      "A": "防制菸害",
+      "B": "保護未成年免於菸害",
+      "C": "保護孕婦免於菸害",
+      "D": "促進菸品的使⽤"
+    },
+    "answer": "D",
+    "source_pages": [
+      21
+    ],
+    "question_id": "共同科目-00166",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 67,
+    "question": "按菸害防制法規定，對於在禁菸場所吸菸會被罰多少錢？",
+    "options": {
+      "A": "新臺幣 2 千元⾄ 1 萬元罰鍰",
+      "B": "新臺幣 1 千元⾄ 5 千元罰鍰",
+      "C": "新臺幣 1 萬元⾄ 5 萬元罰鍰",
+      "D": "新臺幣 2 萬元⾄ 10 萬元罰鍰"
+    },
+    "answer": "A",
+    "source_pages": [
+      21
+    ],
+    "question_id": "共同科目-00167",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 68,
+    "question": "請問下列何者「不是」個⼈資料保護法所定義的個⼈資料？",
+    "options": {
+      "A": "⾝分證號碼",
+      "B": "最⾼學歷",
+      "C": "職稱",
+      "D": "護照號碼"
+    },
+    "answer": "C",
+    "source_pages": [
+      21
+    ],
+    "question_id": "共同科目-00168",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 69,
+    "question": "有關專利權的敘述，何者正確？",
+    "options": {
+      "A": "專利有規定保護年限，當某商品、技術的專利保護年限屆滿，任何⼈皆可免費運⽤ 該項專利",
+      "B": "我發明了某項商品，卻被他⼈率先申請專利權，我仍可主張擁有這項商品的專利權",
+      "C": "製造⽅法可以申請新型專利權",
+      "D": "在本國申請專利之商品進軍國外，不需向他國申請專利權"
+    },
+    "answer": "A",
+    "source_pages": [
+      21
+    ],
+    "question_id": "共同科目-00169",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 70,
+    "question": "下列何者⾏為會有侵害著作權的問題？",
+    "options": {
+      "A": "將報導事件事實的新聞⽂字轉貼於⾃⼰的社群網站",
+      "B": "直接轉貼⾼普考考古題在 FACEBOOK",
+      "C": "以分享網址的⽅式轉貼資訊分享於社群網站",
+      "D": "將講師的授課內容錄⾳，複製多份分贈友⼈"
+    },
+    "answer": "D",
+    "source_pages": [
+      21
+    ],
+    "question_id": "共同科目-00170",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 71,
+    "question": "下列有關著作權之概念，何者正確？",
+    "options": {
+      "A": "國外學者之著作，可受我國著作權法的保護",
+      "B": "公務機關所函頒之公⽂，受我國著作權法的保護",
+      "C": "著作權要待向智慧財產權申請通過後才可主張",
+      "D": "以傳達事實之新聞報導的語⽂著作，依然受著作權之保障 21"
+    },
+    "answer": "A",
+    "source_pages": [
+      21
+    ],
+    "question_id": "共同科目-00171",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 72,
+    "question": "某廠商之商標在我國已經獲准註冊，請問若希望將商品⾏銷販賣到國外，請問是否需 在當地申請註冊才能主張商標權？",
+    "options": {
+      "A": "是，因為商標權註冊採取屬地保護原則",
+      "B": "否，因為我國申請註冊之商標權在國外也會受到承認",
+      "C": "不⼀定，需視我國是否與商品希望⾏銷販賣的國家訂有相互商標承認之協定",
+      "D": "不⼀定，需視商品希望⾏銷販賣的國家是否為 WTO 會員國"
+    },
+    "answer": "A",
+    "source_pages": [
+      22
+    ],
+    "question_id": "共同科目-00172",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 73,
+    "question": "下列何者「非」屬於營業秘密？",
+    "options": {
+      "A": "具廣告性質的不動產交易底價",
+      "B": "須授權取得之產品設計或開發流程圖⽰",
+      "C": "公司內部管制的各種計畫⽅案",
+      "D": "不是公開可查知的客⼾名單分析資料"
+    },
+    "answer": "A",
+    "source_pages": [
+      22
+    ],
+    "question_id": "共同科目-00173",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 74,
+    "question": "營業秘密可分為「技術機密」與「商業機密」，下列何者屬於「商業機密」？",
+    "options": {
+      "A": "程式",
+      "B": "設計圖",
+      "C": "商業策略",
+      "D": "⽣產製程"
+    },
+    "answer": "C",
+    "source_pages": [
+      22
+    ],
+    "question_id": "共同科目-00174",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 75,
+    "question": "某甲在公務機關擔任⾸長，其弟弟⼄是某協會的理事長，⼄為舉辦協會活動，決定向 甲服務的機關申請經費補助，下列有關利益衝突迴避之敘述，何者正確？",
+    "options": {
+      "A": "協會是舉辦慈善活動，甲認為是好事，所以指⽰機關承辦⼈補助活動經費",
+      "B": "機關未經公開公平⽅式，私下直接對協會補助活動經費新臺幣 10 萬元",
+      "C": "甲應⾃⾏迴避該案審查，避免瓜⽥李下，防⽌利益衝突",
+      "D": "⼄為順利取得補助，應該隱瞞是機關⾸長甲之弟弟的⾝分"
+    },
+    "answer": "C",
+    "source_pages": [
+      22
+    ],
+    "question_id": "共同科目-00175",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 76,
+    "question": "依公職⼈員利益衝突迴避法規定，公職⼈員甲與其⼩舅⼦⼄（⼆親等以內的關係⼈） 間，下列何種⾏為不違反該法？",
+    "options": {
+      "A": "甲要求受其監督之機關聘⽤⼩舅⼦⼄",
+      "B": "⼩舅⼦⼄以請託關說之⽅式，請求甲之服務機關通過其名下農地變更使⽤申請案",
+      "C": "關係⼈⼄經政府採購法公開招標程序，並主動在投標⽂件表明與甲的⾝分關係，取 得甲服務機關之年度採購標案",
+      "D": "甲、⼄兩⼈均⾃認為⼈公正，處事坦蕩，任何往來都是清者⾃清，不需擔⼼任何問 題"
+    },
+    "answer": "C",
+    "source_pages": [
+      22
+    ],
+    "question_id": "共同科目-00176",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 77,
+    "question": "⼤雄擔任公司部⾨主管，代表公司向公務機關投標，為使公司順利取得標案，可以向 公務機關的採購⼈員為以下何種⾏為？",
+    "options": {
+      "A": "為社交禮俗需要，贈送價值昂貴的名牌⼿錶作為⾒⾯禮",
+      "B": "為與公務機關間有良好互動，招待⾄有女陪侍場所飲宴",
+      "C": "為了解招標⽂件內容，提出招標⽂件疑義並請說明",
+      "D": "為避免報價錯誤，要求提供底價作為參考 22"
+    },
+    "answer": "C",
+    "source_pages": [
+      22
+    ],
+    "question_id": "共同科目-00177",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 78,
+    "question": "下列關於政府採購⼈員之敘述，何者未違反相關規定？",
+    "options": {
+      "A": "非主動向廠商求取，是偶發地收到廠商致贈價值在新臺幣 500 元以下之廣告物、 促銷品、紀念品",
+      "B": "要求廠商提供與採購無關之額外服務",
+      "C": "利⽤職務關係向廠商借貸",
+      "D": "利⽤職務關係媒介親友⾄廠商處所任職"
+    },
+    "answer": "A",
+    "source_pages": [
+      23
+    ],
+    "question_id": "共同科目-00178",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 79,
+    "question": "下列何者有誤？",
+    "options": {
+      "A": "憲法保障⾔論⾃由，但散布假新聞、假消息仍須⾯對法律責任",
+      "B": "在網路或 Line 社群網站收到假訊息，可以敘明案情並附加截圖檔，向法務部調查 局檢舉",
+      "C": "對新聞媒體報導有意⾒，向國家通訊傳播委員會申訴",
+      "D": "⾃⼰或他⼈捏造、扭曲、竄改或虛構的訊息，只要⼀⼩部分能證明是真的，就不會 構成假訊息"
+    },
+    "answer": "D",
+    "source_pages": [
+      23
+    ],
+    "question_id": "共同科目-00179",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 80,
+    "question": "下列敘述何者正確？",
+    "options": {
+      "A": "公務機關委託的代檢（代驗）業者，不是公務員，不會觸犯到刑法的罪責",
+      "B": "賄賂或不正利益，只限於法定貨幣，給予網路遊戲幣沒有違法的問題",
+      "C": "在靠北公務員社群網站，覺得可受公評且匿名發⽂，就可以謾罵公務機關對特定案 件的檢查情形",
+      "D": "受公務機關委託辦理案件，除履⾏採購契約應辦事項外，對於蒐集到的個⼈資料， 也要遵守相關保護及保密規定"
+    },
+    "answer": "D",
+    "source_pages": [
+      23
+    ],
+    "question_id": "共同科目-00180",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 81,
+    "question": "下列有關促進參與及預防貪腐的敘述何者錯誤？",
+    "options": {
+      "A": "我國非聯合國會員國，無須落實聯合國反貪腐公約規定",
+      "B": "推動政府部⾨以外之個⼈及團體積極參與預防和打擊貪腐",
+      "C": "提⾼決策過程之透明度，並促進公眾在決策過程中發揮作⽤",
+      "D": "對公職⼈員訂定執⾏公務之⾏為守則或標準"
+    },
+    "answer": "A",
+    "source_pages": [
+      23
+    ],
+    "question_id": "共同科目-00181",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 82,
+    "question": "為建立良好之公司治理制度，公司內部宜納入何種檢舉⼈制度？",
+    "options": {
+      "A": "告訴乃論制度",
+      "B": "吹哨者（whistleblower）保護程序及保護制度",
+      "C": "不告不理制度",
+      "D": "非告訴乃論制度"
+    },
+    "answer": "B",
+    "source_pages": [
+      23
+    ],
+    "question_id": "共同科目-00182",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 83,
+    "question": "有關公司訂定誠信經營守則時，以下何者不正確？",
+    "options": {
+      "A": "避免與涉有不誠信⾏為者進⾏交易",
+      "B": "防範侵害營業秘密、商標權、專利權、著作權及其他智慧財產權",
+      "C": "建立有效之會計制度及內部控制制度",
+      "D": "防範檢舉"
+    },
+    "answer": "D",
+    "source_pages": [
+      23
+    ],
+    "question_id": "共同科目-00183",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 84,
+    "question": "乘坐轎⾞時，如有司機駕駛，按照國際乘⾞禮儀，以司機的⽅位來看，⾸位應為",
+    "options": {
+      "A": "後排右側",
+      "B": "前座右側",
+      "C": "後排左側",
+      "D": "後排中間"
+    },
+    "answer": "A",
+    "source_pages": [
+      23
+    ],
+    "question_id": "共同科目-00184",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 85,
+    "question": "今天好友突然來電，想來個「說走就走的旅⾏」，因此，無法去上班，下列何者作法 不適當？",
+    "options": {
+      "A": "打電話給主管與⼈事部⾨請假",
+      "B": "⽤ LINE 傳訊息給主管，並確認讀取且有回覆",
+      "C": "發送 E-MAIL 給主管與⼈事部⾨，並收到回覆",
+      "D": "什麼都無需做，等公司打電話來卻認後，再告知即可"
+    },
+    "answer": "D",
+    "source_pages": [
+      24
+    ],
+    "question_id": "共同科目-00185",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 86,
+    "question": "每天下班回家後，就懶得再出⾨去買菜，利⽤上班時間瀏覽線上購物網站，發現有很 多限時搶購的便宜商品，還能在下班前就可以送到公司，下班順便帶回家，省掉好多 時間，請問下列何者最適當？",
+    "options": {
+      "A": "可以，⼜沒離開⼯作崗位，且能節省時間",
+      "B": "可以，還能介紹同事⼀同團購，省更多的錢，增進同事情誼",
+      "C": "不可以，應該把商品寄回家，不是公司",
+      "D": "不可以，上班不能從事個⼈私務，應該等下班後再網路購物"
+    },
+    "answer": "D",
+    "source_pages": [
+      24
+    ],
+    "question_id": "共同科目-00186",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 87,
+    "question": "宜樺家中養了⼀隻貓，由於最近⽣病，獸醫師建議要有⼈⼀直陪牠，這樣會恢復快⼀ 點，因為上班家裡都沒⼈，所以準備帶牠到辦公室⼀起上班，請問下列何者最適當？",
+    "options": {
+      "A": "可以，只要我放在寵物箱，不要影響⼯作即可",
+      "B": "可以，同事們都答應也不反對",
+      "C": "可以，雖然貓會發出聲⾳，⼤⼩便有異味，只要處理好不影響⼯作即可",
+      "D": "不可以，建議送⾄專⾨機構照護，以免影響⼯作"
+    },
+    "answer": "D",
+    "source_pages": [
+      24
+    ],
+    "question_id": "共同科目-00187",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 88,
+    "question": "根據性別平等⼯作法，下列何者非屬職場性騷擾？",
+    "options": {
+      "A": "公司員⼯執⾏職務時，客⼾對其講黃⾊笑話，該員⼯感覺被冒犯",
+      "B": "雇主對求職者要求交往，作為僱⽤與否之交換條件",
+      "C": "公司員⼯執⾏職務時，遭到同事以「女⼈就是沒⼤腦」性別歧視⽤語加以辱罵，該 員⼯感覺其⼈格尊嚴受損",
+      "D": "公司員⼯下班後搭乘捷運，在捷運上遭到其他乘客偷拍"
+    },
+    "answer": "D",
+    "source_pages": [
+      24
+    ],
+    "question_id": "共同科目-00188",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 89,
+    "question": "根據性別平等⼯作法，下列何者非屬職場性別歧視？",
+    "options": {
+      "A": "雇主考量男性賺錢養家之社會期待，提供男性⾼於女性之薪資",
+      "B": "雇主考量女性以家庭為重之社會期待，裁員時優先資遣女性",
+      "C": "雇主事先與員⼯約定倘其有懷孕之情事，必須離職",
+      "D": "有未滿 2 歲⼦女之男性員⼯，也可申請每⽇六⼗分鐘的哺乳時間"
+    },
+    "answer": "D",
+    "source_pages": [
+      24
+    ],
+    "question_id": "共同科目-00189",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 90,
+    "question": "根據性別平等⼯作法，有關雇主防治性騷擾之責任與罰則，下列何者錯誤？",
+    "options": {
+      "A": "僱⽤受僱者 30 ⼈以上者，應訂定性騷擾防治措施、申訴及懲戒辦法",
+      "B": "雇主知悉性騷擾發⽣時，應採取立即有效之糾正及補救措施",
+      "C": "雇主違反應訂定性騷擾防治措施之規定時，處以罰鍰即可，不⽤公布其姓名",
+      "D": "雇主違反應訂定性騷擾申訴管道者，應限期令其改善，屆期未改善者，應按次處罰 24"
+    },
+    "answer": "C",
+    "source_pages": [
+      24
+    ],
+    "question_id": "共同科目-00190",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 1,
+    "question": "92 根據性別平等⼯作法規範職場性騷擾範疇，下列何者為「非」？",
+    "options": {
+      "A": "上班執⾏職務時，任何⼈以性要求、具有性意味或性別歧視之⾔詞或⾏為，造成敵 意性、脅迫性或冒犯性之⼯作環境",
+      "B": "對僱⽤、求職或執⾏職務關係受⾃⼰指揮、監督之⼈，利⽤權勢或機會為性騷擾",
+      "C": "下班回家時被陌⽣⼈以盯梢、守候、尾隨跟蹤",
+      "D": "雇主對受僱者或求職者為明⽰或暗⽰之性要求、具有性意味或性別歧視之⾔詞或⾏ 為 93 根據消除對婦女⼀切形式歧視公約（CEDAW）之直接歧視及間接歧視意涵，下列何 者錯誤？ (1)老闆得知⼩黃懷孕後，故意將⼩黃調任薪資待遇較差的⼯作，意圖使其⾃⾏離開職 場，⼩黃老闆的⾏為是直接歧視 (2)某餐廳於網路上招募外場服務⽣，條件以未婚年輕女性優先錄取，明顯以性或性別 差異為由所實施的差別待遇，為直接歧視 (3)某公司員⼯值班注意事項排除女性員⼯參與夜間輪值，是考量女性有⼈⾝安全及家 庭照顧等需求，為維護女性權益之措施，非直接歧視 (4)某科技公司規定男女員⼯之加班時數上限及加班費或津貼不同，認為女性能⼒有 限，且無法長時間⼯作，限制女性獲取薪資及升遷機會，這規定是直接歧視"
+    },
+    "answer": "C",
+    "source_pages": [
+      25
+    ],
+    "question_id": "共同科目-00191",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 94,
+    "question": "⽬前菸害防制法規範，「不可販賣菸品」給幾歲以下的⼈？",
+    "options": {
+      "A": "20",
+      "B": "19",
+      "C": "18",
+      "D": "17"
+    },
+    "answer": "A",
+    "source_pages": [
+      25
+    ],
+    "question_id": "共同科目-00192",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 95,
+    "question": "按菸害防制法規定，下列敘述何者錯誤？",
+    "options": {
+      "A": "只有老闆、店員才可以出⾯勸阻在禁菸場所抽菸的⼈",
+      "B": "任何⼈都可以出⾯勸阻在禁菸場所抽菸的⼈",
+      "C": "餐廳、旅館設置室內吸菸室，需經專業技師簽證核可",
+      "D": "加油站屬易燃易爆場所，任何⼈都可以勸阻在禁菸場所抽菸的⼈"
+    },
+    "answer": "A",
+    "source_pages": [
+      25
+    ],
+    "question_id": "共同科目-00193",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 96,
+    "question": "關於菸品對⼈體危害的敘述，下列何者「正確」？",
+    "options": {
+      "A": "只要開電風扇、或是抽風機就可以去除菸霧中的有害物質",
+      "B": "指定菸品（如：加熱菸）只要通過健康風險評估，就不會危害健康，因此⼯作時如 果想吸菸，就可以在職場拿出來使⽤",
+      "C": "雖然⾃⼰不吸菸，同事在旁邊吸菸，就會增加⾃⼰得肺癌的機率",
+      "D": "只要不將菸吸入肺部，就不會對⾝體造成傷害 25"
+    },
+    "answer": "C",
+    "source_pages": [
+      25
+    ],
+    "question_id": "共同科目-00194",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 97,
+    "question": "職場禁菸的好處不包括",
+    "options": {
+      "A": "降低吸菸者的菸品使⽤量，有助於減少吸菸導致的健康危害",
+      "B": "避免同事因為被動吸菸⽽⽣病",
+      "C": "讓吸菸者菸癮降低，戒菸較容易成功",
+      "D": "吸菸者不能抽菸會影響⼯作效率"
+    },
+    "answer": "D",
+    "source_pages": [
+      26
+    ],
+    "question_id": "共同科目-00195",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 98,
+    "question": "⼤多數的吸菸者都嘗試過戒菸，但是很少⾃⼰戒菸成功。吸菸的同事要戒菸，怎樣建 議他是無效的？",
+    "options": {
+      "A": "⿎勵他撥打戒菸專線 0800-63-63-63，取得相關建議與協助",
+      "B": "建議他到醫療院所、社區藥局找藥物戒菸",
+      "C": "建議他參加醫院或衛⽣所辦理的戒菸班",
+      "D": "戒菸是⾃⼰意願的問題，想戒就可以戒了不⽤尋求協助"
+    },
+    "answer": "D",
+    "source_pages": [
+      26
+    ],
+    "question_id": "共同科目-00196",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 99,
+    "question": "禁菸場所負責⼈未於場所入⼝處設置明顯禁菸標⽰，要罰該場所負責⼈多少元？",
+    "options": {
+      "A": "2 千-1 萬",
+      "B": "1 萬-5 萬",
+      "C": "1 萬-25 萬",
+      "D": "20 萬-100 萬"
+    },
+    "answer": "B",
+    "source_pages": [
+      26
+    ],
+    "question_id": "共同科目-00197",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 100,
+    "question": "⽬前電⼦煙是非法的，下列對電⼦煙的敘述，何者錯誤？",
+    "options": {
+      "A": "跟吸菸⼀樣會成癮",
+      "B": "會有爆炸危險",
+      "C": "沒有燃燒的菸草，不會造成⾝體傷害",
+      "D": "可能造成嚴重肺損傷 26"
+    },
+    "answer": "C",
+    "source_pages": [
+      26
+    ],
+    "question_id": "共同科目-00198",
+    "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 1,
+    "question": "世界環境⽇是在每⼀年的那⼀⽇？",
+    "options": {
+      "A": "6 ⽉ 5 ⽇",
+      "B": "4 ⽉ 10 ⽇",
+      "C": "3 ⽉ 8 ⽇",
+      "D": "11 ⽉ 12 ⽇"
+    },
+    "answer": "B",
+    "source_pages": [
+      27
+    ],
+    "question_id": "共同科目-00199",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 201,
+    "question": "5 年巴黎協議之⽬的為何？",
+    "options": {
+      "A": "避免臭氧層破壞",
+      "B": "減少持久性污染物排放",
+      "C": "遏阻全球暖化趨勢",
+      "D": "⽣物多樣性保育 3下列何者為環境保護的正確作為？ (1)多吃⾁少蔬食 (2)⾃⼰開⾞不共乘 (3)鐵⾺步⾏ (4)不隨⼿關燈 3 4下列何種⾏為對⽣態環境會造成較⼤的衝擊？ (1)種植原⽣樹⽊ (2)引進外來物種 (3)設立國家公園 (4)設立⾃然保護區"
+    },
+    "answer": "C",
+    "source_pages": [
+      27
+    ],
+    "question_id": "共同科目-00200",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 5,
+    "question": "下列哪⼀種飲食習慣能減碳抗暖化？",
+    "options": {
+      "A": "多吃速食",
+      "B": "多吃天然蔬果",
+      "C": "多吃⽜⾁",
+      "D": "多選擇吃到飽的餐館"
+    },
+    "answer": "B",
+    "source_pages": [
+      27
+    ],
+    "question_id": "共同科目-00201",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 6,
+    "question": "飼主遛狗時，其狗在道路或其他公共場所便溺時，下列何者應優先負清除責任？",
+    "options": {
+      "A": "主⼈",
+      "B": "清潔隊",
+      "C": "警察",
+      "D": "⼟地所有權⼈"
+    },
+    "answer": "A",
+    "source_pages": [
+      27
+    ],
+    "question_id": "共同科目-00202",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 7,
+    "question": "外食⾃備餐具是落實綠⾊消費的哪⼀項表現？",
+    "options": {
+      "A": "重複使⽤",
+      "B": "回收再⽣",
+      "C": "環保選購",
+      "D": "降低成本"
+    },
+    "answer": "A",
+    "source_pages": [
+      27
+    ],
+    "question_id": "共同科目-00203",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 8,
+    "question": "再⽣能源⼀般是指可永續利⽤之能源，主要包括哪些：A.化⽯燃料 B.風⼒ C.太陽能 D.⽔⼒？",
+    "options": {
+      "A": "ACD",
+      "B": "BCD",
+      "C": "ABD",
+      "D": "ABCD"
+    },
+    "answer": "B",
+    "source_pages": [
+      27
+    ],
+    "question_id": "共同科目-00204",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 9,
+    "question": "依環境基本法第 3 條規定，基於國家長期利益，經濟、科技及社會發展均應兼顧環境 保護。但如果經濟、科技及社會發展對環境有嚴重不良影響或有危害時，應以何者優 先？",
+    "options": {
+      "A": "經濟",
+      "B": "科技",
+      "C": "社會",
+      "D": "環境"
+    },
+    "answer": "D",
+    "source_pages": [
+      27
+    ],
+    "question_id": "共同科目-00205",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 10,
+    "question": "森林⾯積的減少甚⾄消失可能導致哪些影響：A.⽔資源減少 B.減緩全球暖化 C.加劇全 球暖化 D.降低⽣物多樣性？",
+    "options": {
+      "A": "ACD",
+      "B": "BCD",
+      "C": "ABD",
+      "D": "ABCD"
+    },
+    "answer": "A",
+    "source_pages": [
+      27
+    ],
+    "question_id": "共同科目-00206",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 11,
+    "question": "塑膠為海洋⽣態的殺⼿，所以政府推動「無塑海洋」政策，下列何項不是減少塑膠危 害海洋⽣態的重要措施？",
+    "options": {
+      "A": "擴⼤禁⽌免費供應塑膠袋",
+      "B": "禁⽌製造、進⼝及販售含塑膠柔珠的清潔⽤品",
+      "C": "定期進⾏海⽔⽔質監測",
+      "D": "淨灘、淨海"
+    },
+    "answer": "C",
+    "source_pages": [
+      27
+    ],
+    "question_id": "共同科目-00207",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 12,
+    "question": "違反環境保護法律或⾃治條例之⾏政法上義務，經處分機關處停⼯、停業處分或處新 臺幣五千元以上罰鍰者，應接受下列何種講習？",
+    "options": {
+      "A": "道路交通安全講習",
+      "B": "環境講習",
+      "C": "衛⽣講習",
+      "D": "消防講習 27"
+    },
+    "answer": "B",
+    "source_pages": [
+      27
+    ],
+    "question_id": "共同科目-00208",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 14,
+    "question": "「聖嬰現象」是指哪⼀區域的溫度異常升⾼？",
+    "options": {
+      "A": "⻄太平洋表層海⽔",
+      "B": "東太平洋表層海⽔",
+      "C": "⻄印度洋表層海⽔",
+      "D": "東印度洋表層海⽔"
+    },
+    "answer": "B",
+    "source_pages": [
+      28
+    ],
+    "question_id": "共同科目-00209",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 15,
+    "question": "「酸雨」定義為雨⽔酸鹼值達多少以下時稱之？",
+    "options": {
+      "A": "5.0",
+      "B": "6.0",
+      "C": "7.0",
+      "D": "8.0"
+    },
+    "answer": "A",
+    "source_pages": [
+      28
+    ],
+    "question_id": "共同科目-00210",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 16,
+    "question": "⼀般⽽⾔，⽔中溶氧量隨⽔溫之上升⽽呈下列哪⼀種趨勢？",
+    "options": {
+      "A": "增加",
+      "B": "減少",
+      "C": "不變",
+      "D": "不⼀定"
+    },
+    "answer": "B",
+    "source_pages": [
+      28
+    ],
+    "question_id": "共同科目-00211",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 17,
+    "question": "⼆⼿菸中包含多種危害⼈體的化學物質，甚⾄多種物質有致癌性，會危害到下列何者 的健康？",
+    "options": {
+      "A": "只對 12 歲以下孩童有影響",
+      "B": "只對孕婦比較有影響",
+      "C": "只有 65 歲以上之⺠眾有影響",
+      "D": "全⺠皆有影響"
+    },
+    "answer": "D",
+    "source_pages": [
+      28
+    ],
+    "question_id": "共同科目-00212",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 18,
+    "question": "⼆氧化碳和其他溫室氣體含量增加是造成全球暖化的主因之⼀，下列何種飲食⽅式也 能降低碳排放量，對環境保護做出貢獻：A.少吃⾁，多吃蔬菜；B.⽟米產量減少時， 購買⽟米罐頭食⽤；C.選擇當地食材；D.使⽤免洗餐具，減少清洗⽤⽔與清潔劑？",
+    "options": {
+      "A": "AB",
+      "B": "AC",
+      "C": "AD",
+      "D": "ACD"
+    },
+    "answer": "B",
+    "source_pages": [
+      28
+    ],
+    "question_id": "共同科目-00213",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 19,
+    "question": "上下班的交通⽅式有很多種，其中包括：A.騎腳踏⾞；B.搭乘⼤眾交通⼯具；C.⾃⾏ 開⾞，請將前述幾種交通⽅式之單位排碳量由少⾄多之排列⽅式為何？",
+    "options": {
+      "A": "ABC",
+      "B": "ACB",
+      "C": "BAC",
+      "D": "CBA"
+    },
+    "answer": "A",
+    "source_pages": [
+      28
+    ],
+    "question_id": "共同科目-00214",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 20,
+    "question": "下列何者「不是」室內空氣污染源？",
+    "options": {
+      "A": "建材",
+      "B": "辦公室事務機",
+      "C": "廢紙回收箱",
+      "D": "油漆及塗料"
+    },
+    "answer": "C",
+    "source_pages": [
+      28
+    ],
+    "question_id": "共同科目-00215",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 21,
+    "question": "下列何者不是⾃來⽔消毒採⽤的⽅式？",
+    "options": {
+      "A": "加入臭氧",
+      "B": "加入氯氣",
+      "C": "紫外線消毒",
+      "D": "加入⼆氧化碳"
+    },
+    "answer": "D",
+    "source_pages": [
+      28
+    ],
+    "question_id": "共同科目-00216",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 22,
+    "question": "下列何者不是造成全球暖化的元凶？",
+    "options": {
+      "A": "汽機⾞排放的廢氣",
+      "B": "⼯廠所排放的廢氣",
+      "C": "火⼒發電廠所排放的廢氣",
+      "D": "種植樹⽊"
+    },
+    "answer": "D",
+    "source_pages": [
+      29
+    ],
+    "question_id": "共同科目-00217",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 23,
+    "question": "下列何者不是造成臺灣⽔資源減少的主要因素？",
+    "options": {
+      "A": "超抽地下⽔",
+      "B": "雨⽔酸化",
+      "C": "⽔庫淤積",
+      "D": "濫⽤⽔資源"
+    },
+    "answer": "B",
+    "source_pages": [
+      29
+    ],
+    "question_id": "共同科目-00218",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 24,
+    "question": "下列何者是海洋受污染的現象？",
+    "options": {
+      "A": "形成紅潮",
+      "B": "形成⿊潮",
+      "C": "溫室效應",
+      "D": "臭氧層破洞"
+    },
+    "answer": "A",
+    "source_pages": [
+      29
+    ],
+    "question_id": "共同科目-00219",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 25,
+    "question": "⽔中⽣化需氧量（BOD）愈⾼，其所代表的意義為下列何者？",
+    "options": {
+      "A": "⽔為硬⽔",
+      "B": "有機污染物多",
+      "C": "⽔質偏酸",
+      "D": "分解污染物時不需消耗太多氧"
+    },
+    "answer": "B",
+    "source_pages": [
+      29
+    ],
+    "question_id": "共同科目-00220",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 26,
+    "question": "下列何者是酸雨對環境的影響？",
+    "options": {
+      "A": "湖泊⽔質酸化",
+      "B": "增加森林⽣長速度",
+      "C": "⼟壤肥沃",
+      "D": "增加⽔⽣動物種類"
+    },
+    "answer": "A",
+    "source_pages": [
+      29
+    ],
+    "question_id": "共同科目-00221",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 27,
+    "question": "下列那⼀項⽔質濃度降低會導致河川⿂類⼤量死亡？",
+    "options": {
+      "A": "氨氮",
+      "B": "溶氧",
+      "C": "⼆氧化碳",
+      "D": "⽣化需氧量"
+    },
+    "answer": "B",
+    "source_pages": [
+      29
+    ],
+    "question_id": "共同科目-00222",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 28,
+    "question": "下列何種⽣活⼩習慣的改變可減少細懸浮微粒（PM 2.5）排放，共同為改善空氣品質 盡⼀份⼼⼒？",
+    "options": {
+      "A": "少吃燒烤食物",
+      "B": "使⽤吸塵器",
+      "C": "養成運動習慣",
+      "D": "每天喝 500 cc 的⽔"
+    },
+    "answer": "A",
+    "source_pages": [
+      29
+    ],
+    "question_id": "共同科目-00223",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 29,
+    "question": "下列哪種措施不能⽤來降低空氣污染？",
+    "options": {
+      "A": "汽機⾞強制定期排氣檢測",
+      "B": "汰換老舊柴油⾞",
+      "C": "禁⽌露天燃燒稻草",
+      "D": "汽機⾞加裝消⾳器"
+    },
+    "answer": "D",
+    "source_pages": [
+      29
+    ],
+    "question_id": "共同科目-00224",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 30,
+    "question": "⼤氣層中臭氧層有何作⽤？",
+    "options": {
+      "A": "保持溫度",
+      "B": "對流最旺盛的區域",
+      "C": "吸收紫外線",
+      "D": "造成光害"
+    },
+    "answer": "C",
+    "source_pages": [
+      29
+    ],
+    "question_id": "共同科目-00225",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 31,
+    "question": "⼩李具有⼄級廢⽔專責⼈員證照，某⼯廠希望以⾼價租⽤證照的⽅式合作，請問下列 何者正確？",
+    "options": {
+      "A": "這是違法⾏為",
+      "B": "互蒙其利",
+      "C": "價錢合理即可",
+      "D": "經環保局同意即可"
+    },
+    "answer": "A",
+    "source_pages": [
+      29
+    ],
+    "question_id": "共同科目-00226",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 32,
+    "question": "可藉由下列何者改善河川⽔質且兼具提供動植物良好棲地環境？",
+    "options": {
+      "A": "運動公園",
+      "B": "⼈⼯溼地",
+      "C": "滯洪池",
+      "D": "⽔庫"
+    },
+    "answer": "B",
+    "source_pages": [
+      29
+    ],
+    "question_id": "共同科目-00227",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 33,
+    "question": "台灣⾃來⽔之⽔源主要取⾃",
+    "options": {
+      "A": "海洋的⽔",
+      "B": "河川或⽔庫的⽔",
+      "C": "綠洲的⽔",
+      "D": "灌溉渠道的⽔"
+    },
+    "answer": "B",
+    "source_pages": [
+      29
+    ],
+    "question_id": "共同科目-00228",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 34,
+    "question": "⽬前市⾯清潔劑均會強調「無磷」，是因為含磷的清潔劑使⽤後，若廢⽔排⾄河川或 湖泊等⽔域會造成甚麼影響？",
+    "options": {
+      "A": "綠牡蠣",
+      "B": "優養化",
+      "C": "秘雕⿂",
+      "D": "烏腳病 29"
+    },
+    "answer": "B",
+    "source_pages": [
+      29
+    ],
+    "question_id": "共同科目-00229",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 35,
+    "question": "冰箱在廢棄回收時應特別注意哪⼀項物質，以避免逸散⾄⼤氣中造成臭氧層的破壞？",
+    "options": {
+      "A": "冷媒",
+      "B": "甲醛",
+      "C": "汞",
+      "D": "苯"
+    },
+    "answer": "A",
+    "source_pages": [
+      30
+    ],
+    "question_id": "共同科目-00230",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 36,
+    "question": "下列何者不是噪⾳的危害所造成的現象？",
+    "options": {
+      "A": "精神很集中",
+      "B": "煩躁、失眠",
+      "C": "緊張、焦慮",
+      "D": "⼯作效率低落"
+    },
+    "answer": "A",
+    "source_pages": [
+      30
+    ],
+    "question_id": "共同科目-00231",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 37,
+    "question": "我國移動污染源空氣污染防制費的徵收機制為何？",
+    "options": {
+      "A": "依⾞輛⾥程數計費",
+      "B": "隨油品銷售徵收",
+      "C": "依牌照徵收",
+      "D": "依照排氣量徵收"
+    },
+    "answer": "B",
+    "source_pages": [
+      30
+    ],
+    "question_id": "共同科目-00232",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 38,
+    "question": "室內裝潢時，若不謹慎選擇建材，將會逸散出氣狀污染物。其中會刺激⽪膚、眼、⿐ 和呼吸道，也是致癌物質，可能為下列哪⼀種污染物？",
+    "options": {
+      "A": "臭氧",
+      "B": "甲醛",
+      "C": "氟氯碳化合物",
+      "D": "⼆氧化碳"
+    },
+    "answer": "B",
+    "source_pages": [
+      30
+    ],
+    "question_id": "共同科目-00233",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 39,
+    "question": "⾼速公路旁常⾒有農⽥違法焚燒稻草，除易產⽣濃煙影響⾏⾞安全外，也會產⽣下列 何種空氣污染物對⼈體健康造成不良的作⽤？",
+    "options": {
+      "A": "懸浮微粒",
+      "B": "⼆氧化碳（CO 2）",
+      "C": "臭氧（O 3）",
+      "D": "沼氣"
+    },
+    "answer": "A",
+    "source_pages": [
+      30
+    ],
+    "question_id": "共同科目-00234",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 40,
+    "question": "都市中常產⽣的「熱島效應」會造成何種影響？",
+    "options": {
+      "A": "增加降雨",
+      "B": "空氣污染物不易擴散",
+      "C": "空氣污染物易擴散",
+      "D": "溫度降低"
+    },
+    "answer": "B",
+    "source_pages": [
+      30
+    ],
+    "question_id": "共同科目-00235",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 41,
+    "question": "下列何者不是藉由蚊蟲傳染的疾病？",
+    "options": {
+      "A": "⽇本腦炎",
+      "B": "瘧疾",
+      "C": "登⾰熱",
+      "D": "痢疾"
+    },
+    "answer": "D",
+    "source_pages": [
+      30
+    ],
+    "question_id": "共同科目-00236",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 42,
+    "question": "下列何者非屬資源回收分類項⽬中「廢紙類」的回收物？",
+    "options": {
+      "A": "報紙",
+      "B": "雜誌",
+      "C": "紙袋",
+      "D": "⽤過的衛⽣紙"
+    },
+    "answer": "D",
+    "source_pages": [
+      30
+    ],
+    "question_id": "共同科目-00237",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 43,
+    "question": "下列何者對飲⽤瓶裝⽔之形容是正確的：A.飲⽤後之寶特瓶容器為地球增加了⼀個廢 棄物；B.運送瓶裝⽔時卡⾞會排放空氣污染物；C.瓶裝⽔⼀定比經煮沸之⾃來⽔安全 衛⽣？",
+    "options": {
+      "A": "AB",
+      "B": "BC",
+      "C": "AC",
+      "D": "ABC"
+    },
+    "answer": "A",
+    "source_pages": [
+      30
+    ],
+    "question_id": "共同科目-00238",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 44,
+    "question": "下列哪⼀項是我們在家中常⾒的環境衛⽣⽤藥？",
+    "options": {
+      "A": "體香劑",
+      "B": "殺蟲劑",
+      "C": "洗滌劑",
+      "D": "乾燥劑"
+    },
+    "answer": "B",
+    "source_pages": [
+      30
+    ],
+    "question_id": "共同科目-00239",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 45,
+    "question": "下列哪⼀種是公告應回收廢棄物中的容器類：A.廢鋁箔包 B.廢紙容器 C.寶特瓶？",
+    "options": {
+      "A": "ABC",
+      "B": "AC",
+      "C": "BC",
+      "D": "C"
+    },
+    "answer": "A",
+    "source_pages": [
+      30
+    ],
+    "question_id": "共同科目-00240",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 46,
+    "question": "⼩明拿到「垃圾強制分類」的宣導海報，標語寫著「分 3 類，好 OK」，標語中的分 3 類是指家⼾⽇常⽣活中產⽣的垃圾可以區分哪三類？",
+    "options": {
+      "A": "資源垃圾、廚餘、事業廢棄物",
+      "B": "資源垃圾、⼀般廢棄物、事業廢棄物",
+      "C": "⼀般廢棄物、事業廢棄物、放射性廢棄物",
+      "D": "資源垃圾、廚餘、⼀般垃圾"
+    },
+    "answer": "D",
+    "source_pages": [
+      30
+    ],
+    "question_id": "共同科目-00241",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 47,
+    "question": "家裡有過期的藥品，請問這些藥品要如何處理？",
+    "options": {
+      "A": "倒入⾺桶沖掉",
+      "B": "交由藥局回收",
+      "C": "繼續服⽤",
+      "D": "送給相同疾病的朋友"
+    },
+    "answer": "B",
+    "source_pages": [
+      30
+    ],
+    "question_id": "共同科目-00242",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 48,
+    "question": "台灣⻄部海岸曾發⽣的綠牡蠣事件是與下列何種物質污染⽔體有關？",
+    "options": {
+      "A": "汞",
+      "B": "銅",
+      "C": "磷",
+      "D": "鎘"
+    },
+    "answer": "B",
+    "source_pages": [
+      31
+    ],
+    "question_id": "共同科目-00243",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 49,
+    "question": "在⽣物鏈越上端的物種其體內累積持久性有機污染物（POPs）濃度將越⾼，危害性也 將越⼤，這是說明 POPs 具有下列何種特性？",
+    "options": {
+      "A": "持久性",
+      "B": "半揮發性",
+      "C": "⾼毒性",
+      "D": "⽣物累積性"
+    },
+    "answer": "D",
+    "source_pages": [
+      31
+    ],
+    "question_id": "共同科目-00244",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 50,
+    "question": "有關⼩⿊蚊敘述下列何者為非？",
+    "options": {
+      "A": "活動時間以中午⼗⼆點到下午三點為活動⾼峰期",
+      "B": "⼩⿊蚊的幼蟲以腐植質、青苔和藻類為食",
+      "C": "無論雄性或雌性皆會吸食哺乳類動物⾎液",
+      "D": "多存在⽵林、灌⽊叢、雜草叢、果園等邊緣地帶等處"
+    },
+    "answer": "C",
+    "source_pages": [
+      31
+    ],
+    "question_id": "共同科目-00245",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 51,
+    "question": "利⽤垃圾焚化廠處理垃圾的最主要優點為何？",
+    "options": {
+      "A": "減少處理後的垃圾體積",
+      "B": "去除垃圾中所有毒物",
+      "C": "減少空氣污染",
+      "D": "減少處理垃圾的程序"
+    },
+    "answer": "A",
+    "source_pages": [
+      31
+    ],
+    "question_id": "共同科目-00246",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 52,
+    "question": "利⽤豬隻的排泄物當燃料發電，是屬於下列那⼀種能源？",
+    "options": {
+      "A": "地熱能",
+      "B": "太陽能",
+      "C": "⽣質能",
+      "D": "核能"
+    },
+    "answer": "C",
+    "source_pages": [
+      31
+    ],
+    "question_id": "共同科目-00247",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 53,
+    "question": "每個⼈⽇常⽣活皆會產⽣垃圾，下列何種處理垃圾的觀念與⽅式是不正確的？",
+    "options": {
+      "A": "垃圾分類，使資源回收再利⽤",
+      "B": "所有垃圾皆掩埋處理，垃圾將會⾃然分解",
+      "C": "廚餘回收堆肥後製成肥料",
+      "D": "可燃性垃圾經焚化燃燒可有效減少垃圾體積"
+    },
+    "answer": "B",
+    "source_pages": [
+      31
+    ],
+    "question_id": "共同科目-00248",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 54,
+    "question": "防治蚊蟲最好的⽅法是",
+    "options": {
+      "A": "使⽤殺蟲劑",
+      "B": "清除孳⽣源",
+      "C": "網⼦捕捉",
+      "D": "拍打"
+    },
+    "answer": "B",
+    "source_pages": [
+      31
+    ],
+    "question_id": "共同科目-00249",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 55,
+    "question": "室內裝修業者承攬裝修⼯程，⼯程中所產⽣的廢棄物應該如何處理？",
+    "options": {
+      "A": "委託合法清除機構清運",
+      "B": "倒在偏遠⼭坡地",
+      "C": "河岸邊掩埋",
+      "D": "交給清潔隊垃圾⾞"
+    },
+    "answer": "A",
+    "source_pages": [
+      31
+    ],
+    "question_id": "共同科目-00250",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 56,
+    "question": "若使⽤後的廢電池未經回收，直接廢棄所含重⾦屬物質曝露於環境中可能產⽣那些影 響？A.地下⽔污染、B.對⼈體產⽣中毒等不良作⽤、C.對⽣物產⽣重⾦屬累積及濃縮 作⽤、D.造成優養化",
+    "options": {
+      "A": "ABC",
+      "B": "ABCD",
+      "C": "ACD",
+      "D": "BCD"
+    },
+    "answer": "A",
+    "source_pages": [
+      31
+    ],
+    "question_id": "共同科目-00251",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 57,
+    "question": "那⼀種家庭廢棄物可⽤來作為製造肥皂的主要原料？",
+    "options": {
+      "A": "食醋",
+      "B": "果⽪",
+      "C": "回鍋油",
+      "D": "熟廚餘"
+    },
+    "answer": "C",
+    "source_pages": [
+      31
+    ],
+    "question_id": "共同科目-00252",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 58,
+    "question": "世紀之毒「戴奧辛」主要透過何者⽅式進入⼈體？",
+    "options": {
+      "A": "透過觸摸",
+      "B": "透過呼吸",
+      "C": "透過飲食",
+      "D": "透過雨⽔"
+    },
+    "answer": "C",
+    "source_pages": [
+      31
+    ],
+    "question_id": "共同科目-00253",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 59,
+    "question": "臺灣地狹⼈稠，垃圾處理⼀直是不易解決的問題，下列何種是較佳的因應對策？",
+    "options": {
+      "A": "垃圾分類資源回收",
+      "B": "蓋焚化廠",
+      "C": "運⾄國外處理",
+      "D": "向海爭地掩埋"
+    },
+    "answer": "A",
+    "source_pages": [
+      32
+    ],
+    "question_id": "共同科目-00254",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 60,
+    "question": "購買下列哪⼀種商品對環境比較友善？",
+    "options": {
+      "A": "⽤過即丟的商品",
+      "B": "⼀次性的產品",
+      "C": "材質可以回收的商品",
+      "D": "過度包裝的商品"
+    },
+    "answer": "C",
+    "source_pages": [
+      32
+    ],
+    "question_id": "共同科目-00255",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 61,
+    "question": "下列何項法規的立法⽬的為預防及減輕開發⾏為對環境造成不良影響，藉以達成環境 保護之⽬的？",
+    "options": {
+      "A": "公害糾紛處理法",
+      "B": "環境影響評估法",
+      "C": "環境基本法",
+      "D": "環境教育法"
+    },
+    "answer": "B",
+    "source_pages": [
+      32
+    ],
+    "question_id": "共同科目-00256",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 62,
+    "question": "下列何種開發⾏為若對環境有不良影響之虞者，應實施環境影響評估：A.開發科學園 區；B.新建捷運⼯程；C.採礦。",
+    "options": {
+      "A": "AB",
+      "B": "BC",
+      "C": "AC",
+      "D": "ABC"
+    },
+    "answer": "D",
+    "source_pages": [
+      32
+    ],
+    "question_id": "共同科目-00257",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 63,
+    "question": "主管機關審查環境影響說明書或評估書，如認為已⾜以判斷未對環境有重⼤影響之 虞，作成之審查結論可能為下列何者？",
+    "options": {
+      "A": "通過環境影響評估審查",
+      "B": "應繼續進⾏第⼆階段環境影響評估",
+      "C": "認定不應開發",
+      "D": "補充修正資料再審"
+    },
+    "answer": "A",
+    "source_pages": [
+      32
+    ],
+    "question_id": "共同科目-00258",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 64,
+    "question": "依環境影響評估法規定，對環境有重⼤影響之虞的開發⾏為應繼續進⾏第⼆階段環境 影響評估，下列何者不是上述對環境有重⼤影響之虞或應進⾏第⼆階段環境影響評估 的決定⽅式？",
+    "options": {
+      "A": "明訂開發⾏為及規模",
+      "B": "環評委員會審查認定",
+      "C": "⾃願進⾏",
+      "D": "有⺠眾或團體抗爭"
+    },
+    "answer": "D",
+    "source_pages": [
+      32
+    ],
+    "question_id": "共同科目-00259",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 65,
+    "question": "依環境教育法，環境教育之⼾外學習應選擇何地點辦理？",
+    "options": {
+      "A": "遊樂園",
+      "B": "環境教育設施或場所",
+      "C": "森林遊樂區",
+      "D": "海洋世界"
+    },
+    "answer": "B",
+    "source_pages": [
+      32
+    ],
+    "question_id": "共同科目-00260",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 66,
+    "question": "依環境影響評估法規定，環境影響評估審查委員會審查環境影響說明書，認定下列對 環境有重⼤影響之虞者，應繼續進⾏第⼆階段環境影響評估，下列何者非屬對環境有 重⼤影響之虞者？",
+    "options": {
+      "A": "對保育類動植物之棲息⽣存有顯著不利之影響",
+      "B": "對國家經濟有顯著不利之影響",
+      "C": "對國⺠健康有顯著不利之影響",
+      "D": "對其他國家之環境有顯著不利之影響 32"
+    },
+    "answer": "B",
+    "source_pages": [
+      32
+    ],
+    "question_id": "共同科目-00261",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 67,
+    "question": "依環境影響評估法規定，第⼆階段環境影響評估，⽬的事業主管機關應舉⾏下列何種 會議？",
+    "options": {
+      "A": "說明會",
+      "B": "聽證會",
+      "C": "辯論會",
+      "D": "公聽會"
+    },
+    "answer": "D",
+    "source_pages": [
+      33
+    ],
+    "question_id": "共同科目-00262",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 68,
+    "question": "開發單位申請變更環境影響說明書、評估書內容或審查結論，符合下列哪⼀情形，得 檢附變更內容對照表辦理？",
+    "options": {
+      "A": "既有設備提昇產能⽽污染總量增加在百分之⼗以下",
+      "B": "降低環境保護設施處理等級或效率",
+      "C": "環境監測計畫變更",
+      "D": "開發⾏為規模增加未超過百分之五"
+    },
+    "answer": "C",
+    "source_pages": [
+      33
+    ],
+    "question_id": "共同科目-00263",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 69,
+    "question": "開發單位變更原申請內容有下列哪⼀情形，無須就申請變更部分，重新辦理環境影響 評估？",
+    "options": {
+      "A": "不降低環保設施之處理等級或效率",
+      "B": "規模擴增百分之⼗以上",
+      "C": "對環境品質之維護有不利影響",
+      "D": "⼟地使⽤之變更涉及原規劃之保護區"
+    },
+    "answer": "A",
+    "source_pages": [
+      33
+    ],
+    "question_id": "共同科目-00264",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 70,
+    "question": "⼯廠或交通⼯具排放空氣污染物之檢查，下列何者錯誤？",
+    "options": {
+      "A": "依中央主管機關規定之⽅法使⽤儀器進⾏檢查",
+      "B": "檢查⼈員以嗅覺進⾏氨氣濃度之判定",
+      "C": "檢查⼈員以嗅覺進⾏異味濃度之判定",
+      "D": "檢查⼈員以⾁眼進⾏粒狀污染物排放濃度之判定"
+    },
+    "answer": "B",
+    "source_pages": [
+      33
+    ],
+    "question_id": "共同科目-00265",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 71,
+    "question": "下列對於空氣污染物排放標準之敘述，何者正確：A.排放標準由中央主管機關訂定； B.所有⾏業之排放標準皆相同？",
+    "options": {
+      "A": "僅 A",
+      "B": "僅 B",
+      "C": "AB 皆正確",
+      "D": "AB 皆錯誤"
+    },
+    "answer": "A",
+    "source_pages": [
+      33
+    ],
+    "question_id": "共同科目-00266",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 72,
+    "question": "下列對於細懸浮微粒（PM 2.5）之敘述何者正確：A.空氣品質測站中⾃動監測儀所測 得之數值若⾼於空氣品質標準，即判定為不符合空氣品質標準；B.濃度監測之標準⽅ 法為中央主管機關公告之⼿動檢測⽅法；C.空氣品質標準之年平均值為 15μg/m 3？",
+    "options": {
+      "A": "僅 AB",
+      "B": "僅 BC",
+      "C": "僅 AC",
+      "D": "ABC 皆正確"
+    },
+    "answer": "B",
+    "source_pages": [
+      33
+    ],
+    "question_id": "共同科目-00267",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 73,
+    "question": "機⾞為空氣污染物之主要排放來源之⼀，下列何者可降低空氣污染物之排放量：A.將 四⾏程機⾞全⾯汰換成⼆⾏程機⾞；B.推廣電動機⾞；C.降低汽油中之硫含量？",
+    "options": {
+      "A": "僅 AB",
+      "B": "僅 BC",
+      "C": "僅 AC",
+      "D": "ABC 皆正確"
+    },
+    "answer": "B",
+    "source_pages": [
+      33
+    ],
+    "question_id": "共同科目-00268",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 74,
+    "question": "公眾聚集量⼤且滯留時間長之場所，經公告應設置⾃動監測設施，其應量測之室內空 氣污染物項⽬為何？",
+    "options": {
+      "A": "⼆氧化碳",
+      "B": "⼀氧化碳",
+      "C": "臭氧",
+      "D": "甲醛"
+    },
+    "answer": "A",
+    "source_pages": [
+      33
+    ],
+    "question_id": "共同科目-00269",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 75,
+    "question": "空氣污染源依排放特性分為固定污染源及移動污染源，下列何者屬於移動污染源？",
+    "options": {
+      "A": "焚化廠",
+      "B": "⽯化廠",
+      "C": "機⾞",
+      "D": "煉鋼廠"
+    },
+    "answer": "C",
+    "source_pages": [
+      33
+    ],
+    "question_id": "共同科目-00270",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 76,
+    "question": "我國汽機⾞移動污染源空氣污染防制費的徵收機制為何？",
+    "options": {
+      "A": "依牌照徵收",
+      "B": "隨⽔費徵收",
+      "C": "隨油品銷售徵收",
+      "D": "購⾞時徵收"
+    },
+    "answer": "C",
+    "source_pages": [
+      33
+    ],
+    "question_id": "共同科目-00271",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 77,
+    "question": "細懸浮微粒（PM 2.5）除了來⾃於污染源直接排放外，亦可能經由下列哪⼀種反應產 ⽣？",
+    "options": {
+      "A": "光合作⽤",
+      "B": "酸鹼中和",
+      "C": "厭氧作⽤",
+      "D": "光化學反應"
+    },
+    "answer": "D",
+    "source_pages": [
+      34
+    ],
+    "question_id": "共同科目-00272",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 78,
+    "question": "我國固定污染源空氣污染防制費以何種⽅式徵收？",
+    "options": {
+      "A": "依營業額徵收",
+      "B": "隨使⽤原料徵收",
+      "C": "按⼯廠⾯積徵收",
+      "D": "依排放污染物之種類及數量徵收"
+    },
+    "answer": "D",
+    "source_pages": [
+      34
+    ],
+    "question_id": "共同科目-00273",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 79,
+    "question": "在不妨害⽔體正常⽤途情況下，⽔體所能涵容污染物之量稱為",
+    "options": {
+      "A": "涵容能⼒",
+      "B": "放流能⼒",
+      "C": "運轉能⼒",
+      "D": "消化能⼒"
+    },
+    "answer": "A",
+    "source_pages": [
+      34
+    ],
+    "question_id": "共同科目-00274",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 80,
+    "question": "⽔污染防治法中所稱地⾯⽔體不包括下列何者？",
+    "options": {
+      "A": "河川",
+      "B": "海洋",
+      "C": "灌溉渠道",
+      "D": "地下⽔"
+    },
+    "answer": "D",
+    "source_pages": [
+      34
+    ],
+    "question_id": "共同科目-00275",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 81,
+    "question": "下列何者不是主管機關設置⽔質監測站採樣的項⽬？",
+    "options": {
+      "A": "⽔溫",
+      "B": "氫離⼦濃度指數",
+      "C": "溶氧量",
+      "D": "顏⾊"
+    },
+    "answer": "D",
+    "source_pages": [
+      34
+    ],
+    "question_id": "共同科目-00276",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 82,
+    "question": "事業、污⽔下⽔道系統及建築物污⽔處理設施之廢（污）⽔處理，其產⽣之污泥，依 規定應作何處理？",
+    "options": {
+      "A": "應妥善處理，不得任意放置或棄置",
+      "B": "可作為農業肥料",
+      "C": "可作為建築⼟⽅",
+      "D": "得交由清潔隊處理"
+    },
+    "answer": "A",
+    "source_pages": [
+      34
+    ],
+    "question_id": "共同科目-00277",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 83,
+    "question": "依⽔污染防治法，事業排放廢（污）⽔於地⾯⽔體者，應符合下列哪⼀標準之規定？",
+    "options": {
+      "A": "下⽔⽔質標準",
+      "B": "放流⽔標準",
+      "C": "⽔體分類⽔質標準",
+      "D": "⼟壤處理標準"
+    },
+    "answer": "B",
+    "source_pages": [
+      34
+    ],
+    "question_id": "共同科目-00278",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 84,
+    "question": "放流⽔標準，依⽔污染防治法應由何機關定之：A.中央主管機關；B.中央主管機關會 同相關⽬的事業主管機關；C.中央主管機關會商相關⽬的事業主管機關？",
+    "options": {
+      "A": "僅 A",
+      "B": "僅 B",
+      "C": "僅 C",
+      "D": "ABC"
+    },
+    "answer": "C",
+    "source_pages": [
+      34
+    ],
+    "question_id": "共同科目-00279",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 85,
+    "question": "對於噪⾳之量測，下列何者錯誤？",
+    "options": {
+      "A": "可於下雨時測量",
+      "B": "風速⼤於每秒 5 公尺時不可量測",
+      "C": "聲⾳感應器應置於離地⾯或樓板延伸線 1.2 ⾄ 1.5 公尺之間",
+      "D": "測量低頻噪⾳時，僅限於室內地點測量，非於⼾外量測"
+    },
+    "answer": "A",
+    "source_pages": [
+      34
+    ],
+    "question_id": "共同科目-00280",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 86,
+    "question": "下列對於噪⾳管制法之規定何者敘述錯誤？",
+    "options": {
+      "A": "噪⾳指超過管制標準之聲⾳",
+      "B": "環保局得視噪⾳狀況劃定公告噪⾳管制區",
+      "C": "⼈⺠得向主管機關檢舉使⽤中機動⾞輛噪⾳妨害安寧情形",
+      "D": "使⽤經校正合格之噪⾳計皆可執⾏噪⾳管制法規定之檢驗測定 34"
+    },
+    "answer": "D",
+    "source_pages": [
+      34
+    ],
+    "question_id": "共同科目-00281",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 87,
+    "question": "製造非持續性但卻妨害安寧之聲⾳者，由下列何單位依法進⾏處理？",
+    "options": {
+      "A": "警察局",
+      "B": "環保局",
+      "C": "社會局",
+      "D": "消防局"
+    },
+    "answer": "A",
+    "source_pages": [
+      35
+    ],
+    "question_id": "共同科目-00282",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 88,
+    "question": "廢棄物、剩餘⼟⽯⽅清除機具應隨⾞持有證明⽂件且應載明廢棄物、剩餘⼟⽯⽅之：A 產⽣源；B 處理地點；C 清除公司",
+    "options": {
+      "A": "僅 AB",
+      "B": "僅 BC",
+      "C": "僅 AC",
+      "D": "ABC 皆是"
+    },
+    "answer": "A",
+    "source_pages": [
+      35
+    ],
+    "question_id": "共同科目-00283",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 89,
+    "question": "從事廢棄物清除、處理業務者，應向直轄市、縣（市）主管機關或中央主管機關委託 之機關取得何種⽂件後，始得受託清除、處理廢棄物業務？",
+    "options": {
+      "A": "公⺠營廢棄物清除處理機構許可⽂件",
+      "B": "運輸⾞輛駕駛證明",
+      "C": "運輸⾞輛購買證明",
+      "D": "公司財務證明"
+    },
+    "answer": "A",
+    "source_pages": [
+      35
+    ],
+    "question_id": "共同科目-00284",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 90,
+    "question": "在何種情形下，禁⽌輸入事業廢棄物：A.對國內廢棄物處理有妨礙；B.可直接固化處 理、掩埋、焚化或海拋；C.於國內無法妥善清理？",
+    "options": {
+      "A": "僅 A",
+      "B": "僅 B",
+      "C": "僅 C",
+      "D": "ABC"
+    },
+    "answer": "D",
+    "source_pages": [
+      35
+    ],
+    "question_id": "共同科目-00285",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 91,
+    "question": "毒性化學物質因洩漏、化學反應或其他突發事故⽽污染運作場所周界外之環境，運作 ⼈應立即採取緊急防治措施，並⾄遲於多久時間內，報知直轄市、縣（市）主管機 關？",
+    "options": {
+      "A": "1 ⼩時",
+      "B": "2 ⼩時",
+      "C": "4 ⼩時",
+      "D": "30 分鐘"
+    },
+    "answer": "D",
+    "source_pages": [
+      35
+    ],
+    "question_id": "共同科目-00286",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 92,
+    "question": "下列何種物質或物品，受毒性及關注化學物質管理法之管制？",
+    "options": {
+      "A": "製造醫藥之靈丹",
+      "B": "製造農藥之蓋普丹",
+      "C": "含汞之⽇光燈",
+      "D": "使⽤青⽯綿製造⽯綿瓦"
+    },
+    "answer": "D",
+    "source_pages": [
+      35
+    ],
+    "question_id": "共同科目-00287",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 93,
+    "question": "下列何⾏為不是⼟壤及地下⽔污染整治法所指污染⾏為⼈之作為？",
+    "options": {
+      "A": "洩漏或棄置污染物",
+      "B": "非法排放或灌注污染物",
+      "C": "仲介或容許洩漏、棄置、非法排放或灌注污染物",
+      "D": "依法令規定清理污染物"
+    },
+    "answer": "D",
+    "source_pages": [
+      35
+    ],
+    "question_id": "共同科目-00288",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 94,
+    "question": "依⼟壤及地下⽔污染整治法規定，進⾏⼟壤、底泥及地下⽔污染調查、整治及提供、 檢具⼟壤及地下⽔污染檢測資料時，其⼟壤、底泥及地下⽔污染物檢驗測定，應委託 何單位辦理？",
+    "options": {
+      "A": "經中央主管機關許可之檢測機構",
+      "B": "⼤專院校",
+      "C": "政府機關",
+      "D": "⾃⾏檢驗"
+    },
+    "answer": "A",
+    "source_pages": [
+      35
+    ],
+    "question_id": "共同科目-00289",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 95,
+    "question": "為解決環境保護與經濟發展的衝突與 ⽭盾 ， 1 9 9 2 年 聯 合 國 環 境 發 展⼤會 （UNConferenceonEnvironmentandDevelopment，UNCED）制定通過",
+    "options": {
+      "A": "⽇內瓦公約",
+      "B": "蒙特婁公約",
+      "C": "21 世紀議程",
+      "D": "京都議定書"
+    },
+    "answer": "C",
+    "source_pages": [
+      35
+    ],
+    "question_id": "共同科目-00290",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 96,
+    "question": "⼀般⽽⾔，下列那⼀個防治策略是屬經濟誘因策略？",
+    "options": {
+      "A": "可轉換排放許可交易",
+      "B": "許可證制度",
+      "C": "放流⽔標準",
+      "D": "環境品質標準"
+    },
+    "answer": "A",
+    "source_pages": [
+      35
+    ],
+    "question_id": "共同科目-00291",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 97,
+    "question": "對溫室氣體管制之「無悔政策」係指",
+    "options": {
+      "A": "減輕溫室氣體效應之同時，仍可獲致社會效益",
+      "B": "全世界各國同時進⾏溫室氣體減量",
+      "C": "各類溫室氣體均有相同之減量邊際成本",
+      "D": "持續研究溫室氣體對全球氣候變遷之科學證據"
+    },
+    "answer": "A",
+    "source_pages": [
+      36
+    ],
+    "question_id": "共同科目-00292",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 98,
+    "question": "⼀般家庭垃圾在進⾏衛⽣掩埋後，會經由細菌的分解⽽產⽣甲烷氣，請問甲烷氣對⼤ 氣危機中哪⼀些效應具有影響⼒？",
+    "options": {
+      "A": "臭氧層破壞",
+      "B": "酸雨",
+      "C": "溫室效應",
+      "D": "煙霧（smog）效應"
+    },
+    "answer": "C",
+    "source_pages": [
+      36
+    ],
+    "question_id": "共同科目-00293",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 99,
+    "question": "下列國際環保公約，何者限制各國進⾏野⽣動植物交易，以保護瀕臨絕種的野⽣動植 物？",
+    "options": {
+      "A": "華盛頓公約",
+      "B": "巴塞爾公約",
+      "C": "蒙特婁議定書",
+      "D": "氣候變化綱要公約"
+    },
+    "answer": "A",
+    "source_pages": [
+      36
+    ],
+    "question_id": "共同科目-00294",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 100,
+    "question": "因⼈類活動導致「哪些營養物」過量排入海洋，造成沿海⾚潮頻繁發⽣，破壞了紅樹 林、珊瑚礁、海草，亦使⿂蝦銳減，漁業損失慘重？",
+    "options": {
+      "A": "碳及磷",
+      "B": "氮及磷",
+      "C": "氮及氯",
+      "D": "氯及鎂 36"
+    },
+    "answer": "B",
+    "source_pages": [
+      36
+    ],
+    "question_id": "共同科目-00295",
+    "category": "環境保護"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 1,
+    "question": "依經濟部能源署「指定能源⽤⼾應遵⾏之節約能源規定」，在正常使⽤條件下，公眾 出入之場所其室內冷氣溫度平均值不得低於攝⽒幾度？",
+    "options": {
+      "A": "26",
+      "B": "25",
+      "C": "24",
+      "D": "22"
+    },
+    "answer": "A",
+    "source_pages": [
+      37
+    ],
+    "question_id": "共同科目-00296",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 3,
+    "question": "下列產業中耗能佔比最⼤的產業為",
+    "options": {
+      "A": "服務業",
+      "B": "公⽤事業",
+      "C": "農林漁牧業",
+      "D": "能源密集產業"
+    },
+    "answer": "D",
+    "source_pages": [
+      37
+    ],
+    "question_id": "共同科目-00297",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 4,
+    "question": "下列何者「不是」節省能源的做法？",
+    "options": {
+      "A": "電冰箱溫度長時間設定在強冷或急冷",
+      "B": "影印機當 15 分鐘無⼈使⽤時，⾃動進入省電模式",
+      "C": "電視機勿背著窗⼾，並避免太陽直射",
+      "D": "短程不開汽⾞，以儘量搭乘公⾞、騎單⾞或步⾏為宜"
+    },
+    "answer": "A",
+    "source_pages": [
+      37
+    ],
+    "question_id": "共同科目-00298",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 5,
+    "question": "經濟部能源署的能源效率標⽰中，電冰箱分為幾個等級？",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "5",
+      "D": "7"
+    },
+    "answer": "C",
+    "source_pages": [
+      37
+    ],
+    "question_id": "共同科目-00299",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 6,
+    "question": "溫室氣體排放量：指⾃排放源排出之各種溫室氣體量乘以各該物質溫暖化潛勢所得之 合計量，以",
+    "options": {
+      "A": "氧化亞氮（N 2 O）",
+      "B": "⼆氧化碳（CO 2）",
+      "C": "甲烷（CH 4）",
+      "D": "六氟化硫（SF 6）當量表⽰"
+    },
+    "answer": "B",
+    "source_pages": [
+      37
+    ],
+    "question_id": "共同科目-00300",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 7,
+    "question": "根據氣候變遷因應法，國家溫室氣體長期減量⽬標於中華⺠國幾年達成溫室氣體淨零 排放？",
+    "options": {
+      "A": "119",
+      "B": "129",
+      "C": "139",
+      "D": "149"
+    },
+    "answer": "C",
+    "source_pages": [
+      37
+    ],
+    "question_id": "共同科目-00301",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 8,
+    "question": "氣候變遷因應法所稱主管機關，在中央為下列何單位？",
+    "options": {
+      "A": "經濟部能源署",
+      "B": "環境部",
+      "C": "國家發展委員會",
+      "D": "衛⽣福利部"
+    },
+    "answer": "B",
+    "source_pages": [
+      37
+    ],
+    "question_id": "共同科目-00302",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 9,
+    "question": "氣候變遷因應法中所稱：⼀單位之排放額度相當於允許排放多少的⼆氧化碳當量",
+    "options": {
+      "A": "1 公⽄",
+      "B": "1 立⽅米",
+      "C": "1 公噸",
+      "D": "1 公升"
+    },
+    "answer": "C",
+    "source_pages": [
+      37
+    ],
+    "question_id": "共同科目-00303",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 10,
+    "question": "下列何者「不是」全球暖化帶來的影響？",
+    "options": {
+      "A": "洪⽔",
+      "B": "熱浪",
+      "C": "地震",
+      "D": "旱災"
+    },
+    "answer": "C",
+    "source_pages": [
+      37
+    ],
+    "question_id": "共同科目-00304",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 11,
+    "question": "下列何種⽅法無法減少⼆氧化碳？",
+    "options": {
+      "A": "想吃多少儘量點，剩下可當廚餘回收",
+      "B": "選購當地、當季食材，減少運輸碳⾜跡",
+      "C": "多吃蔬菜，少吃⾁",
+      "D": "⾃備杯筷，減少免洗⽤具垃圾量"
+    },
+    "answer": "A",
+    "source_pages": [
+      38
+    ],
+    "question_id": "共同科目-00305",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 12,
+    "question": "下列何者不會減少溫室氣體的排放？",
+    "options": {
+      "A": "減少使⽤煤、⽯油等化⽯燃料",
+      "B": "⼤量植樹造林，禁⽌亂砍亂伐",
+      "C": "增⾼燃煤氣體排放的煙囪",
+      "D": "開發太陽能、⽔能等新能源"
+    },
+    "answer": "C",
+    "source_pages": [
+      38
+    ],
+    "question_id": "共同科目-00306",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 13,
+    "question": "關於綠⾊採購的敘述，下列何者錯誤？",
+    "options": {
+      "A": "採購由回收材料所製造之物品",
+      "B": "採購的產品對環境及⼈類健康有最⼩的傷害性",
+      "C": "選購對環境傷害較少、污染程度較低的產品",
+      "D": "以精美包裝為主要⾸選"
+    },
+    "answer": "D",
+    "source_pages": [
+      38
+    ],
+    "question_id": "共同科目-00307",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 14,
+    "question": "⼀旦⼤氣中的⼆氧化碳含量增加，會引起那⼀種後果？",
+    "options": {
+      "A": "溫室效應惡化",
+      "B": "臭氧層破洞",
+      "C": "冰期來臨",
+      "D": "海平⾯下降"
+    },
+    "answer": "A",
+    "source_pages": [
+      38
+    ],
+    "question_id": "共同科目-00308",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 15,
+    "question": "關於建築中常⽤的⾦屬玻璃帷幕牆，下列敘述何者正確？",
+    "options": {
+      "A": "玻璃帷幕牆的使⽤能節省室內空調使⽤",
+      "B": "玻璃帷幕牆適⽤於臺灣，讓夏天的室內產⽣溫暖的感覺",
+      "C": "在溫度⾼的國家，建築物使⽤⾦屬玻璃帷幕會造成⽇照輻射熱，產⽣室內「溫室效 應」",
+      "D": "臺灣的氣候濕熱，特別適合在⼤樓以⾦屬玻璃帷幕作為建材"
+    },
+    "answer": "C",
+    "source_pages": [
+      38
+    ],
+    "question_id": "共同科目-00309",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 16,
+    "question": "下列何者不是能源之類型？",
+    "options": {
+      "A": "電⼒",
+      "B": "壓縮空氣",
+      "C": "蒸汽",
+      "D": "熱傳"
+    },
+    "answer": "D",
+    "source_pages": [
+      38
+    ],
+    "question_id": "共同科目-00310",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 17,
+    "question": "我國已制定能源管理系統標準為",
+    "options": {
+      "A": "CNS 50001",
+      "B": "CNS 12681",
+      "C": "CNS 14001",
+      "D": "CNS 22000"
+    },
+    "answer": "A",
+    "source_pages": [
+      38
+    ],
+    "question_id": "共同科目-00311",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 18,
+    "question": "台灣電⼒股份有限公司所謂的三段式時間電價於夏⽉平⽇（非週六⽇）之尖峰⽤電時 段為何？",
+    "options": {
+      "A": "9：00~16：00",
+      "B": "9：00~24：00",
+      "C": "6：00~11：00",
+      "D": "16：00~22：00"
+    },
+    "answer": "D",
+    "source_pages": [
+      38
+    ],
+    "question_id": "共同科目-00312",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 19,
+    "question": "基於節能減碳的⽬標，下列何種光源發光效率最低，不⿎勵使⽤？",
+    "options": {
+      "A": "⽩熾燈泡",
+      "B": "LED 燈泡",
+      "C": "省電燈泡",
+      "D": "螢光燈管"
+    },
+    "answer": "A",
+    "source_pages": [
+      38
+    ],
+    "question_id": "共同科目-00313",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 20,
+    "question": "下列的能源效率分級標⽰，哪⼀項較省電？",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "A",
+    "source_pages": [
+      38
+    ],
+    "question_id": "共同科目-00314",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 21,
+    "question": "下列何者「不是」⽬前台灣主要的發電⽅式？",
+    "options": {
+      "A": "燃煤",
+      "B": "燃氣",
+      "C": "⽔⼒",
+      "D": "地熱"
+    },
+    "answer": "D",
+    "source_pages": [
+      39
+    ],
+    "question_id": "共同科目-00315",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 22,
+    "question": "有關延長線及電線的使⽤，下列敘述何者錯誤？",
+    "options": {
+      "A": "拔下延長線插頭時，應⼿握插頭取下",
+      "B": "使⽤中之延長線如有異味產⽣，屬正常現象不須理會",
+      "C": "應避開火源，以免外覆塑膠熔解，致使⽤時造成短路",
+      "D": "使⽤老舊之延長線，容易造成短路、漏電或觸電等危險情形，應立即更換"
+    },
+    "answer": "B",
+    "source_pages": [
+      39
+    ],
+    "question_id": "共同科目-00316",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 23,
+    "question": "有關觸電的處理⽅式，下列敘述何者錯誤？",
+    "options": {
+      "A": "立即將觸電者拉離現場",
+      "B": "把電源開關關閉",
+      "C": "通知救護⼈員",
+      "D": "使⽤絕緣的裝備來移除電源"
+    },
+    "answer": "A",
+    "source_pages": [
+      39
+    ],
+    "question_id": "共同科目-00317",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 24,
+    "question": "⽬前電費單中，係以「度」為收費依據，請問下列何者為其單位？",
+    "options": {
+      "A": "kW",
+      "B": "kWh",
+      "C": "kJ",
+      "D": "kJh"
+    },
+    "answer": "B",
+    "source_pages": [
+      39
+    ],
+    "question_id": "共同科目-00318",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 25,
+    "question": "依據台灣電⼒公司三段式時間電價（尖峰、半尖峰及離峰時段）的規定，請問哪個時 段電價最便宜？",
+    "options": {
+      "A": "尖峰時段",
+      "B": "夏⽉半尖峰時段",
+      "C": "非夏⽉半尖峰時段",
+      "D": "離峰時段"
+    },
+    "answer": "D",
+    "source_pages": [
+      39
+    ],
+    "question_id": "共同科目-00319",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 26,
+    "question": "當⽤電設備遭遇電源不⾜或輸配電設備受限制時，導致⽤⼾暫停或減少⽤電的情形， 常以下列何者名稱出現？",
+    "options": {
+      "A": "停電",
+      "B": "限電",
+      "C": "斷電",
+      "D": "配電"
+    },
+    "answer": "B",
+    "source_pages": [
+      39
+    ],
+    "question_id": "共同科目-00320",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 27,
+    "question": "照明控制可以達到節能與省電費的好處，下列何種⽅法最適合⼀般住宅社區兼顧節 能、經濟性與實際照明需求？",
+    "options": {
+      "A": "加裝 DALI 全⾃動控制系統",
+      "B": "走廊與地下停⾞場選⽤紅外線感應控制電燈",
+      "C": "全⾯調低照明需求",
+      "D": "晚上關閉所有公共區域的照明"
+    },
+    "answer": "B",
+    "source_pages": [
+      39
+    ],
+    "question_id": "共同科目-00321",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 28,
+    "question": "上班性質的商辦⼤樓為了降低尖峰時段⽤電，下列何者是錯的？",
+    "options": {
+      "A": "使⽤儲冰式空調系統減少⽩天空調⽤電需求",
+      "B": "⽩天有陽光照明，所以⽩天可以將照明設備全關掉",
+      "C": "汰換老舊電梯⾺達並使⽤變頻控制",
+      "D": "電梯設定隔層停⽌控制，減少頻繁啟動"
+    },
+    "answer": "B",
+    "source_pages": [
+      39
+    ],
+    "question_id": "共同科目-00322",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 29,
+    "question": "為了節能與降低電費的需求，應該如何正確選⽤家電產品？",
+    "options": {
+      "A": "選⽤⾼功率的產品效率較⾼",
+      "B": "優先選⽤取得節能標章的產品",
+      "C": "設備沒有壞，還是堪⽤，繼續⽤，不會增加⽀出",
+      "D": "選⽤能效分級數字較⾼的產品，效率較⾼，5 級的比 1 級的電器產品更省電 39"
+    },
+    "answer": "B",
+    "source_pages": [
+      39
+    ],
+    "question_id": "共同科目-00323",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 30,
+    "question": "有效⽽正確的節能從選購產品開始，就⼀般⽽⾔，下列的因素中，何者是選購電氣設 備的最優先考量項⽬？",
+    "options": {
+      "A": "⽤電量消耗電功率是多少瓦攸關電費⽀出，⽤電量⼩的優先",
+      "B": "採購價格比較，便宜優先",
+      "C": "安全第⼀，⼀定要通過安規檢驗合格",
+      "D": "名⼈或演藝明星推薦，應該⼝碑較好"
+    },
+    "answer": "C",
+    "source_pages": [
+      40
+    ],
+    "question_id": "共同科目-00324",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 31,
+    "question": "⾼效率燈具如果要降低眩光的不舒服，下列何者與降低刺眼眩光影響無關？",
+    "options": {
+      "A": "光源下⽅加裝擴散板或擴散膜",
+      "B": "燈具的遮光板",
+      "C": "光源的⾊溫",
+      "D": "採⽤間接照明"
+    },
+    "answer": "C",
+    "source_pages": [
+      40
+    ],
+    "question_id": "共同科目-00325",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 32,
+    "question": "⽤電熱爐煮火鍋，採⽤中溫 50% 加熱，比⽤⾼溫 100% 加熱，將同⼀鍋⽔煮開，下 列何者是對的？",
+    "options": {
+      "A": "中溫 50%加熱比較省電",
+      "B": "⾼溫 100%加熱比較省電",
+      "C": "中溫 50%加熱，電流反⽽比較⼤",
+      "D": "兩種⽅式⽤電量是⼀樣的"
+    },
+    "answer": "D",
+    "source_pages": [
+      40
+    ],
+    "question_id": "共同科目-00326",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 33,
+    "question": "電⼒公司為降低尖峰負載時段超載的停電風險，將尖峰時段電價費率（每度電單價） 提⾼，離峰時段的費率降低，引導⽤⼾轉移部分負載⾄離峰時段，這種電能管理策略 稱為",
+    "options": {
+      "A": "需量競價",
+      "B": "時間電價",
+      "C": "可停電⼒",
+      "D": "表燈⽤⼾彈性電價"
+    },
+    "answer": "B",
+    "source_pages": [
+      40
+    ],
+    "question_id": "共同科目-00327",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 34,
+    "question": "集合式住宅的地下停⾞場需要維持通風良好的空氣品質，⼜要兼顧節能效益，下列的 排風扇控制⽅式何者是不恰當的？",
+    "options": {
+      "A": "淘汰老舊排風扇，改裝取得節能標章、適當容量的⾼效率風扇",
+      "B": "兩天⼀次運轉通風扇就好了",
+      "C": "結合⼀氧化碳偵測器，⾃動啟動/停⽌控制",
+      "D": "設定每天早晚⼆次定期啟動排風扇"
+    },
+    "answer": "B",
+    "source_pages": [
+      40
+    ],
+    "question_id": "共同科目-00328",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 35,
+    "question": "⼤樓電梯為了節能及⽣活便利需求，可設定部分控制功能，下列何者是錯誤或不正確 的做法？",
+    "options": {
+      "A": "加感應開關，無⼈時⾃動關閉電燈與通風扇",
+      "B": "縮短每次開⾨/關⾨的時間",
+      "C": "電梯設定隔樓層停靠，減少頻繁啟動",
+      "D": "電梯⾺達加裝變頻控制 40"
+    },
+    "answer": "B",
+    "source_pages": [
+      40
+    ],
+    "question_id": "共同科目-00329",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 36,
+    "question": "為了節能及兼顧冰箱的保溫效果，下列何者是錯誤或不正確的做法？",
+    "options": {
+      "A": "冰箱內上下層間不要塞滿，以利冷藏對流",
+      "B": "食物存放位置紀錄清楚，⼀次拿⿑食物，減少開⾨次數",
+      "C": "冰箱⾨的密封壓條如果鬆弛，無法緊密關⾨，應儘速更新修復",
+      "D": "冰箱內食物擺滿塞滿，效益最⾼"
+    },
+    "answer": "D",
+    "source_pages": [
+      41
+    ],
+    "question_id": "共同科目-00330",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 37,
+    "question": "電鍋剩飯持續保溫⾄隔天再食⽤，或剩飯先放冰箱冷藏，隔天⽤微波爐加熱，就加熱 及節能觀點來評比，下列何者是對的？",
+    "options": {
+      "A": "持續保溫較省電",
+      "B": "微波爐再加熱比較省電⼜⽅便",
+      "C": "兩者⼀樣",
+      "D": "優先選電鍋保溫⽅式，因為⾺上就可以吃"
+    },
+    "answer": "B",
+    "source_pages": [
+      41
+    ],
+    "question_id": "共同科目-00331",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 38,
+    "question": "不斷電系統 UPS 與緊急發電機的裝置都是應付臨時性供電狀況；停電時，下列的陳 述何者是對的？",
+    "options": {
+      "A": "緊急發電機會先啟動，不斷電系統 UPS 是後備的",
+      "B": "不斷電系統 UPS 先啟動，緊急發電機是後備的",
+      "C": "兩者同時啟動",
+      "D": "不斷電系統 UPS 可以撐比較久"
+    },
+    "answer": "B",
+    "source_pages": [
+      41
+    ],
+    "question_id": "共同科目-00332",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 39,
+    "question": "下列何者為非再⽣能源？",
+    "options": {
+      "A": "地熱能",
+      "B": "焦煤",
+      "C": "太陽能",
+      "D": "⽔⼒能"
+    },
+    "answer": "B",
+    "source_pages": [
+      41
+    ],
+    "question_id": "共同科目-00333",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 40,
+    "question": "欲兼顧採光及降低經由玻璃部分侵入之熱負載，下列的改善⽅法何者錯誤？",
+    "options": {
+      "A": "加裝深⾊窗簾",
+      "B": "裝設百葉窗",
+      "C": "換裝雙層玻璃",
+      "D": "貼隔熱反射膠片"
+    },
+    "answer": "A",
+    "source_pages": [
+      41
+    ],
+    "question_id": "共同科目-00334",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 41,
+    "question": "⼀般桶裝瓦斯（液化⽯油氣）主要成分為丁烷與下列何種成分所組成？",
+    "options": {
+      "A": "甲烷",
+      "B": "⼄烷",
+      "C": "丙烷",
+      "D": "辛烷"
+    },
+    "answer": "C",
+    "source_pages": [
+      41
+    ],
+    "question_id": "共同科目-00335",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 42,
+    "question": "在正常操作，且提供相同暖氣之情形下，下列何種暖氣設備之能源效率最⾼？",
+    "options": {
+      "A": "冷暖氣機",
+      "B": "電熱風扇",
+      "C": "電熱輻射機",
+      "D": "電暖爐"
+    },
+    "answer": "A",
+    "source_pages": [
+      41
+    ],
+    "question_id": "共同科目-00336",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 43,
+    "question": "下列何種熱⽔器所需能源費⽤最少？",
+    "options": {
+      "A": "電熱⽔器",
+      "B": "天然瓦斯熱⽔器",
+      "C": "柴油鍋爐熱⽔器",
+      "D": "熱泵熱⽔器"
+    },
+    "answer": "D",
+    "source_pages": [
+      41
+    ],
+    "question_id": "共同科目-00337",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 44,
+    "question": "某公司希望能進⾏節能減碳，為地球盡點⼼⼒，以下何種作為並不恰當？",
+    "options": {
+      "A": "將採購規定列入以下⽂字：「汰換設備時⾸先考慮能源效率 1 級或具有節能標章之 產品」",
+      "B": "盤查所有能源使⽤設備",
+      "C": "實⾏能源管理",
+      "D": "為考慮經營成本，汰換設備時採買最便宜的機種"
+    },
+    "answer": "D",
+    "source_pages": [
+      41
+    ],
+    "question_id": "共同科目-00338",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 45,
+    "question": "冷氣外洩會造成能源之浪費，下列的入⾨設施與管理何者最耗能？",
+    "options": {
+      "A": "全開式有氣簾",
+      "B": "全開式無氣簾",
+      "C": "⾃動⾨有氣簾",
+      "D": "⾃動⾨無氣簾"
+    },
+    "answer": "B",
+    "source_pages": [
+      41
+    ],
+    "question_id": "共同科目-00339",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 46,
+    "question": "下列何者「不是」潔淨能源？",
+    "options": {
+      "A": "風能",
+      "B": "地熱",
+      "C": "太陽能",
+      "D": "⾴岩氣"
+    },
+    "answer": "D",
+    "source_pages": [
+      42
+    ],
+    "question_id": "共同科目-00340",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 47,
+    "question": "有關再⽣能源中的風⼒、太陽能的使⽤特性中，下列敘述中何者錯誤？",
+    "options": {
+      "A": "間歇性能源，供應不穩定",
+      "B": "不易受天氣影響",
+      "C": "需較⼤的⼟地⾯積",
+      "D": "設置成本較⾼"
+    },
+    "answer": "B",
+    "source_pages": [
+      42
+    ],
+    "question_id": "共同科目-00341",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 48,
+    "question": "有關台灣能源發展所⾯臨的挑戰，下列選項何者是錯誤的？",
+    "options": {
+      "A": "進⼝能源依存度⾼，能源安全易受國際影響",
+      "B": "化⽯能源所占比例⾼，溫室氣體減量壓⼒⼤",
+      "C": "⾃產能源充⾜，不需仰賴進⼝",
+      "D": "能源密集度較先進國家仍有改善空間"
+    },
+    "answer": "C",
+    "source_pages": [
+      42
+    ],
+    "question_id": "共同科目-00342",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 49,
+    "question": "若發⽣瓦斯外洩之情形，下列處理⽅法中錯誤的是？",
+    "options": {
+      "A": "應先關閉瓦斯爐或熱⽔器等開關",
+      "B": "緩慢地打開⾨窗，讓瓦斯⾃然飄散",
+      "C": "開啟電風扇，加強空氣流動",
+      "D": "在漏氣⽌住前，應保持警戒，嚴禁煙火"
+    },
+    "answer": "C",
+    "source_pages": [
+      42
+    ],
+    "question_id": "共同科目-00343",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 50,
+    "question": "全球暖化潛勢（GlobalWarmingPotential，GWP）是衡量溫室氣體對全球暖化的影 響，其中是以何者為比較基準？",
+    "options": {
+      "A": "CO 2",
+      "B": "CH 4",
+      "C": "SF 6",
+      "D": "N 2 O"
+    },
+    "answer": "A",
+    "source_pages": [
+      42
+    ],
+    "question_id": "共同科目-00344",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 51,
+    "question": "有關建築之外殼節能設計，下列敘述中錯誤的是？",
+    "options": {
+      "A": "開窗區域設置遮陽設備",
+      "B": "⼤開窗⾯避免設置於東⻄⽇曬⽅位",
+      "C": "做好屋頂隔熱設施",
+      "D": "宜採⽤全⾯玻璃造型設計，以利⾃然採光"
+    },
+    "answer": "D",
+    "source_pages": [
+      42
+    ],
+    "question_id": "共同科目-00345",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 52,
+    "question": "下列何者燈泡的發光效率最⾼？",
+    "options": {
+      "A": "LED 燈泡",
+      "B": "省電燈泡",
+      "C": "⽩熾燈泡",
+      "D": "⿄素燈泡"
+    },
+    "answer": "A",
+    "source_pages": [
+      42
+    ],
+    "question_id": "共同科目-00346",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 53,
+    "question": "有關吹風機使⽤注意事項，下列敘述中錯誤的是？",
+    "options": {
+      "A": "請勿在潮濕的地⽅使⽤，以免觸電危險",
+      "B": "應保持吹風機進、出風⼝之空氣流通，以免造成過熱",
+      "C": "應避免長時間使⽤，使⽤時應保持適當的距離",
+      "D": "可⽤來作為烘乾棉被及床單等⽤途"
+    },
+    "answer": "D",
+    "source_pages": [
+      42
+    ],
+    "question_id": "共同科目-00347",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 54,
+    "question": "下列何者是造成聖嬰現象發⽣的主要原因？",
+    "options": {
+      "A": "臭氧層破洞",
+      "B": "溫室效應",
+      "C": "霧霾",
+      "D": "颱風"
+    },
+    "answer": "B",
+    "source_pages": [
+      42
+    ],
+    "question_id": "共同科目-00348",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 55,
+    "question": "為了避免漏電⽽危害⽣命安全，下列「不正確」的做法是？",
+    "options": {
+      "A": "做好⽤電設備⾦屬外殼的接地",
+      "B": "有濕氣的⽤電場合，線路加裝漏電斷路器",
+      "C": "加強定期的漏電檢查及維護",
+      "D": "使⽤保險絲來防⽌漏電的危險性"
+    },
+    "answer": "D",
+    "source_pages": [
+      43
+    ],
+    "question_id": "共同科目-00349",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 56,
+    "question": "⽤電設備的線路保護⽤電⼒熔絲（保險絲）經常燒斷，造成停電的不便，下列「不正 確」的作法是？",
+    "options": {
+      "A": "換⼤⼀級或⼤兩級規格的保險絲或斷路器就不會燒斷了",
+      "B": "減少線路連接的電氣設備，降低⽤電量",
+      "C": "重新設計線路，改較粗的導線或⽤兩迴路並聯",
+      "D": "提⾼⽤電設備的功率因數"
+    },
+    "answer": "A",
+    "source_pages": [
+      43
+    ],
+    "question_id": "共同科目-00350",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 57,
+    "question": "政府為推廣節能設備⽽補助⺠眾汰換老舊設備，下列何者的節電效益最佳？",
+    "options": {
+      "A": "將桌上檯燈光源由螢光燈換為 LED 燈",
+      "B": "優先淘汰 10 年以上的老舊冷氣機為能源效率標⽰分級中之⼀級冷氣機",
+      "C": "汰換電風扇，改裝設能源效率標⽰分級為⼀級的冷氣機",
+      "D": "因為經費有限，選擇便宜的產品比較重要"
+    },
+    "answer": "B",
+    "source_pages": [
+      43
+    ],
+    "question_id": "共同科目-00351",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 58,
+    "question": "依據我國現⾏國家標準規定，冷氣機的冷氣能⼒標⽰應以何種單位表⽰？",
+    "options": {
+      "A": "kW",
+      "B": "BTU/h",
+      "C": "kcal/h",
+      "D": "RT"
+    },
+    "answer": "A",
+    "source_pages": [
+      43
+    ],
+    "question_id": "共同科目-00352",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 59,
+    "question": "漏電影響節電成效，並且影響⽤電安全，簡易的查修⽅法為",
+    "options": {
+      "A": "電氣材料⾏買⽀驗電起⼦，碰觸電氣設備的外殼，就可查出漏電與否",
+      "B": "⽤⼿碰觸就可以知道有無漏電",
+      "C": "⽤三⽤電表檢查",
+      "D": "看電費單有無紀錄"
+    },
+    "answer": "A",
+    "source_pages": [
+      43
+    ],
+    "question_id": "共同科目-00353",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 60,
+    "question": "使⽤了 10 幾年的通風換氣扇老舊⼜骯髒，噪⾳⼜⼤，維修時採取下列哪⼀種對策最 為正確及節能？",
+    "options": {
+      "A": "定期拆下來清洗油垢",
+      "B": "不必再猶豫，10 年以上的電扇效率偏低，直接換為⾼效率通風扇",
+      "C": "直接噴沙拉脫清潔劑就可以了，省錢⼜⽅便",
+      "D": "⾼效率通風扇較貴，換同機型的廠內備⽤品就好了"
+    },
+    "answer": "B",
+    "source_pages": [
+      43
+    ],
+    "question_id": "共同科目-00354",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 61,
+    "question": "電氣設備維修時，在關掉電源後，最好停留 1 ⾄ 5 分鐘才開始檢修，其主要的理由為 下列何者？",
+    "options": {
+      "A": "先平靜⼼情，做好準備才動⼿",
+      "B": "讓機器設備降溫下來再查修",
+      "C": "讓裡⾯的電容器有時間放電完畢，才安全",
+      "D": "法規沒有規定，這完全沒有必要 43"
+    },
+    "answer": "C",
+    "source_pages": [
+      43
+    ],
+    "question_id": "共同科目-00355",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 62,
+    "question": "電氣設備裝設於有潮濕⽔氣的環境時，最應該優先檢查及確認的措施是？",
+    "options": {
+      "A": "有無在線路上裝設漏電斷路器",
+      "B": "電氣設備上有無安全保險絲",
+      "C": "有無過載及過熱保護設備",
+      "D": "有無可能傾倒及⽣鏽"
+    },
+    "answer": "A",
+    "source_pages": [
+      44
+    ],
+    "question_id": "共同科目-00356",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 63,
+    "question": "為保持中央空調主機效率，最好每隔多久時間應請維護廠商或保養⼈員檢視中央空調 主機？",
+    "options": {
+      "A": "半年",
+      "B": "1 年",
+      "C": "1.5 年",
+      "D": "2 年"
+    },
+    "answer": "A",
+    "source_pages": [
+      44
+    ],
+    "question_id": "共同科目-00357",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 64,
+    "question": "家庭⽤電最⼤宗來⾃於",
+    "options": {
+      "A": "空調及照明",
+      "B": "電腦",
+      "C": "電視",
+      "D": "吹風機"
+    },
+    "answer": "A",
+    "source_pages": [
+      44
+    ],
+    "question_id": "共同科目-00358",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 65,
+    "question": "冷氣房內為減少⽇照⾼溫及降低空調負載，下列何種處理⽅式是錯誤的？",
+    "options": {
+      "A": "窗⼾裝設窗簾或貼隔熱紙",
+      "B": "將窗⼾或⾨開啟，讓屋內外空氣⾃然對流",
+      "C": "屋頂加裝隔熱材、⾼反射率塗料或噴⽔",
+      "D": "於屋頂進⾏薄層綠化"
+    },
+    "answer": "B",
+    "source_pages": [
+      44
+    ],
+    "question_id": "共同科目-00359",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 66,
+    "question": "有關電冰箱放置位置的處理⽅式，下列何者是正確的？",
+    "options": {
+      "A": "背後緊貼牆壁節省空間",
+      "B": "背後距離牆壁應有 10 公分以上空間，以利散熱",
+      "C": "室內空間有限，側⾯緊貼牆壁就可以了",
+      "D": "冰箱最好貼近流理台，以便存取食材"
+    },
+    "answer": "B",
+    "source_pages": [
+      44
+    ],
+    "question_id": "共同科目-00360",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 67,
+    "question": "下列何項「不是」照明節能改善需優先考量之因素？",
+    "options": {
+      "A": "照明⽅式是否適當",
+      "B": "燈具之外型是否美觀",
+      "C": "照明之品質是否適當",
+      "D": "照度是否適當"
+    },
+    "answer": "B",
+    "source_pages": [
+      44
+    ],
+    "question_id": "共同科目-00361",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 68,
+    "question": "醫院、飯店或宿舍之熱⽔系統耗能⼤，要設置熱⽔系統時，應優先選⽤何種熱⽔系統 較節能？",
+    "options": {
+      "A": "電能熱⽔系統",
+      "B": "熱泵熱⽔系統",
+      "C": "瓦斯熱⽔系統",
+      "D": "重油熱⽔系統 44"
+    },
+    "answer": "B",
+    "source_pages": [
+      44
+    ],
+    "question_id": "共同科目-00362",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 70,
+    "question": "台灣電⼒公司電價表所指的夏⽉⽤電⽉份（電價比其他⽉份⾼）是為",
+    "options": {
+      "A": "4/1~7/31",
+      "B": "5/1~8/31",
+      "C": "6/1~9/30",
+      "D": "7/1~10/31"
+    },
+    "answer": "C",
+    "source_pages": [
+      45
+    ],
+    "question_id": "共同科目-00363",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 71,
+    "question": "屋頂隔熱可有效降低空調⽤電，下列何項措施較不適當？",
+    "options": {
+      "A": "屋頂儲⽔隔熱",
+      "B": "屋頂綠化",
+      "C": "於適當位置設置太陽能板發電同時加以隔熱",
+      "D": "鋪設隔熱磚"
+    },
+    "answer": "A",
+    "source_pages": [
+      45
+    ],
+    "question_id": "共同科目-00364",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 72,
+    "question": "電腦機房使⽤時間長、耗電量⼤，下列何項措施對電腦機房之⽤電管理較不適當？",
+    "options": {
+      "A": "機房設定較低之溫度",
+      "B": "設置冷熱通道",
+      "C": "使⽤較⾼效率之空調設備",
+      "D": "使⽤新型⾼效能電腦設備"
+    },
+    "answer": "A",
+    "source_pages": [
+      45
+    ],
+    "question_id": "共同科目-00365",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 73,
+    "question": "下列有關省⽔標章的敘述中正確的是？",
+    "options": {
+      "A": "省⽔標章是環境部為推動使⽤節⽔器材，特別研定以作為消費者辨識省⽔產品的⼀ 種標誌",
+      "B": "獲得省⽔標章的產品並無嚴格測試，所以對消費者並無⼀定的保障",
+      "C": "省⽔標章能激勵廠商重視省⽔產品的研發與製造，進⽽達到推廣節⽔良性循環之⽬ 的",
+      "D": "省⽔標章除有⽤⽔設備外，亦可使⽤於冷氣或冰箱上"
+    },
+    "answer": "C",
+    "source_pages": [
+      45
+    ],
+    "question_id": "共同科目-00366",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 74,
+    "question": "透過淋浴習慣的改變就可以節約⽤⽔，以下選項何者正確？",
+    "options": {
+      "A": "淋浴時抹肥皂，無需將蓮蓬頭暫時關上",
+      "B": "等待熱⽔前流出的冷⽔可以⽤⽔桶接起來再利⽤",
+      "C": "淋浴流下的⽔不可以刷洗浴室地板",
+      "D": "淋浴沖澡流下的⽔，可以儲蓄洗菜使⽤ 如下圖，你知道這是什麼標章嗎？ (1)省⽔標章 (2)環保標章 (3)奈米標章 (4)能源效率標⽰ 45"
+    },
+    "answer": "B",
+    "source_pages": [
+      45
+    ],
+    "question_id": "共同科目-00367",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 75,
+    "question": "家⼈洗澡時，⼀個接⼀個連續洗，也是⼀種有效的省⽔⽅式嗎？",
+    "options": {
+      "A": "是，因為可以節省等待熱⽔流出之前所先流失的冷⽔",
+      "B": "否，這跟省⽔沒什麼關係，不⽤這麼⿇煩",
+      "C": "否，因為等熱⽔時流出的⽔量不多",
+      "D": "有可能省⽔也可能不省⽔，無法定論"
+    },
+    "answer": "A",
+    "source_pages": [
+      46
+    ],
+    "question_id": "共同科目-00368",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 76,
+    "question": "下列何種⽅式有助於節省洗衣機的⽤⽔量？",
+    "options": {
+      "A": "洗衣機洗滌的衣物盡量裝滿，⼀次洗完",
+      "B": "購買洗衣機時選購有省⽔標章的洗衣機，可有效節約⽤⽔",
+      "C": "無需將衣物適當分類",
+      "D": "洗濯衣物時盡量選擇⾼⽔位才洗的乾淨"
+    },
+    "answer": "B",
+    "source_pages": [
+      46
+    ],
+    "question_id": "共同科目-00369",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 77,
+    "question": "如果⽔龍頭流量過⼤，下列何種處理⽅式是錯誤的？",
+    "options": {
+      "A": "加裝節⽔墊片或起波器",
+      "B": "加裝可⾃動關閉⽔龍頭的⾃動感應器",
+      "C": "直接換裝沒有省⽔標章的⽔龍頭",
+      "D": "直接調整⽔龍頭到適當⽔量"
+    },
+    "answer": "C",
+    "source_pages": [
+      46
+    ],
+    "question_id": "共同科目-00370",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 78,
+    "question": "洗菜⽔、洗碗⽔、洗衣⽔、洗澡⽔等的清洗⽔，不可直接利⽤來做什麼⽤途？",
+    "options": {
+      "A": "洗地板",
+      "B": "沖⾺桶",
+      "C": "澆花",
+      "D": "飲⽤⽔"
+    },
+    "answer": "D",
+    "source_pages": [
+      46
+    ],
+    "question_id": "共同科目-00371",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 79,
+    "question": "如果⾺桶有不正常的漏⽔問題，下列何者處理⽅式是錯誤的？",
+    "options": {
+      "A": "因為⾺桶還能正常使⽤，所以不⽤著急，等到不能⽤時再報修即可",
+      "B": "立刻檢查⾺桶⽔箱零件有無鬆脫，並確認有無漏⽔",
+      "C": "滴幾滴食⽤⾊素到⽔箱裡，檢查有無有⾊⽔流進⾺桶，代表可能有漏⽔",
+      "D": "通知⽔電⾏或檢修⼈員來檢修，徹底根絕漏⽔問題"
+    },
+    "answer": "A",
+    "source_pages": [
+      46
+    ],
+    "question_id": "共同科目-00372",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 80,
+    "question": "⽔費的計量單位是「度」，你知道⼀度⽔的容量⼤約有多少？",
+    "options": {
+      "A": "2，000 公升",
+      "B": "3000 個 600 cc 的寶特瓶",
+      "C": "1 立⽅公尺的⽔量",
+      "D": "3 立⽅公尺的⽔量"
+    },
+    "answer": "C",
+    "source_pages": [
+      46
+    ],
+    "question_id": "共同科目-00373",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 81,
+    "question": "臺灣在⼀年中什麼時期會比較缺⽔（即枯⽔期）？",
+    "options": {
+      "A": "6 ⽉⾄ 9 ⽉",
+      "B": "9 ⽉⾄ 12 ⽉",
+      "C": "11 ⽉⾄次年 4 ⽉",
+      "D": "臺灣全年不缺⽔"
+    },
+    "answer": "C",
+    "source_pages": [
+      46
+    ],
+    "question_id": "共同科目-00374",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 82,
+    "question": "下列何種現象「不是」直接造成台灣缺⽔的原因？",
+    "options": {
+      "A": "降雨季節分佈不平均，有時候連續好幾個⽉不下雨，有時⼜會下起豪⼤雨",
+      "B": "地形⼭⾼坡陡，所以雨⼀下很快就會流入⼤海",
+      "C": "因為⺠⽣與⼯商業⽤⽔需求量都愈來愈⼤，所以缺⽔季節很容易無⽔可⽤",
+      "D": "台灣地區夏天過熱，致蒸發量過⼤ 46"
+    },
+    "answer": "D",
+    "source_pages": [
+      46
+    ],
+    "question_id": "共同科目-00375",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 83,
+    "question": "冷凍食品該如何讓它退冰，才是既「節能」⼜「省⽔」？",
+    "options": {
+      "A": "直接⽤⽔沖食物強迫退冰",
+      "B": "使⽤微波爐解凍快速⼜⽅便",
+      "C": "烹煮前盡早拿出來放置退冰",
+      "D": "⽤熱⽔浸泡，每 5 分鐘更換⼀次"
+    },
+    "answer": "C",
+    "source_pages": [
+      47
+    ],
+    "question_id": "共同科目-00376",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 84,
+    "question": "洗碗、洗菜⽤何種⽅式可以達到清洗⼜省⽔的效果？",
+    "options": {
+      "A": "對著⽔龍頭直接沖洗，且要盡量將⽔龍頭開⼤才能確保洗的乾淨",
+      "B": "將適量的⽔放在盆槽內洗濯，以減少⽤⽔",
+      "C": "把碗盤、菜等浸在⽔盆裡，再開⽔龍頭拼命沖⽔",
+      "D": "⽤熱⽔及冷⽔⼤量交叉沖洗達到最佳清洗效果"
+    },
+    "answer": "B",
+    "source_pages": [
+      47
+    ],
+    "question_id": "共同科目-00377",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 85,
+    "question": "解決台灣⽔荒（缺⽔）問題的無效對策是",
+    "options": {
+      "A": "興建⽔庫、蓄洪（豐）濟枯",
+      "B": "全⾯節約⽤⽔",
+      "C": "⽔資源重複利⽤，海⽔淡化…等",
+      "D": "積極推動全⺠體育運動"
+    },
+    "answer": "D",
+    "source_pages": [
+      47
+    ],
+    "question_id": "共同科目-00378",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 87,
+    "question": "澆花的時間何時較為適當，⽔分不易蒸發⼜對植物最好？",
+    "options": {
+      "A": "正中午",
+      "B": "下午時段",
+      "C": "清晨或傍晚",
+      "D": "半夜⼗⼆點"
+    },
+    "answer": "C",
+    "source_pages": [
+      47
+    ],
+    "question_id": "共同科目-00379",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 88,
+    "question": "下列何種⽅式沒有辦法降低洗衣機之使⽤⽔量，所以不建議採⽤？",
+    "options": {
+      "A": "使⽤低⽔位清洗",
+      "B": "選擇快洗⾏程",
+      "C": "兩、三件衣服也丟洗衣機洗",
+      "D": "選擇有⾃動調節⽔量的洗衣機"
+    },
+    "answer": "C",
+    "source_pages": [
+      47
+    ],
+    "question_id": "共同科目-00380",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 89,
+    "question": "有關省⽔⾺桶的使⽤⽅式與觀念認知，下列何者是錯誤的？",
+    "options": {
+      "A": "選⽤衛浴設備時最好能採⽤省⽔標章⾺桶",
+      "B": "如果家裡的⾺桶是傳統舊式，可以加裝⼆段式沖⽔配件",
+      "C": "省⽔⾺桶因為⽔量較⼩，會有沖不乾淨的問題，所以應該多沖幾次",
+      "D": "因為⾺桶是家裡⽤⽔的⼤宗，所以應該儘量採⽤省⽔⾺桶來節約⽤⽔ 如下圖，你知道這是什麼標章嗎？ (1)奈米標章 (2)環保標章 (3)省⽔標章 (4)節能標章 47"
+    },
+    "answer": "C",
+    "source_pages": [
+      47
+    ],
+    "question_id": "共同科目-00381",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 90,
+    "question": "下列的洗⾞⽅式，何者「無法」節約⽤⽔？",
+    "options": {
+      "A": "使⽤有開關的⽔管可以隨時控制出⽔",
+      "B": "⽤⽔桶及海綿抹布擦洗",
+      "C": "⽤⼤⼝徑強⼒⽔注沖洗",
+      "D": "利⽤機械⾃動洗⾞，洗⾞⽔處理循環使⽤"
+    },
+    "answer": "C",
+    "source_pages": [
+      48
+    ],
+    "question_id": "共同科目-00382",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 91,
+    "question": "下列何種現象「無法」看出家裡有漏⽔的問題？",
+    "options": {
+      "A": "⽔龍頭打開使⽤時，⽔表的指針持續在轉動",
+      "B": "牆⾯、地⾯或天花板忽然出現潮濕的現象",
+      "C": "⾺桶裡的⽔常在晃動，或是沒辦法⽌⽔",
+      "D": "對他⼈為權勢性騷擾以外之性騷擾者，由直轄市、縣（市）主管機關處 1 萬元以上 10 萬元以下罰鍰"
+    },
+    "answer": "A",
+    "source_pages": [
+      48
+    ],
+    "question_id": "共同科目-00383",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 92,
+    "question": "蓮蓬頭出⽔量過⼤時，下列對策何者「無法」達到省⽔？",
+    "options": {
+      "A": "換裝有省⽔標章的低流量（5~10 L/min）蓮蓬頭",
+      "B": "淋浴時⽔量開⼤，無需改變使⽤⽅法",
+      "C": "洗澡時間盡量縮短，塗抹肥皂時要把蓮蓬頭關起來",
+      "D": "調整熱⽔器⽔量到適中位置"
+    },
+    "answer": "B",
+    "source_pages": [
+      48
+    ],
+    "question_id": "共同科目-00384",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 93,
+    "question": "⾃來⽔淨⽔步驟，何者是錯誤的？",
+    "options": {
+      "A": "混凝",
+      "B": "沉澱",
+      "C": "過濾",
+      "D": "煮沸"
+    },
+    "answer": "D",
+    "source_pages": [
+      48
+    ],
+    "question_id": "共同科目-00385",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 94,
+    "question": "為了取得良好的⽔資源，通常在河川的哪⼀段興建⽔庫？",
+    "options": {
+      "A": "上游",
+      "B": "中游",
+      "C": "下游",
+      "D": "下游出⼝"
+    },
+    "answer": "A",
+    "source_pages": [
+      48
+    ],
+    "question_id": "共同科目-00386",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 95,
+    "question": "台灣是屬缺⽔地區，每⼈每年實際分配到可利⽤⽔量是世界平均值的約多少？",
+    "options": {
+      "A": "1/2",
+      "B": "1/4",
+      "C": "1/5",
+      "D": "1/6"
+    },
+    "answer": "D",
+    "source_pages": [
+      48
+    ],
+    "question_id": "共同科目-00387",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 96,
+    "question": "台灣年降雨量是世界平均值的 2.6 倍，卻仍屬缺⽔地區，下列何者不是真正缺⽔的原 因？",
+    "options": {
+      "A": "台灣由於⼭坡陡峻，以及颱風豪雨雨勢急促，⼤部分的降雨量皆迅速流入海洋",
+      "B": "降雨量在地域、季節分佈極不平均",
+      "C": "⽔庫蓋得太少",
+      "D": "台灣⾃來⽔⽔價過於便宜"
+    },
+    "answer": "C",
+    "source_pages": [
+      48
+    ],
+    "question_id": "共同科目-00388",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 97,
+    "question": "電源插座堆積灰塵可能引起電氣意外火災，維護保養時的正確做法是？",
+    "options": {
+      "A": "可以先⽤刷⼦刷去積塵",
+      "B": "直接⽤吹風機吹開灰塵就可以了",
+      "C": "應先關閉電源總開關箱內控制該插座的分路開關，然後再清理灰塵",
+      "D": "可以⽤⾦屬接點清潔劑噴在插座中去除銹蝕"
+    },
+    "answer": "C",
+    "source_pages": [
+      48
+    ],
+    "question_id": "共同科目-00389",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 98,
+    "question": "溫室氣體易造成全球氣候變遷的影響，下列何者不屬於溫室氣體？",
+    "options": {
+      "A": "⼆氧化碳（CO 2）",
+      "B": "氫氟碳化物（HFCs）",
+      "C": "甲烷（CH 4）",
+      "D": "氧氣（O 2"
+    },
+    "answer": "D",
+    "source_pages": [
+      48
+    ],
+    "question_id": "共同科目-00390",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 99,
+    "question": "就能源管理系統⽽⾔，下列何者不是能源效率的表⽰⽅式？",
+    "options": {
+      "A": "汽⾞－公⾥/公升",
+      "B": "照明系統－瓦特/平⽅公尺（W/m 2）",
+      "C": "冰⽔主機－千瓦/冷凍噸（kW/RT）",
+      "D": "冰⽔主機－千瓦（kW）"
+    },
+    "answer": "D",
+    "source_pages": [
+      49
+    ],
+    "question_id": "共同科目-00391",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 100,
+    "question": "某⼯廠規劃汰換老舊低效率設備，以下何種做法並不恰當？",
+    "options": {
+      "A": "可考慮使⽤較⾼效率設備產品",
+      "B": "先針對老舊設備建立其「能源指標」或「能源基線」",
+      "C": "唯恐⼀直浪費能源，未經評估就⾺上將老舊設備汰換掉",
+      "D": "改善後需進⾏能源績效評估 49 Powered by TCPDF (www.tcpdf.org)"
+    },
+    "answer": "C",
+    "source_pages": [
+      49
+    ],
+    "question_id": "共同科目-00392",
+    "category": "節能減碳"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 91,
+    "question": "根據性騷擾防治法，有關性騷擾之責任與罰則，下列何者錯誤？",
+    "options": {
+      "A": "對他⼈為性騷擾者，如果沒有造成他⼈財產上之損失，就無需負擔⾦錢賠償之責任",
+      "B": "對於因教育、訓練、醫療、公務、業務、求職，受⾃⼰監督、照護之⼈，利⽤權勢 或機會為性騷擾者，得加重科處罰鍰⾄⼆分之⼀",
+      "C": "意圖性騷擾，乘⼈不及抗拒⽽為親吻、擁抱或觸摸其臀部、胸部或其他⾝體隱私處 之⾏為者，處 2 年以下有期徒刑、拘役或科或併科 10 萬元以下罰⾦",
+      "D": "對他⼈為權勢性騷擾以外之性騷擾者，"
+    },
+    "answer": "A",
+    "source_pages": [
+      25
+    ],
+    "question_id": "共同科目-00393",
+    "category": "工作倫理與職業道德"
+  }
+]

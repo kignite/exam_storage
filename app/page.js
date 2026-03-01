@@ -10,6 +10,11 @@ const MODES = {
 const ALL_CATEGORY = '__ALL__';
 const QUIZ_COUNTS = [25, 50, 80];
 const MEMORIZE_PAGE_SIZES = [5, 10, 20];
+const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || '';
+const DATA_SOURCES = [
+  { subject: '美容丙級', file: 'questions_美容丙級.json' },
+  { subject: '共同科目', file: 'questions_共同科目.json' }
+];
 
 function shuffle(list) {
   const arr = [...list];
@@ -61,11 +66,17 @@ export default function HomePage() {
     async function fetchData() {
       try {
         setLoading(true);
-        const res = await fetch('/api/questions', { cache: 'no-store' });
-        const json = await res.json();
-        if (!res.ok) {
-          throw new Error(json.error || 'failed_to_fetch');
-        }
+        const loaded = await Promise.all(
+          DATA_SOURCES.map(async ({ subject: s, file }) => {
+            const res = await fetch(`${BASE_PATH}/data/${file}`, { cache: 'no-store' });
+            if (!res.ok) {
+              throw new Error(`failed_to_fetch_${file}`);
+            }
+            const questions = await res.json();
+            return [s, questions];
+          })
+        );
+        const json = Object.fromEntries(loaded);
         if (!active) return;
         setAllData(json);
         const firstSubject = Object.keys(json)[0];
