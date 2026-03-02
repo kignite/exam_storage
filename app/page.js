@@ -37,6 +37,11 @@ function clampQuizCount(value) {
   return Math.min(100, Math.max(1, Math.floor(value)));
 }
 
+function scrollToTop() {
+  if (typeof window === 'undefined') return;
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
 export default function HomePage() {
   const [allData, setAllData] = useState(null);
   const [subject, setSubject] = useState('美容丙級');
@@ -204,17 +209,21 @@ export default function HomePage() {
   function goMemorizeNextPage() {
     if (memorizePage + 1 < memorizeTotalPages) {
       setMemorizePage((v) => v + 1);
+      scrollToTop();
       return;
     }
     setMemorizePage(0);
+    scrollToTop();
   }
 
   function goMemorizePrevPage() {
     if (memorizePage - 1 >= 0) {
       setMemorizePage((v) => v - 1);
+      scrollToTop();
       return;
     }
     setMemorizePage(memorizeTotalPages - 1);
+    scrollToTop();
   }
 
   function startQuiz() {
@@ -252,9 +261,11 @@ export default function HomePage() {
     if (!quizQuestions.length) return;
     if (quizIndex + 1 < quizQuestions.length) {
       setQuizIndex((v) => v + 1);
+      scrollToTop();
       return;
     }
     setQuizFinished(true);
+    scrollToTop();
   }
 
   const maxQuizCount = filteredQuestions.length;
