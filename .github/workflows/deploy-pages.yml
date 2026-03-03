@@ -17,6 +17,9 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -29,10 +32,10 @@ jobs:
           cache-dependency-path: web/package-lock.json
 
       - name: Install dependencies
-        run: cd web && npm ci
+        run: npm install
 
       - name: Build static site
-        run: cd web && npm run build
+        run: npm run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
