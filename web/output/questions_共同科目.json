@@ -3232,13 +3232,13 @@
   },
   {
     "subject": "共同科目",
-    "source_question_number": 1,
-    "question": "92 根據性別平等⼯作法規範職場性騷擾範疇，下列何者為「非」？",
+    "source_question_number": 92,
+    "question": "根據性別平等工作法規範職場性騷擾範疇，下列何者為「非」？",
     "options": {
-      "A": "上班執⾏職務時，任何⼈以性要求、具有性意味或性別歧視之⾔詞或⾏為，造成敵 意性、脅迫性或冒犯性之⼯作環境",
-      "B": "對僱⽤、求職或執⾏職務關係受⾃⼰指揮、監督之⼈，利⽤權勢或機會為性騷擾",
-      "C": "下班回家時被陌⽣⼈以盯梢、守候、尾隨跟蹤",
-      "D": "雇主對受僱者或求職者為明⽰或暗⽰之性要求、具有性意味或性別歧視之⾔詞或⾏ 為 93 根據消除對婦女⼀切形式歧視公約（CEDAW）之直接歧視及間接歧視意涵，下列何 者錯誤？ (1)老闆得知⼩黃懷孕後，故意將⼩黃調任薪資待遇較差的⼯作，意圖使其⾃⾏離開職 場，⼩黃老闆的⾏為是直接歧視 (2)某餐廳於網路上招募外場服務⽣，條件以未婚年輕女性優先錄取，明顯以性或性別 差異為由所實施的差別待遇，為直接歧視 (3)某公司員⼯值班注意事項排除女性員⼯參與夜間輪值，是考量女性有⼈⾝安全及家 庭照顧等需求，為維護女性權益之措施，非直接歧視 (4)某科技公司規定男女員⼯之加班時數上限及加班費或津貼不同，認為女性能⼒有 限，且無法長時間⼯作，限制女性獲取薪資及升遷機會，這規定是直接歧視"
+      "A": "上班執行職務時，任何人以性要求、具有性意味或性別歧視之言詞或行為，造成敵意性、脅迫性或冒犯性之工作環境",
+      "B": "對僱用、求職或執行職務關係受自己指揮、監督之人，利用權勢或機會為性騷擾",
+      "C": "下班回家時被陌生人以盯梢、守候、尾隨跟蹤",
+      "D": "雇主對受僱者或求職者為明示或暗示之性要求、具有性意味或性別歧視之言詞或行為"
     },
     "answer": "C",
     "source_pages": [
@@ -3385,13 +3385,13 @@
   },
   {
     "subject": "共同科目",
-    "source_question_number": 201,
-    "question": "5 年巴黎協議之⽬的為何？",
+    "source_question_number": 2,
+    "question": "2015年巴黎協議之目的為何？",
     "options": {
       "A": "避免臭氧層破壞",
       "B": "減少持久性污染物排放",
       "C": "遏阻全球暖化趨勢",
-      "D": "⽣物多樣性保育 3下列何者為環境保護的正確作為？ (1)多吃⾁少蔬食 (2)⾃⼰開⾞不共乘 (3)鐵⾺步⾏ (4)不隨⼿關燈 3 4下列何種⾏為對⽣態環境會造成較⼤的衝擊？ (1)種植原⽣樹⽊ (2)引進外來物種 (3)設立國家公園 (4)設立⾃然保護區"
+      "D": "生物多樣性保育"
     },
     "answer": "C",
     "source_pages": [
@@ -6680,5 +6680,153 @@
     ],
     "question_id": "共同科目-00393",
     "category": "工作倫理與職業道德"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 93,
+    "question": "根據消除對婦女一切形式歧視公約（CEDAW）之直接歧視及間接歧視意涵，下列何者錯誤？",
+    "options": {
+      "A": "老闆得知小黃懷孕後，故意將小黃調任薪資待遇較差的工作，意圖使其自行離開職場，小黃老闆的行為是直接歧視",
+      "B": "某餐廳於網路上招募外場服務生，條件以未婚年輕女性優先錄取，明顯以性或性別差異為由所實施的差別待遇，為直接歧視",
+      "C": "某公司員工值班注意事項排除女性員工參與夜間輪值，是考量女性有人身安全及家庭照顧等需求，為維護女性權益之措施，非直接歧視",
+      "D": "某科技公司規定男女員工之加班時數上限及加班費或津貼不同，認為女性能力有限且無法長時間工作，限制女性獲取薪資及升遷機會，這規定是直接歧視"
+    },
+    "answer": "C",
+    "source_pages": [
+      25
+    ],
+    "question_id": "共同科目-00993",
+    "category": "工作倫理與職業道德",
+    "parse_status": "repaired"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 3,
+    "question": "下列何者為環境保護的正確作為？",
+    "options": {
+      "A": "多吃肉少蔬食",
+      "B": "自己開車不共乘",
+      "C": "鐵馬步行",
+      "D": "不隨手關燈"
+    },
+    "answer": "C",
+    "source_pages": [
+      27
+    ],
+    "question_id": "共同科目-00994",
+    "category": "環境保護",
+    "parse_status": "repaired"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 4,
+    "question": "下列何種行為對生態環境會造成較大的衝擊？",
+    "options": {
+      "A": "種植原生樹木",
+      "B": "引進外來物種",
+      "C": "設立國家公園",
+      "D": "設立自然保護區"
+    },
+    "answer": "B",
+    "source_pages": [
+      27
+    ],
+    "question_id": "共同科目-00995",
+    "category": "環境保護",
+    "parse_status": "repaired"
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 13,
+    "question": "下列何者為環保標章？",
+    "options": {
+      "A": "[圖片選項 A]",
+      "B": "[圖片選項 B]",
+      "C": "[圖片選項 C]",
+      "D": "[圖片選項 D]"
+    },
+    "answer": "A",
+    "source_pages": [
+      28
+    ],
+    "question_id": "共同科目-00996",
+    "category": "環境保護",
+    "requires_image_options": true,
+    "parse_status": "image_attached",
+    "option_images": {
+      "A": "/question-images/common/env-013-a.png",
+      "B": "/question-images/common/env-013-b.png",
+      "C": "/question-images/common/env-013-c.png",
+      "D": "/question-images/common/env-013-d.png"
+    }
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 2,
+    "question": "下列何者為節能標章？",
+    "options": {
+      "A": "[圖片選項 A]",
+      "B": "[圖片選項 B]",
+      "C": "[圖片選項 C]",
+      "D": "[圖片選項 D]"
+    },
+    "answer": "B",
+    "source_pages": [
+      37
+    ],
+    "question_id": "共同科目-00997",
+    "category": "節能減碳",
+    "requires_image_options": true,
+    "parse_status": "image_attached",
+    "option_images": {
+      "A": "/question-images/common/energy-002-a.png",
+      "B": "/question-images/common/energy-002-b.png",
+      "C": "/question-images/common/energy-002-c.png",
+      "D": "/question-images/common/energy-002-d.png"
+    }
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 69,
+    "question": "如下圖，你知道這是什麼標章嗎？",
+    "options": {
+      "A": "省水標章",
+      "B": "環保標章",
+      "C": "奈米標章",
+      "D": "能源效率標示"
+    },
+    "answer": "D",
+    "source_pages": [
+      45
+    ],
+    "question_id": "共同科目-00998",
+    "category": "節能減碳",
+    "requires_image_options": true,
+    "parse_status": "image_attached",
+    "option_images": {
+      "D": "/question-images/common/energy-069-d.png"
+    }
+  },
+  {
+    "subject": "共同科目",
+    "source_question_number": 86,
+    "question": "如下圖，你知道這是什麼標章嗎？",
+    "options": {
+      "A": "奈米標章",
+      "B": "環保標章",
+      "C": "省水標章",
+      "D": "節能標章"
+    },
+    "answer": "C",
+    "source_pages": [
+      47
+    ],
+    "question_id": "共同科目-00999",
+    "category": "節能減碳",
+    "requires_image_options": true,
+    "parse_status": "image_attached",
+    "option_images": {
+      "C": "/question-images/common/energy-086-c.png"
+    }
   }
 ]

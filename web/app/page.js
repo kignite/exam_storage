@@ -192,11 +192,17 @@ export default function HomePage() {
           question: q.question,
           selected: row.selected,
           answer: q.answer,
-          options: q.options
+          options: q.options,
+          option_images: q.option_images || {}
         };
       })
       .filter(Boolean);
   }, [quizQuestions, quizSelections]);
+
+  function getOptionImageSrc(question, key) {
+    const rel = question?.option_images?.[key];
+    return rel ? `${BASE_PATH}${rel}` : '';
+  }
 
   const quizWrongByCategory = useMemo(() => {
     return quizWrongItems.reduce((acc, item) => {
@@ -381,7 +387,16 @@ export default function HomePage() {
                           <p className="meta">科目：{subject} / 分類：{q.category || '未分類'}</p>
                           <ul className="plainList">
                             {Object.entries(q.options).map(([key, text]) => (
-                              <li key={key}>{key}. {text}</li>
+                              <li key={key}>
+                                {getOptionImageSrc(q, key) ? (
+                                  <div className="optionMedia">
+                                    <span className="optionLabel">{key}.</span>
+                                    <img src={getOptionImageSrc(q, key)} alt={`選項 ${key}`} className="optionImage" />
+                                  </div>
+                                ) : (
+                                  `${key}. ${text}`
+                                )}
+                              </li>
                             ))}
                           </ul>
                           <p className="answer">
@@ -527,7 +542,20 @@ export default function HomePage() {
                                 className={classNames}
                                 onClick={() => submitQuizAnswer(key)}
                               >
-                                <strong>{key}.</strong> {text}
+                                {getOptionImageSrc(currentQuizQuestion, key) ? (
+                                  <div className="optionMedia">
+                                    <strong className="optionLabel">{key}.</strong>
+                                    <img
+                                      src={getOptionImageSrc(currentQuizQuestion, key)}
+                                      alt={`選項 ${key}`}
+                                      className="optionImage"
+                                    />
+                                  </div>
+                                ) : (
+                                  <>
+                                    <strong>{key}.</strong> {text}
+                                  </>
+                                )}
                               </button>
                             );
                           })}
@@ -598,7 +626,14 @@ export default function HomePage() {
                                         .filter(Boolean)
                                         .join(' ')}
                                     >
-                                      {key}. {text}
+                                      {getOptionImageSrc(item, key) ? (
+                                        <div className="optionMedia">
+                                          <span className="optionLabel">{key}.</span>
+                                          <img src={getOptionImageSrc(item, key)} alt={`選項 ${key}`} className="optionImage" />
+                                        </div>
+                                      ) : (
+                                        `${key}. ${text}`
+                                      )}
                                       {item.selected === key ? '（你的答案）' : ''}
                                       {item.answer === key ? '（正確答案）' : ''}
                                     </li>

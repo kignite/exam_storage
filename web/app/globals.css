@@ -172,6 +172,23 @@ button:disabled {
   transition: 120ms ease;
 }
 
+.optionMedia {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.optionLabel {
+  min-width: 26px;
+  font-weight: 700;
+}
+
+.optionImage {
+  max-height: 76px;
+  width: auto;
+  object-fit: contain;
+}
+
 .option:hover {
   border-color: var(--accent);
 }
@@ -307,6 +324,10 @@ button:disabled {
 
   .stats {
     flex-direction: column;
+  }
+
+  .optionImage {
+    max-height: 58px;
   }
 
   .sticker {
