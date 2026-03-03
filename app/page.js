@@ -15,6 +15,14 @@ const DATA_SOURCES = [
   { subject: '美容丙級', file: 'questions_美容丙級.json' },
   { subject: '共同科目', file: 'questions_共同科目.json' }
 ];
+const ALIEN_STICKERS = [
+  { src: 'alien-2.png', className: 's1' },
+  { src: 'alien-4.png', className: 's2' },
+  { src: 'alien-2.png', className: 's3' },
+  { src: 'alien-4.png', className: 's4' },
+  { src: 'alien-2.png', className: 's5' },
+  { src: 'alien-4.png', className: 's6' }
+];
 
 function shuffle(list) {
   const arr = [...list];
@@ -281,6 +289,16 @@ export default function HomePage() {
 
   return (
     <main className="page">
+      <div className="bgStickers" aria-hidden="true">
+        {ALIEN_STICKERS.map((item) => (
+          <img
+            key={item.src}
+            className={`sticker ${item.className}`}
+            src={`${BASE_PATH}/stickers/${item.src}`}
+            alt=""
+          />
+        ))}
+      </div>
       <div className="container">
         <h1>題庫練習</h1>
 

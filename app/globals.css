@@ -25,11 +25,73 @@ body {
 .page {
   min-height: 100vh;
   padding: 24px;
+  position: relative;
+  overflow-x: hidden;
+}
+
+.bgStickers {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.sticker {
+  position: absolute;
+  width: 200px;
+  height: auto;
+  object-fit: contain;
+  opacity: 0.15;
+  filter: drop-shadow(0 8px 12px rgba(0, 0, 0, 0.12));
+}
+
+.s1 {
+  width: 260px;
+  top: 18px;
+  left: 10px;
+  transform: rotate(-6deg);
+}
+
+.s2 {
+  width: 145px;
+  top: 18px;
+  right: 8px;
+  transform: rotate(7deg);
+}
+
+.s3 {
+  width: 145px;
+  top: 48%;
+  left: 8px;
+  transform: rotate(-8deg);
+}
+
+.s4 {
+  width: 130px;
+  top: 46%;
+  right: 8px;
+  transform: rotate(10deg);
+}
+
+.s5 {
+  width: 170px;
+  bottom: 28px;
+  left: 10px;
+  transform: rotate(-5deg);
+}
+
+.s6 {
+  width: 120px;
+  bottom: 30px;
+  right: 10px;
+  transform: rotate(9deg);
 }
 
 .container {
   max-width: 920px;
   margin: 0 auto;
+  position: relative;
+  z-index: 1;
 }
 
 h1 {
@@ -245,5 +307,26 @@ button:disabled {
 
   .stats {
     flex-direction: column;
+  }
+
+  .sticker {
+    width: 94px;
+    height: auto;
+    opacity: 0.12;
+  }
+
+  .s1 {
+    width: 150px;
+  }
+
+  .s2,
+  .s3,
+  .s5 {
+    width: 108px;
+  }
+
+  .s4,
+  .s6 {
+    width: 88px;
   }
 }
