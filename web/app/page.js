@@ -65,6 +65,7 @@ export default function HomePage() {
 
   const [quizCount, setQuizCount] = useState(25);
   const [quizCountMode, setQuizCountMode] = useState('25');
+  const [quizCustomInput, setQuizCustomInput] = useState('25');
   const [quizQuestions, setQuizQuestions] = useState([]);
   const [quizIndex, setQuizIndex] = useState(0);
   const [quizStarted, setQuizStarted] = useState(false);
@@ -148,6 +149,7 @@ export default function HomePage() {
     setQuizSelections({});
     setQuizElapsedSec(0);
     setQuizStartedAt(0);
+    setQuizCustomInput(String(quizCount));
   }, [subject, category, filteredQuestions.length]);
 
   useEffect(() => {
@@ -277,7 +279,10 @@ export default function HomePage() {
   }
 
   const maxQuizCount = filteredQuestions.length;
-  const normalizedQuizCount = clampQuizCount(quizCount);
+  const normalizedQuizCount =
+    quizCountMode === 'custom'
+      ? clampQuizCount(Number(quizCustomInput))
+      : clampQuizCount(quizCount);
   const effectiveQuizCount = Math.min(normalizedQuizCount, maxQuizCount);
   const isSpecificCategory = category !== ALL_CATEGORY;
   const lockQuizCountSelection = isSpecificCategory && maxQuizCount < 50;
@@ -418,7 +423,9 @@ export default function HomePage() {
                             const nextMode = e.target.value;
                             setQuizCountMode(nextMode);
                             if (nextMode !== 'custom') {
-                              setQuizCount(clampQuizCount(Number(nextMode)));
+                              const normalized = clampQuizCount(Number(nextMode));
+                              setQuizCount(normalized);
+                              setQuizCustomInput(String(normalized));
                             }
                           }}
                           disabled={lockQuizCountSelection}
@@ -444,14 +451,22 @@ export default function HomePage() {
                             type="number"
                             min={1}
                             max={100}
-                            value={normalizedQuizCount}
+                            value={quizCustomInput}
                             onChange={(e) => {
-                              const next = Number(e.target.value);
-                              if (!Number.isNaN(next)) {
-                                setQuizCount(next);
+                              const text = e.target.value;
+                              if (/^\d*$/.test(text)) {
+                                setQuizCustomInput(text);
                               }
                             }}
-                            onBlur={() => setQuizCount(clampQuizCount(quizCount))}
+                            onBlur={() => {
+                              if (!quizCustomInput) {
+                                setQuizCustomInput('25');
+                                return;
+                              }
+                              setQuizCustomInput(
+                                String(clampQuizCount(Number(quizCustomInput)))
+                              );
+                            }}
                           />
                         </label>
                       )}

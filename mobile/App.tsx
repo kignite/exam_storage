@@ -1,7 +1,6 @@
-import React, {useEffect, useMemo, useState} from 'react';
+import React, {useEffect, useMemo, useRef, useState} from 'react';
 import {
   Pressable,
-  SafeAreaView,
   ScrollView,
   StatusBar,
   StyleSheet,
@@ -9,6 +8,11 @@ import {
   TextInput,
   View,
 } from 'react-native';
+import {
+  SafeAreaProvider,
+  SafeAreaView,
+  useSafeAreaInsets,
+} from 'react-native-safe-area-context';
 
 type Question = {
   subject: string;
@@ -37,6 +41,7 @@ const MODES = {
   QUIZ: 'quiz',
 } as const;
 const QUIZ_COUNTS = [25, 50, 80];
+const MEMORIZE_COUNTS = [25, 50, 80] as const;
 const MEMORIZE_PAGE_SIZES = [5, 10, 20];
 
 const beautyQuestions = require('./src/data/questions_美容丙級.json') as Question[];
@@ -77,20 +82,28 @@ function getQuestionId(question: Question, index: number): string {
   return `${question.subject}-${index}`;
 }
 
-function App(): React.JSX.Element {
+function AppContent(): React.JSX.Element {
+  const insets = useSafeAreaInsets();
+  const scrollRef = useRef<ScrollView>(null);
+
   const [subjectKey, setSubjectKey] = useState(SUBJECTS[0].key);
   const [category, setCategory] = useState<string>(ALL_CATEGORY);
   const [mode, setMode] = useState<(typeof MODES)[keyof typeof MODES]>(MODES.MEMORIZE);
 
+  const [session, setSession] = useState<'setup' | 'memorize' | 'quiz'>('setup');
+
+  const [memorizePageSize, setMemorizePageSize] = useState(5);
+  const [memorizeCountMode, setMemorizeCountMode] = useState<'25' | '50' | '80' | 'all'>('all');
+  const [memorizeRandom, setMemorizeRandom] = useState(false);
   const [memorizeOrder, setMemorizeOrder] = useState<number[]>([]);
   const [memorizePage, setMemorizePage] = useState(0);
-  const [memorizePageSize, setMemorizePageSize] = useState(5);
 
+  const [quizRandom, setQuizRandom] = useState(true);
   const [quizCount, setQuizCount] = useState(25);
   const [quizCountMode, setQuizCountMode] = useState('25');
+  const [quizCustomInput, setQuizCustomInput] = useState('25');
   const [quizQuestions, setQuizQuestions] = useState<Question[]>([]);
   const [quizIndex, setQuizIndex] = useState(0);
-  const [quizStarted, setQuizStarted] = useState(false);
   const [quizFinished, setQuizFinished] = useState(false);
   const [quizSelections, setQuizSelections] = useState<Record<string, QuizSelection>>({});
   const [quizElapsedSec, setQuizElapsedSec] = useState(0);
@@ -116,6 +129,19 @@ function App(): React.JSX.Element {
     return activeSubject.questions.filter(item => (item.category || '未分類') === category);
   }, [activeSubject.questions, category]);
 
+  const maxQuizCount = filteredQuestions.length;
+  const normalizedQuizCount =
+    quizCountMode === 'custom'
+      ? clampQuizCount(Number(quizCustomInput))
+      : clampQuizCount(quizCount);
+  const effectiveQuizCount = Math.min(normalizedQuizCount, maxQuizCount);
+  const memorizeTargetCount =
+    memorizeCountMode === 'all'
+      ? filteredQuestions.length
+      : Math.min(Number(memorizeCountMode), filteredQuestions.length);
+  const isSpecificCategory = category !== ALL_CATEGORY;
+  const lockQuizCountSelection = isSpecificCategory && maxQuizCount < 50;
+
   useEffect(() => {
     if (category !== ALL_CATEGORY && !categories.includes(category)) {
       setCategory(ALL_CATEGORY);
@@ -123,20 +149,19 @@ function App(): React.JSX.Element {
   }, [category, categories]);
 
   useEffect(() => {
-    setMemorizeOrder(filteredQuestions.map((_, index) => index));
+    setSession('setup');
+    setMemorizeOrder([]);
     setMemorizePage(0);
-
-    setQuizStarted(false);
-    setQuizFinished(false);
     setQuizQuestions([]);
     setQuizIndex(0);
+    setQuizFinished(false);
     setQuizSelections({});
     setQuizElapsedSec(0);
     setQuizStartedAt(0);
-  }, [subjectKey, category, filteredQuestions]);
+  }, [subjectKey, category, mode]);
 
   useEffect(() => {
-    if (!quizStarted || quizFinished || !quizStartedAt) {
+    if (session !== 'quiz' || quizFinished || !quizStartedAt) {
       return;
     }
 
@@ -146,7 +171,7 @@ function App(): React.JSX.Element {
     }, 1000);
 
     return () => clearInterval(timer);
-  }, [quizStarted, quizFinished, quizStartedAt]);
+  }, [session, quizFinished, quizStartedAt]);
 
   const memorizeStart = memorizePage * memorizePageSize;
   const memorizeTotalPages = Math.max(1, Math.ceil(memorizeOrder.length / memorizePageSize));
@@ -159,12 +184,6 @@ function App(): React.JSX.Element {
   const currentQuizQuestionId = currentQuizQuestion
     ? getQuestionId(currentQuizQuestion, quizIndex)
     : '';
-
-  const maxQuizCount = filteredQuestions.length;
-  const normalizedQuizCount = clampQuizCount(quizCount);
-  const effectiveQuizCount = Math.min(normalizedQuizCount, maxQuizCount);
-  const isSpecificCategory = category !== ALL_CATEGORY;
-  const lockQuizCountSelection = isSpecificCategory && maxQuizCount < 50;
 
   const quizAnsweredCount = useMemo(
     () => Object.keys(quizSelections).length,
@@ -213,14 +232,21 @@ function App(): React.JSX.Element {
   const pointsPerQuestion = quizQuestions.length ? 100 / quizQuestions.length : 0;
   const quizScore = Math.round(quizCorrectCount * pointsPerQuestion * 100) / 100;
 
-  const resetQuiz = () => {
-    setQuizStarted(false);
-    setQuizFinished(false);
-    setQuizQuestions([]);
-    setQuizIndex(0);
-    setQuizSelections({});
-    setQuizElapsedSec(0);
-    setQuizStartedAt(0);
+  const scrollToTop = () => {
+    scrollRef.current?.scrollTo({y: 0, animated: true});
+  };
+
+  const startMemorize = () => {
+    const base = filteredQuestions.map((_, index) => index);
+    const orderBase = memorizeRandom ? shuffle(base) : base;
+    const order =
+      memorizeCountMode === 'all'
+        ? orderBase
+        : orderBase.slice(0, memorizeTargetCount);
+    setMemorizeOrder(order);
+    setMemorizePage(0);
+    setSession('memorize');
+    setTimeout(scrollToTop, 0);
   };
 
   const startQuiz = () => {
@@ -228,14 +254,27 @@ function App(): React.JSX.Element {
       return;
     }
     const count = Math.min(normalizedQuizCount, filteredQuestions.length);
-    const picked = shuffle(filteredQuestions).slice(0, count);
+    const source = quizRandom ? shuffle(filteredQuestions) : [...filteredQuestions];
+    const picked = source.slice(0, count);
     setQuizQuestions(picked);
     setQuizIndex(0);
     setQuizSelections({});
     setQuizFinished(false);
-    setQuizStarted(true);
     setQuizElapsedSec(0);
     setQuizStartedAt(Date.now());
+    setSession('quiz');
+    setTimeout(scrollToTop, 0);
+  };
+
+  const goBackToSetup = () => {
+    setSession('setup');
+    setQuizFinished(false);
+    setQuizQuestions([]);
+    setQuizIndex(0);
+    setQuizSelections({});
+    setQuizElapsedSec(0);
+    setQuizStartedAt(0);
+    setTimeout(scrollToTop, 0);
   };
 
   const submitQuizAnswer = (option: string) => {
@@ -254,152 +293,339 @@ function App(): React.JSX.Element {
     }
     if (quizIndex + 1 < quizQuestions.length) {
       setQuizIndex(prev => prev + 1);
+      scrollToTop();
       return;
     }
     setQuizFinished(true);
+    scrollToTop();
+  };
+
+  const changeMemorizePage = (nextPage: number) => {
+    setMemorizePage(nextPage);
+    scrollToTop();
   };
 
   const goMemorizeNextPage = () => {
     if (memorizePage + 1 < memorizeTotalPages) {
-      setMemorizePage(prev => prev + 1);
+      changeMemorizePage(memorizePage + 1);
       return;
     }
-    setMemorizePage(0);
+    changeMemorizePage(0);
   };
 
   const goMemorizePrevPage = () => {
     if (memorizePage - 1 >= 0) {
-      setMemorizePage(prev => prev - 1);
+      changeMemorizePage(memorizePage - 1);
       return;
     }
-    setMemorizePage(memorizeTotalPages - 1);
+    changeMemorizePage(memorizeTotalPages - 1);
   };
 
+  const isRandom = mode === MODES.MEMORIZE ? memorizeRandom : quizRandom;
+  const setRandom = (value: boolean) => {
+    if (mode === MODES.MEMORIZE) {
+      setMemorizeRandom(value);
+    } else {
+      setQuizRandom(value);
+    }
+  };
+
+  const renderMemorizePager = () => (
+    <View style={styles.pagerRow}>
+      <Pressable style={styles.secondaryButton} onPress={goMemorizePrevPage}>
+        <Text style={styles.secondaryButtonText}>上一頁</Text>
+      </Pressable>
+      <Text style={styles.pagerText}>
+        {memorizeOrder.length ? memorizePage + 1 : 0}/{memorizeTotalPages}
+      </Text>
+      <Pressable style={styles.primaryButton} onPress={goMemorizeNextPage}>
+        <Text style={styles.primaryButtonText}>下一頁</Text>
+      </Pressable>
+    </View>
+  );
+
   return (
-    <SafeAreaView style={styles.safeArea}>
+    <SafeAreaView style={styles.safeArea} edges={['top']}>
       <StatusBar barStyle="dark-content" backgroundColor="#f4f7fb" />
-      <ScrollView contentContainerStyle={styles.container}>
+      <ScrollView
+        ref={scrollRef}
+        contentContainerStyle={[
+          styles.container,
+          {paddingBottom: insets.bottom + 28},
+        ]}>
         <Text style={styles.title}>阿肥的題庫</Text>
 
-        <View style={styles.card}>
-          <Text style={styles.sectionTitle}>科目</Text>
-          <View style={styles.rowWrap}>
-            {SUBJECTS.map(item => {
-              const active = item.key === subjectKey;
-              return (
-                <Pressable
-                  key={item.key}
-                  style={[styles.chip, active && styles.chipActive]}
-                  onPress={() => setSubjectKey(item.key)}>
-                  <Text style={[styles.chipText, active && styles.chipTextActive]}>
-                    {item.label}
-                  </Text>
-                </Pressable>
-              );
-            })}
-          </View>
-
-          <Text style={styles.sectionTitle}>分類</Text>
-          <View style={styles.rowWrap}>
-            <Pressable
-              style={[styles.chip, category === ALL_CATEGORY && styles.chipActive]}
-              onPress={() => setCategory(ALL_CATEGORY)}>
-              <Text
-                style={[
-                  styles.chipText,
-                  category === ALL_CATEGORY && styles.chipTextActive,
-                ]}>
-                不分類（全部）
-              </Text>
-            </Pressable>
-            {categories.map(item => {
-              const active = category === item;
-              return (
-                <Pressable
-                  key={item}
-                  style={[styles.chip, active && styles.chipActive]}
-                  onPress={() => setCategory(item)}>
-                  <Text style={[styles.chipText, active && styles.chipTextActive]}>
-                    {item}
-                  </Text>
-                </Pressable>
-              );
-            })}
-          </View>
-
-          <Text style={styles.sectionTitle}>模式</Text>
-          <View style={styles.modeRow}>
-            <Pressable
-              style={[styles.modeButton, mode === MODES.MEMORIZE && styles.modeButtonActive]}
-              onPress={() => setMode(MODES.MEMORIZE)}>
-              <Text
-                style={[
-                  styles.modeButtonText,
-                  mode === MODES.MEMORIZE && styles.modeButtonTextActive,
-                ]}>
-                記憶模式
-              </Text>
-            </Pressable>
-            <Pressable
-              style={[styles.modeButton, mode === MODES.QUIZ && styles.modeButtonActive]}
-              onPress={() => setMode(MODES.QUIZ)}>
-              <Text
-                style={[
-                  styles.modeButtonText,
-                  mode === MODES.QUIZ && styles.modeButtonTextActive,
-                ]}>
-                出題模式
-              </Text>
-            </Pressable>
-          </View>
-        </View>
-
-        {mode === MODES.MEMORIZE && (
+        {session === 'setup' && (
           <View style={styles.card}>
-            <Text style={styles.meta}>
-              共 {filteredQuestions.length} 題，頁數 {memorizeOrder.length ? memorizePage + 1 : 0}/
-              {memorizeTotalPages}
-            </Text>
+            <Text style={styles.sectionTitle}>設定</Text>
 
+            <Text style={styles.label}>科目</Text>
             <View style={styles.rowWrap}>
-              {MEMORIZE_PAGE_SIZES.map(size => {
-                const active = memorizePageSize === size;
+              {SUBJECTS.map(item => {
+                const active = item.key === subjectKey;
                 return (
                   <Pressable
-                    key={size}
-                    style={[styles.smallChip, active && styles.smallChipActive]}
-                    onPress={() => {
-                      setMemorizePageSize(size);
-                      setMemorizePage(0);
-                    }}>
-                    <Text
-                      style={[
-                        styles.smallChipText,
-                        active && styles.smallChipTextActive,
-                      ]}>
-                      每頁 {size}
+                    key={item.key}
+                    style={[styles.chip, active && styles.chipActive]}
+                    onPress={() => setSubjectKey(item.key)}>
+                    <Text style={[styles.chipText, active && styles.chipTextActive]}>
+                      {item.label}
                     </Text>
                   </Pressable>
                 );
               })}
             </View>
 
-            <View style={styles.actionRow}>
-              <Pressable style={styles.secondaryButton} onPress={goMemorizePrevPage}>
-                <Text style={styles.secondaryButtonText}>上一頁</Text>
+            <Text style={styles.label}>分類</Text>
+            <View style={styles.rowWrap}>
+              <Pressable
+                style={[styles.chip, category === ALL_CATEGORY && styles.chipActive]}
+                onPress={() => setCategory(ALL_CATEGORY)}>
+                <Text
+                  style={[
+                    styles.chipText,
+                    category === ALL_CATEGORY && styles.chipTextActive,
+                  ]}>
+                  不分類（全部）
+                </Text>
+              </Pressable>
+              {categories.map(item => {
+                const active = category === item;
+                return (
+                  <Pressable
+                    key={item}
+                    style={[styles.chip, active && styles.chipActive]}
+                    onPress={() => setCategory(item)}>
+                    <Text style={[styles.chipText, active && styles.chipTextActive]}>
+                      {item}
+                    </Text>
+                  </Pressable>
+                );
+              })}
+            </View>
+
+            <Text style={styles.label}>題目順序</Text>
+            <View style={styles.rowWrap}>
+              <Pressable
+                style={[styles.smallChip, !isRandom && styles.smallChipActive]}
+                onPress={() => setRandom(false)}>
+                <Text
+                  style={[
+                    styles.smallChipText,
+                    !isRandom && styles.smallChipTextActive,
+                  ]}>
+                  照排序
+                </Text>
               </Pressable>
               <Pressable
-                style={styles.secondaryButton}
-                onPress={() => {
-                  setMemorizeOrder(shuffle(filteredQuestions.map((_, index) => index)));
-                  setMemorizePage(0);
-                }}>
-                <Text style={styles.secondaryButtonText}>隨機</Text>
-              </Pressable>
-              <Pressable style={styles.primaryButton} onPress={goMemorizeNextPage}>
-                <Text style={styles.primaryButtonText}>下一頁</Text>
+                style={[styles.smallChip, isRandom && styles.smallChipActive]}
+                onPress={() => setRandom(true)}>
+                <Text
+                  style={[
+                    styles.smallChipText,
+                    isRandom && styles.smallChipTextActive,
+                  ]}>
+                  隨機
+                </Text>
               </Pressable>
             </View>
+
+            <Text style={styles.label}>模式</Text>
+            <View style={styles.modeRow}>
+              <Pressable
+                style={[styles.modeButton, mode === MODES.MEMORIZE && styles.modeButtonActive]}
+                onPress={() => setMode(MODES.MEMORIZE)}>
+                <Text
+                  style={[
+                    styles.modeButtonText,
+                    mode === MODES.MEMORIZE && styles.modeButtonTextActive,
+                  ]}>
+                  記憶模式
+                </Text>
+              </Pressable>
+              <Pressable
+                style={[styles.modeButton, mode === MODES.QUIZ && styles.modeButtonActive]}
+                onPress={() => setMode(MODES.QUIZ)}>
+                <Text
+                  style={[
+                    styles.modeButtonText,
+                    mode === MODES.QUIZ && styles.modeButtonTextActive,
+                  ]}>
+                  出題模式
+                </Text>
+              </Pressable>
+            </View>
+
+            {mode === MODES.MEMORIZE && (
+              <>
+                <Text style={styles.label}>題目數</Text>
+                <View style={styles.rowWrap}>
+                  {MEMORIZE_COUNTS.map(count => {
+                    const key = String(count) as '25' | '50' | '80';
+                    const active = memorizeCountMode === key;
+                    return (
+                      <Pressable
+                        key={key}
+                        style={[styles.smallChip, active && styles.smallChipActive]}
+                        onPress={() => setMemorizeCountMode(key)}>
+                        <Text
+                          style={[
+                            styles.smallChipText,
+                            active && styles.smallChipTextActive,
+                          ]}>
+                          {count}
+                        </Text>
+                      </Pressable>
+                    );
+                  })}
+                  <Pressable
+                    style={[
+                      styles.smallChip,
+                      memorizeCountMode === 'all' && styles.smallChipActive,
+                    ]}
+                    onPress={() => setMemorizeCountMode('all')}>
+                    <Text
+                      style={[
+                        styles.smallChipText,
+                        memorizeCountMode === 'all' && styles.smallChipTextActive,
+                      ]}>
+                      all
+                    </Text>
+                  </Pressable>
+                </View>
+
+                <Text style={styles.label}>每頁題數</Text>
+                <View style={styles.rowWrap}>
+                  {MEMORIZE_PAGE_SIZES.map(size => {
+                    const active = memorizePageSize === size;
+                    return (
+                      <Pressable
+                        key={size}
+                        style={[styles.smallChip, active && styles.smallChipActive]}
+                        onPress={() => setMemorizePageSize(size)}>
+                        <Text
+                          style={[
+                            styles.smallChipText,
+                            active && styles.smallChipTextActive,
+                          ]}>
+                          {size}
+                        </Text>
+                      </Pressable>
+                    );
+                  })}
+                </View>
+
+                <Text style={styles.meta}>
+                  實際題數：{memorizeTargetCount} 題
+                  {memorizeCountMode !== 'all' && memorizeTargetCount < Number(memorizeCountMode)
+                    ? '（題庫不足已自動調整）'
+                    : ''}
+                </Text>
+                <Pressable
+                  style={[styles.primaryButton, !filteredQuestions.length && styles.buttonDisabled]}
+                  onPress={startMemorize}
+                  disabled={!filteredQuestions.length}>
+                  <Text style={styles.primaryButtonText}>開始記憶</Text>
+                </Pressable>
+              </>
+            )}
+
+            {mode === MODES.QUIZ && (
+              <>
+                <Text style={styles.label}>題目數</Text>
+                <View style={styles.rowWrap}>
+                  {(lockQuizCountSelection ? [effectiveQuizCount] : QUIZ_COUNTS).map(count => {
+                    const active = Number(quizCountMode) === count;
+                    return (
+                      <Pressable
+                        key={count}
+                        style={[styles.smallChip, active && styles.smallChipActive]}
+                        onPress={() => {
+                          setQuizCountMode(String(count));
+                          setQuizCount(count);
+                          setQuizCustomInput(String(count));
+                        }}
+                        disabled={lockQuizCountSelection}>
+                        <Text
+                          style={[
+                            styles.smallChipText,
+                            active && styles.smallChipTextActive,
+                          ]}>
+                          {count}
+                        </Text>
+                      </Pressable>
+                    );
+                  })}
+                  {!lockQuizCountSelection && (
+                    <Pressable
+                      style={[
+                        styles.smallChip,
+                        quizCountMode === 'custom' && styles.smallChipActive,
+                      ]}
+                      onPress={() => setQuizCountMode('custom')}>
+                      <Text
+                        style={[
+                          styles.smallChipText,
+                          quizCountMode === 'custom' && styles.smallChipTextActive,
+                        ]}>
+                        自訂
+                      </Text>
+                    </Pressable>
+                  )}
+                </View>
+
+                {!lockQuizCountSelection && quizCountMode === 'custom' && (
+                  <TextInput
+                    style={styles.input}
+                    keyboardType="number-pad"
+                    value={quizCustomInput}
+                    placeholder="輸入 1~100"
+                    onChangeText={text => {
+                      if (/^\d*$/.test(text)) {
+                        setQuizCustomInput(text);
+                      }
+                    }}
+                    onBlur={() => {
+                      if (!quizCustomInput) {
+                        setQuizCustomInput('25');
+                        return;
+                      }
+                      setQuizCustomInput(String(clampQuizCount(Number(quizCustomInput))));
+                    }}
+                  />
+                )}
+
+                <Text style={styles.meta}>
+                  實際出題：{effectiveQuizCount} 題
+                  {maxQuizCount < normalizedQuizCount ? '（題庫不足已自動調整）' : ''}
+                </Text>
+                <Text style={styles.meta}>目前題數：{filteredQuestions.length}</Text>
+
+                <Pressable
+                  style={[styles.primaryButton, !filteredQuestions.length && styles.buttonDisabled]}
+                  onPress={startQuiz}
+                  disabled={!filteredQuestions.length}>
+                  <Text style={styles.primaryButtonText}>開始測驗</Text>
+                </Pressable>
+              </>
+            )}
+          </View>
+        )}
+
+        {session === 'memorize' && (
+          <View style={styles.card}>
+            <View style={styles.topActions}>
+              <Text style={styles.sectionTitle}>記憶模式</Text>
+              <Pressable style={styles.backButton} onPress={goBackToSetup}>
+                <Text style={styles.backButtonText}>返回設定</Text>
+              </Pressable>
+            </View>
+
+            <Text style={styles.meta}>
+              共 {memorizeOrder.length} 題，每頁 {memorizePageSize} 題
+            </Text>
+
+            {renderMemorizePager()}
 
             {currentMemorizeQuestions.length === 0 ? (
               <Text style={styles.meta}>此範圍沒有題目。</Text>
@@ -423,93 +649,20 @@ function App(): React.JSX.Element {
                 </View>
               ))
             )}
+
+            {renderMemorizePager()}
           </View>
         )}
 
-        {mode === MODES.QUIZ && !quizStarted && (
-          <View style={styles.card}>
-            <Text style={styles.sectionTitle}>出題設定</Text>
-            <Text style={styles.meta}>目前可用題數：{filteredQuestions.length}</Text>
-
-            <View style={styles.rowWrap}>
-              {(lockQuizCountSelection ? [effectiveQuizCount] : QUIZ_COUNTS).map(count => {
-                const active = Number(quizCountMode) === count;
-                return (
-                  <Pressable
-                    key={count}
-                    style={[styles.smallChip, active && styles.smallChipActive]}
-                    onPress={() => {
-                      setQuizCountMode(String(count));
-                      setQuizCount(count);
-                    }}
-                    disabled={lockQuizCountSelection}>
-                    <Text
-                      style={[
-                        styles.smallChipText,
-                        active && styles.smallChipTextActive,
-                      ]}>
-                      {count} 題
-                    </Text>
-                  </Pressable>
-                );
-              })}
-              {!lockQuizCountSelection && (
-                <Pressable
-                  style={[
-                    styles.smallChip,
-                    quizCountMode === 'custom' && styles.smallChipActive,
-                  ]}
-                  onPress={() => setQuizCountMode('custom')}>
-                  <Text
-                    style={[
-                      styles.smallChipText,
-                      quizCountMode === 'custom' && styles.smallChipTextActive,
-                    ]}>
-                    自訂
-                  </Text>
-                </Pressable>
-              )}
-            </View>
-
-            {!lockQuizCountSelection && quizCountMode === 'custom' && (
-              <TextInput
-                style={styles.input}
-                keyboardType="number-pad"
-                value={String(normalizedQuizCount)}
-                placeholder="輸入 1~100"
-                onChangeText={text => {
-                  const next = Number(text);
-                  if (!Number.isNaN(next)) {
-                    setQuizCount(next);
-                  }
-                }}
-                onBlur={() => setQuizCount(clampQuizCount(quizCount))}
-              />
-            )}
-
-            <Text style={styles.meta}>
-              實際出題：{effectiveQuizCount} 題
-              {maxQuizCount < normalizedQuizCount ? '（題庫不足已自動調整）' : ''}
-            </Text>
-            {lockQuizCountSelection && (
-              <Text style={styles.meta}>此分類題數少於 50 題，題目數鎖定為該分類全部。</Text>
-            )}
-            <Text style={styles.meta}>
-              分數規則：每題 {effectiveQuizCount ? (100 / effectiveQuizCount).toFixed(2) : '0.00'} 分
-            </Text>
-
-            <Pressable
-              style={[styles.primaryButton, !filteredQuestions.length && styles.buttonDisabled]}
-              onPress={startQuiz}
-              disabled={!filteredQuestions.length}>
-              <Text style={styles.primaryButtonText}>開始測驗</Text>
-            </Pressable>
-          </View>
-        )}
-
-        {mode === MODES.QUIZ && quizStarted && (
+        {session === 'quiz' && (
           <>
             <View style={styles.card}>
+              <View style={styles.topActions}>
+                <Text style={styles.sectionTitle}>出題模式</Text>
+                <Pressable style={styles.backButton} onPress={goBackToSetup}>
+                  <Text style={styles.backButtonText}>返回設定</Text>
+                </Pressable>
+              </View>
               <Text style={styles.meta}>
                 進度：
                 {quizFinished
@@ -518,9 +671,6 @@ function App(): React.JSX.Element {
               </Text>
               <Text style={styles.meta}>已作答：{quizAnsweredCount}</Text>
               <Text style={styles.meta}>用時：{formatSeconds(quizElapsedSec)}</Text>
-              <Pressable style={styles.secondaryButton} onPress={resetQuiz}>
-                <Text style={styles.secondaryButtonText}>重設測驗</Text>
-              </Pressable>
             </View>
 
             {!quizFinished && currentQuizQuestion && (
@@ -611,7 +761,7 @@ function App(): React.JSX.Element {
                   <Pressable style={styles.primaryButton} onPress={startQuiz}>
                     <Text style={styles.primaryButtonText}>同設定再考一次</Text>
                   </Pressable>
-                  <Pressable style={styles.secondaryButton} onPress={resetQuiz}>
+                  <Pressable style={styles.secondaryButton} onPress={goBackToSetup}>
                     <Text style={styles.secondaryButtonText}>回到設定</Text>
                   </Pressable>
                 </View>
@@ -624,6 +774,14 @@ function App(): React.JSX.Element {
   );
 }
 
+function App(): React.JSX.Element {
+  return (
+    <SafeAreaProvider>
+      <AppContent />
+    </SafeAreaProvider>
+  );
+}
+
 const styles = StyleSheet.create({
   safeArea: {
     flex: 1,
@@ -631,7 +789,7 @@ const styles = StyleSheet.create({
   },
   container: {
     paddingHorizontal: 16,
-    paddingVertical: 20,
+    paddingTop: 20,
     gap: 12,
   },
   title: {
@@ -651,6 +809,11 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: '700',
     color: '#111827',
+  },
+  label: {
+    fontSize: 14,
+    color: '#374151',
+    fontWeight: '700',
   },
   meta: {
     fontSize: 13,
@@ -734,9 +897,38 @@ const styles = StyleSheet.create({
     fontSize: 16,
     backgroundColor: '#ffffff',
   },
+  topActions: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    gap: 8,
+  },
+  backButton: {
+    borderRadius: 8,
+    paddingVertical: 7,
+    paddingHorizontal: 10,
+    backgroundColor: '#e5e7eb',
+  },
+  backButtonText: {
+    color: '#111827',
+    fontWeight: '700',
+    fontSize: 12,
+  },
   actionRow: {
     flexDirection: 'row',
     gap: 8,
+  },
+  pagerRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+  },
+  pagerText: {
+    width: 56,
+    textAlign: 'center',
+    fontSize: 13,
+    color: '#374151',
+    fontWeight: '700',
   },
   primaryButton: {
     flex: 1,
