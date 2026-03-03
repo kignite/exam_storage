@@ -9,6 +9,10 @@
     "dev:web": "npm run dev -w web",
     "build:web": "npm run build -w web",
     "start:web": "npm run start -w web",
-    "lint:web": "npm run lint -w web"
+    "lint:web": "npm run lint -w web",
+    "start:mobile": "npm run start -w mobile",
+    "android:mobile": "npm run android -w mobile",
+    "lint:mobile": "npm run lint -w mobile",
+    "build:apk:debug": "cd mobile/android && ./gradlew assembleDebug"
   }
 }

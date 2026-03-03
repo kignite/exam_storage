@@ -1,35 +1,39 @@
 # exam_question_storage (monorepo)
 
-這個 repo 已拆分為 monorepo，目標是同時維護 Web 與 Mobile 版本。
+這個 repo 採 monorepo，分開維護 Web 與 Mobile。
 
 ## 目錄結構
 
-- `web/`: Next.js 網頁版（原本專案已搬移到這裡）
-- `mobile/`: React Native App（後續新增，用於產出 APK）
+- `web/`: Next.js 網頁版（GitHub Pages）
+- `mobile/`: React Native Android/iOS App
 
-## Web 開發
+## Web（Next.js）
 
 ```bash
 npm run dev:web
+npm run build:web
 ```
 
-或進入 `web/` 後執行：
+## Mobile（React Native）
+
+啟動 Metro：
 
 ```bash
-npm install
-npm run dev
+npm run start:mobile
 ```
 
-## 下一步（Mobile）
-
-在 repo 根目錄建立 React Native 專案到 `mobile/`：
+啟動 Android（需模擬器或實機）：
 
 ```bash
-npx react-native init ExamQuestionStorageMobile --directory mobile
+npm run android:mobile
 ```
 
-之後可在 `mobile/android` 打包 APK：
+打包 Debug APK：
 
 ```bash
-./gradlew assembleDebug
+npm run build:apk:debug
 ```
+
+輸出位置：
+
+- `mobile/android/app/build/outputs/apk/debug/app-debug.apk`
