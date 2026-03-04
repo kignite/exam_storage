@@ -1,12 +1,18 @@
 # exam_question_storage
 
+[中文](#中文) | [English](#english)
+
+---
+
+## 中文
+
 美容丙級 / 共同科目題庫系統（Web + Android App）。
 
-## 線上網址
+### 線上網址
 
 - Web（GitHub Pages）：[https://kignite.github.io/exam_storage/](https://kignite.github.io/exam_storage/)
 
-## 專案功能
+### 專案功能
 
 - 題庫來源：PDF 轉 JSON，並補齊分類欄位
 - 科目切換：美容丙級、共同科目
@@ -16,13 +22,13 @@
 - 測驗結算：分數、正確率、錯題回顧、錯誤分類統計
 - 圖片題支援：JSON 題目可綁定選項圖片
 
-## Monorepo 結構
+### Monorepo 結構
 
 - `web/`：Next.js 前端（可部署 GitHub Pages）
 - `mobile/`：React Native Android App
 - `web/scripts/`：PDF 轉題庫 JSON / 清理與補題工具
 
-## 快速開始
+### 快速開始
 
 安裝依賴：
 
@@ -48,7 +54,7 @@ npm run start:mobile
 npm run android:mobile
 ```
 
-## 打包 APK
+### 打包 APK
 
 Debug APK：
 
@@ -68,17 +74,17 @@ cd mobile/android
 - Debug：`mobile/android/app/build/outputs/apk/debug/app-debug.apk`
 - Release：`mobile/android/app/build/outputs/apk/release/app-release.apk`
 
-## 題庫資料
+### 題庫資料
 
 - 主資料：`web/public/questions.json`
 - 共通科目圖片：`web/public/question-images/common/`
 
-## App 截圖
-
-將截圖放到 `docs/screenshots/` 後會直接顯示：
+### App 截圖
 
 ![設定畫面](docs/screenshots/app-settings.jpg)
 ![出題畫面](docs/screenshots/app-quiz.jpg)
+
+[回到頂部](#exam_question_storage)
 
 ---
 
@@ -86,11 +92,11 @@ cd mobile/android
 
 Exam bank system for Beauty Technician (Level C) + Common Subjects (Web + Android App).
 
-## Live URL
+### Live URL
 
 - Web (GitHub Pages): [https://kignite.github.io/exam_storage/](https://kignite.github.io/exam_storage/)
 
-## Features
+### Features
 
 - Question bank generated from PDFs and normalized into JSON
 - Subject switch: Beauty Technician Level C / Common Subjects
@@ -100,13 +106,13 @@ Exam bank system for Beauty Technician (Level C) + Common Subjects (Web + Androi
 - Quiz summary: score, accuracy, wrong-question review, wrong-category statistics
 - Image-question support via JSON option image mapping
 
-## Monorepo Structure
+### Monorepo Structure
 
 - `web/`: Next.js frontend (deployable to GitHub Pages)
 - `mobile/`: React Native Android app
 - `web/scripts/`: PDF-to-JSON parsing and data-fixing scripts
 
-## Quick Start
+### Quick Start
 
 Install dependencies:
 
@@ -132,7 +138,7 @@ Run Android (emulator/device required):
 npm run android:mobile
 ```
 
-## Build APK
+### Build APK
 
 Debug APK:
 
@@ -152,14 +158,14 @@ Outputs:
 - Debug: `mobile/android/app/build/outputs/apk/debug/app-debug.apk`
 - Release: `mobile/android/app/build/outputs/apk/release/app-release.apk`
 
-## Question Data
+### Question Data
 
 - Main dataset: `web/public/questions.json`
 - Common-subject image assets: `web/public/question-images/common/`
 
-## App Screenshots
-
-Put screenshots under `docs/screenshots/` and they will render here:
+### App Screenshots
 
 ![Settings Screen](docs/screenshots/app-settings.jpg)
 ![Quiz Screen](docs/screenshots/app-quiz.jpg)
+
+[Back to top](#exam_question_storage)
